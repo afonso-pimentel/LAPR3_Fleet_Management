@@ -1,0 +1,252 @@
+﻿Capital Node,Mexico City,Capital Node,Washington,3030.9429
+Capital Node,Mexico City,Capital Node,Guatemala City,1060.8488
+Capital Node,Mexico City,Capital Node,Belmopan,1120.538
+Capital Node,Mexico City,Port Node,Veracruz,315.86868
+Capital Node,Ottawa,Capital Node,Washington,733.4523
+Capital Node,Ottawa,Port Node,New Jersey,542.64624
+Capital Node,Washington,Capital Node,Mexico City,3030.9429
+Capital Node,Washington,Capital Node,Ottawa,733.4523
+Capital Node,Washington,Port Node,New Jersey,314.51492
+Capital Node,Panama City,Capital Node,San Jose,510.50565
+Capital Node,Panama City,Capital Node,Bogota,773.1108
+Capital Node,Panama City,Port Node,Balboa,3.6611452
+Capital Node,San Jose,Capital Node,Panama City,510.50565
+Capital Node,San Jose,Capital Node,Managua,340.22476
+Capital Node,San Jose,Port Node,Puerto Limon,117.052765
+Capital Node,Managua,Capital Node,San Jose,340.22476
+Capital Node,Managua,Capital Node,Tegucigalpa,242.44574
+Capital Node,San Salvador,Capital Node,Tegucigalpa,218.64871
+Capital Node,San Salvador,Capital Node,Guatemala City,174.76141
+Capital Node,San Salvador,Port Node,Cutuco,155.01625
+Capital Node,Tegucigalpa,Capital Node,Managua,242.44574
+Capital Node,Tegucigalpa,Capital Node,San Salvador,218.64871
+Capital Node,Tegucigalpa,Port Node,Cutuco,107.08998
+Capital Node,Guatemala City,Capital Node,Mexico City,1060.8488
+Capital Node,Guatemala City,Capital Node,San Salvador,174.76141
+Capital Node,Guatemala City,Port Node,Puerto Quetzal,82.97177
+Capital Node,Belmopan,Capital Node,Mexico City,1120.538
+Capital Node,Belmopan,Port Node,Veracruz,807.5943
+Capital Node,Montevideo,Capital Node,Buenos Aires,230.40915
+Capital Node,Montevideo,Capital Node,Brasilia,2274.1318
+Capital Node,Montevideo,Port Node,Montevideo,7.19157
+Capital Node,Buenos Aires,Capital Node,Montevideo,230.40915
+Capital Node,Buenos Aires,Capital Node,Santiago,1112.4834
+Capital Node,Buenos Aires,Capital Node,Asuncion,1040.4191
+Capital Node,Buenos Aires,Capital Node,La Paz,2221.5652
+Capital Node,Buenos Aires,Capital Node,Brasilia,2349.8936
+Capital Node,Buenos Aires,Port Node,Buenos Aires,26.006962
+Capital Node,Santiago,Capital Node,Buenos Aires,1112.4834
+Capital Node,Santiago,Capital Node,La Paz,1901.5437
+Capital Node,Santiago,Capital Node,Lima,2466.3958
+Capital Node,Santiago,Port Node,Valparaiso,102.00542
+Capital Node,Asuncion,Capital Node,Buenos Aires,1040.4191
+Capital Node,Asuncion,Capital Node,La Paz,1460.3687
+Capital Node,Asuncion,Capital Node,Brasilia,1462.6013
+Capital Node,La Paz,Capital Node,Buenos Aires,2221.5652
+Capital Node,La Paz,Capital Node,Santiago,1901.5437
+Capital Node,La Paz,Capital Node,Asuncion,1460.3687
+Capital Node,La Paz,Capital Node,Brasilia,2161.7227
+Capital Node,La Paz,Capital Node,Lima,1078.8932
+Capital Node,La Paz,Port Node,Matarani,424.2344
+Capital Node,Brasilia,Capital Node,Montevideo,2274.1318
+Capital Node,Brasilia,Capital Node,Buenos Aires,2349.8936
+Capital Node,Brasilia,Capital Node,Asuncion,1462.6013
+Capital Node,Brasilia,Capital Node,La Paz,2161.7227
+Capital Node,Brasilia,Capital Node,Lima,3169.026
+Capital Node,Brasilia,Capital Node,Bogota,3664.6396
+Capital Node,Brasilia,Capital Node,Paramaribo,2532.737
+Capital Node,Brasilia,Capital Node,Georgetown,2752.3994
+Capital Node,Brasilia,Capital Node,Caracas,3589.2285
+Capital Node,Brasilia,Port Node,Santos,921.52185
+Capital Node,Lima,Capital Node,Santiago,2466.3958
+Capital Node,Lima,Capital Node,La Paz,1078.8932
+Capital Node,Lima,Capital Node,Brasilia,3169.026
+Capital Node,Lima,Capital Node,Quito,1325.5006
+Capital Node,Lima,Capital Node,Bogota,1880.2266
+Capital Node,Lima,Port Node,Callao,12.686289
+Capital Node,Quito,Capital Node,Lima,1325.5006
+Capital Node,Quito,Capital Node,Bogota,726.3262
+Capital Node,Quito,Port Node,Esmeraldas,184.88509
+Capital Node,Bogota,Capital Node,Panama City,773.1108
+Capital Node,Bogota,Capital Node,Brasilia,3664.6396
+Capital Node,Bogota,Capital Node,Lima,1880.2266
+Capital Node,Bogota,Capital Node,Quito,726.3262
+Capital Node,Bogota,Capital Node,Caracas,1029.669
+Capital Node,Bogota,Port Node,Buenaventura,337.62662
+Capital Node,Paramaribo,Capital Node,Brasilia,2532.737
+Capital Node,Georgetown,Capital Node,Brasilia,2752.3994
+Capital Node,Caracas,Capital Node,Brasilia,3589.2285
+Capital Node,Caracas,Capital Node,Bogota,1029.669
+Port Node,Matarani,Capital Node,La Paz,424.2344
+Port Node,Matarani,Port Node,Esmeraldas,1326.0
+Port Node,Matarani,Port Node,San Vicente,1186.0
+Port Node,Matarani,Port Node,Valparaiso,965.0
+Port Node,Matarani,Port Node,Guayaquil,1146.0
+Port Node,Matarani,Port Node,Callao,442.0
+Port Node,Bahia Blanca,Port Node,Montevideo,460.0
+Port Node,Bahia Blanca,Port Node,Rio Grande,710.0
+Port Node,Bahia Blanca,Port Node,Salvador,2126.0
+Port Node,Bahia Blanca,Port Node,Buenos Aires,557.0
+Port Node,Bahia Blanca,Port Node,Santos,1280.0
+Port Node,Bahia Blanca,Port Node,San Vicente,2174.0
+Port Node,Esmeraldas,Capital Node,Quito,184.88509
+Port Node,Esmeraldas,Port Node,Matarani,1326.0
+Port Node,Esmeraldas,Port Node,Cutuco,898.0
+Port Node,Esmeraldas,Port Node,Valparaiso,2175.0
+Port Node,Esmeraldas,Port Node,Buenaventura,235.0
+Port Node,Esmeraldas,Port Node,Puerto Limon,711.0
+Port Node,Esmeraldas,Port Node,Guayaquil,394.0
+Port Node,Esmeraldas,Port Node,Callao,899.0
+Port Node,Esmeraldas,Port Node,Cristobal,519.0
+Port Node,Esmeraldas,Port Node,Balboa,480.0
+Port Node,Manzanillo,Port Node,Los Angeles,1206.0
+Port Node,Manzanillo,Port Node,Cutuco,1055.0
+Port Node,Manzanillo,Port Node,Veracruz,3174.0
+Port Node,Manzanillo,Port Node,Vancouver,2328.0
+Port Node,Manzanillo,Port Node,Puerto Quetzal,854.0
+Port Node,Manzanillo,Port Node,Cristobal,1764.0
+Port Node,Manzanillo,Port Node,Balboa,1725.0
+Port Node,Los Angeles,Port Node,Manzanillo,1206.0
+Port Node,Los Angeles,Port Node,Cutuco,2245.0
+Port Node,Los Angeles,Port Node,New Jersey,4930.0
+Port Node,Los Angeles,Port Node,Vancouver,1162.0
+Port Node,Los Angeles,Port Node,Puerto Quetzal,2047.0
+Port Node,Los Angeles,Port Node,Balboa,2912.0
+Port Node,Cutuco,Capital Node,San Salvador,155.01625
+Port Node,Cutuco,Capital Node,Tegucigalpa,107.08998
+Port Node,Cutuco,Port Node,Esmeraldas,898.0
+Port Node,Cutuco,Port Node,Manzanillo,1055.0
+Port Node,Cutuco,Port Node,Los Angeles,2245.0
+Port Node,Cutuco,Port Node,Vancouver,3354.0
+Port Node,Cutuco,Port Node,Buenaventura,879.0
+Port Node,Cutuco,Port Node,Puerto Quetzal,202.0
+Port Node,Cutuco,Port Node,Cristobal,780.0
+Port Node,Cutuco,Port Node,Balboa,741.0
+Port Node,Montevideo,Capital Node,Montevideo,7.19157
+Port Node,Montevideo,Port Node,Bahia Blanca,460.0
+Port Node,Montevideo,Port Node,Rio Grande,332.0
+Port Node,Montevideo,Port Node,Salvador,1751.0
+Port Node,Montevideo,Port Node,Buenos Aires,129.0
+Port Node,Montevideo,Port Node,Santos,901.0
+Port Node,Rio Grande,Port Node,Bahia Blanca,710.0
+Port Node,Rio Grande,Port Node,Montevideo,332.0
+Port Node,Rio Grande,Port Node,Salvador,1458.0
+Port Node,Rio Grande,Port Node,Buenos Aires,429.0
+Port Node,Rio Grande,Port Node,Santos,608.0
+Port Node,Salvador,Port Node,Bahia Blanca,2126.0
+Port Node,Salvador,Port Node,Montevideo,1751.0
+Port Node,Salvador,Port Node,Rio Grande,1458.0
+Port Node,Salvador,Port Node,Buenos Aires,1848.0
+Port Node,Salvador,Port Node,Santos,936.0
+Port Node,Veracruz,Capital Node,Mexico City,315.86868
+Port Node,Veracruz,Capital Node,Belmopan,807.5943
+Port Node,Veracruz,Port Node,Manzanillo,3174.0
+Port Node,Veracruz,Port Node,Cartagena,1506.0
+Port Node,Veracruz,Port Node,Puerto Limon,1363.0
+Port Node,Veracruz,Port Node,Cristobal,1410.0
+Port Node,Veracruz,Port Node,Balboa,1449.0
+Port Node,Halifax,Port Node,New Jersey,600.0
+Port Node,Halifax,Port Node,Vancouver,6358.0
+Port Node,New Jersey,Capital Node,Ottawa,542.64624
+Port Node,New Jersey,Capital Node,Washington,314.51492
+Port Node,New Jersey,Port Node,Los Angeles,4930.0
+Port Node,New Jersey,Port Node,Halifax,600.0
+Port Node,New Jersey,Port Node,Cartagena,1857.0
+Port Node,Vancouver,Port Node,Manzanillo,2328.0
+Port Node,Vancouver,Port Node,Los Angeles,1162.0
+Port Node,Vancouver,Port Node,Cutuco,3354.0
+Port Node,Vancouver,Port Node,Halifax,6358.0
+Port Node,Vancouver,Port Node,Puerto Quetzal,3156.0
+Port Node,Vancouver,Port Node,Balboa,4021.0
+Port Node,Buenos Aires,Capital Node,Buenos Aires,26.006962
+Port Node,Buenos Aires,Port Node,Bahia Blanca,557.0
+Port Node,Buenos Aires,Port Node,Montevideo,129.0
+Port Node,Buenos Aires,Port Node,Rio Grande,429.0
+Port Node,Buenos Aires,Port Node,Salvador,1848.0
+Port Node,Buenos Aires,Port Node,Santos,998.0
+Port Node,Santos,Capital Node,Brasilia,921.52185
+Port Node,Santos,Port Node,Bahia Blanca,1280.0
+Port Node,Santos,Port Node,Montevideo,901.0
+Port Node,Santos,Port Node,Rio Grande,608.0
+Port Node,Santos,Port Node,Salvador,936.0
+Port Node,Santos,Port Node,Buenos Aires,998.0
+Port Node,San Vicente,Port Node,Matarani,1186.0
+Port Node,San Vicente,Port Node,Bahia Blanca,2174.0
+Port Node,San Vicente,Port Node,Valparaiso,236.0
+Port Node,San Vicente,Port Node,Guayaquil,2172.0
+Port Node,San Vicente,Port Node,Callao,1498.0
+Port Node,Valparaiso,Capital Node,Santiago,102.00542
+Port Node,Valparaiso,Port Node,Matarani,965.0
+Port Node,Valparaiso,Port Node,Esmeraldas,2175.0
+Port Node,Valparaiso,Port Node,San Vicente,236.0
+Port Node,Valparaiso,Port Node,Guayaquil,1984.0
+Port Node,Valparaiso,Port Node,Callao,1299.0
+Port Node,Buenaventura,Capital Node,Bogota,337.62662
+Port Node,Buenaventura,Port Node,Esmeraldas,235.0
+Port Node,Buenaventura,Port Node,Cutuco,879.0
+Port Node,Buenaventura,Port Node,Cartagena,669.0
+Port Node,Buenaventura,Port Node,Puerto Limon,585.0
+Port Node,Buenaventura,Port Node,Guayaquil,621.0
+Port Node,Buenaventura,Port Node,Puerto Quetzal,1022.0
+Port Node,Buenaventura,Port Node,Callao,1124.0
+Port Node,Buenaventura,Port Node,Cristobal,393.0
+Port Node,Buenaventura,Port Node,Balboa,354.0
+Port Node,Cartagena,Port Node,Veracruz,1506.0
+Port Node,Cartagena,Port Node,New Jersey,1857.0
+Port Node,Cartagena,Port Node,Buenaventura,669.0
+Port Node,Cartagena,Port Node,Puerto Limon,452.0
+Port Node,Cartagena,Port Node,Cristobal,276.0
+Port Node,Cartagena,Port Node,Balboa,315.0
+Port Node,Puerto Limon,Capital Node,San Jose,117.052765
+Port Node,Puerto Limon,Port Node,Esmeraldas,711.0
+Port Node,Puerto Limon,Port Node,Veracruz,1363.0
+Port Node,Puerto Limon,Port Node,Buenaventura,585.0
+Port Node,Puerto Limon,Port Node,Cartagena,452.0
+Port Node,Puerto Limon,Port Node,Cristobal,192.0
+Port Node,Puerto Limon,Port Node,Balboa,231.0
+Port Node,Guayaquil,Port Node,Matarani,1146.0
+Port Node,Guayaquil,Port Node,Esmeraldas,394.0
+Port Node,Guayaquil,Port Node,San Vicente,2172.0
+Port Node,Guayaquil,Port Node,Valparaiso,1984.0
+Port Node,Guayaquil,Port Node,Buenaventura,621.0
+Port Node,Guayaquil,Port Node,Callao,706.0
+Port Node,Guayaquil,Port Node,Cristobal,876.0
+Port Node,Guayaquil,Port Node,Balboa,837.0
+Port Node,Puerto Quetzal,Capital Node,Guatemala City,82.97177
+Port Node,Puerto Quetzal,Port Node,Manzanillo,854.0
+Port Node,Puerto Quetzal,Port Node,Los Angeles,2047.0
+Port Node,Puerto Quetzal,Port Node,Cutuco,202.0
+Port Node,Puerto Quetzal,Port Node,Vancouver,3156.0
+Port Node,Puerto Quetzal,Port Node,Buenaventura,1022.0
+Port Node,Puerto Quetzal,Port Node,Cristobal,928.0
+Port Node,Puerto Quetzal,Port Node,Balboa,889.0
+Port Node,Callao,Capital Node,Lima,12.686289
+Port Node,Callao,Port Node,Matarani,442.0
+Port Node,Callao,Port Node,Esmeraldas,899.0
+Port Node,Callao,Port Node,San Vicente,1498.0
+Port Node,Callao,Port Node,Valparaiso,1299.0
+Port Node,Callao,Port Node,Buenaventura,1124.0
+Port Node,Callao,Port Node,Guayaquil,706.0
+Port Node,Cristobal,Port Node,Esmeraldas,519.0
+Port Node,Cristobal,Port Node,Manzanillo,1764.0
+Port Node,Cristobal,Port Node,Cutuco,780.0
+Port Node,Cristobal,Port Node,Veracruz,1410.0
+Port Node,Cristobal,Port Node,Buenaventura,393.0
+Port Node,Cristobal,Port Node,Cartagena,276.0
+Port Node,Cristobal,Port Node,Puerto Limon,192.0
+Port Node,Cristobal,Port Node,Guayaquil,876.0
+Port Node,Cristobal,Port Node,Puerto Quetzal,928.0
+Port Node,Cristobal,Port Node,Balboa,39.0
+Port Node,Balboa,Capital Node,Panama City,3.6611452
+Port Node,Balboa,Port Node,Esmeraldas,480.0
+Port Node,Balboa,Port Node,Manzanillo,1725.0
+Port Node,Balboa,Port Node,Los Angeles,2912.0
+Port Node,Balboa,Port Node,Cutuco,741.0
+Port Node,Balboa,Port Node,Veracruz,1449.0
+Port Node,Balboa,Port Node,Vancouver,4021.0
+Port Node,Balboa,Port Node,Buenaventura,354.0
+Port Node,Balboa,Port Node,Cartagena,315.0
+Port Node,Balboa,Port Node,Puerto Limon,231.0
+Port Node,Balboa,Port Node,Guayaquil,837.0
+Port Node,Balboa,Port Node,Puerto Quetzal,889.0
+Port Node,Balboa,Port Node,Cristobal,39.0

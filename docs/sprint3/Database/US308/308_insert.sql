@@ -1,0 +1,52 @@
+
+
+--     first 5 out of 5, full capacity from A to B (15/01/2022-20/01/2022)
+--     second 3 out of 5, from B to C (20/01/2022-29/01/2022)
+--     third 5 out of 5, full capacity from C to A (22/01/2022-29/01/2022)
+
+
+declare
+
+    vDateStart DATE  := TO_DATE('16/01/2022', 'dd/MM/yyyy');
+    vDateEnd DATE  := TO_DATE('17/01/2022', 'dd/MM/yyyy');
+
+
+    vShipTransportID         SHIP.IDTRANSPORT%TYPE;
+    vCargositeIDA            CARGOSITE.ID%TYPE;
+    vCargositeIDB            CARGOSITE.ID%TYPE;
+    vCargoManifestID         CARGOMANIFEST.ID%TYPE;
+    vContainerIDA            CONTAINER.ID%TYPE;
+    vContainerIDB            CONTAINER.ID%TYPE;
+    vLoadCargoManifestTypeID number;
+BEGIN
+    SELECT CARGOMANIFESTTYPE.ID
+    INTO vLoadCargoManifestTypeID
+    FROM CARGOMANIFESTTYPE
+    WHERE CARGOMANIFESTTYPE.DESCRIPTION = 'Load';
+    SELECT SHIP.IDTRANSPORT INTO vShipTransportID FROM SHIP WHERE SHIP.NAME = 'US308_Ship';
+    SELECT CARGOSITE.ID INTO vCargositeIDA FROM CARGOSITE WHERE CARGOSITE.NAME = 'US308_Port_A';
+    SELECT CARGOSITE.ID INTO vCargositeIDB FROM CARGOSITE WHERE CARGOSITE.NAME = 'US308_Port_B';
+    SELECT CONTAINER.ID INTO vContainerIDA FROM CONTAINER WHERE CONTAINER.IDENTIFICATIONNUMBER = 'US308_CONTA';
+    SELECT CONTAINER.ID INTO vContainerIDB FROM CONTAINER WHERE CONTAINER.IDENTIFICATIONNUMBER = 'US308_CONTB';
+
+
+
+
+
+    insert into CARGOMANIFEST (IDTRANSPORT, IDCARGOSITEORIGIN, IDCARGOSITEDESTINATION, IDCARGOMANIFESTTYPE, DATESTART,
+                               DATEFINISH, DATESTARTESTIMATED, DATEFINISHESTIMATED)
+    values (vShipTransportID, vCargositeIDA, vCargositeIDB, vLoadCargoManifestTypeID, NULL, NULL,
+            vDateStart, vDateEnd)
+    returning CARGOMANIFEST.ID into vCargoManifestID;
+
+    insert into CARGOMANIFESTLINE (IDCONTAINER, IDCARGOMANIFEST, GROSSWEIGHT, XPOSITION, YPOSITION, ZPOSITION)
+    values (vContainerIDA, vCargoManifestID, 10000, 1, 1, 1);
+    insert into CARGOMANIFESTLINE (IDCONTAINER, IDCARGOMANIFEST, GROSSWEIGHT, XPOSITION, YPOSITION, ZPOSITION)
+    values (vContainerIDB, vCargoManifestID, 10000, 1, 1, 2);
+
+-- EXCEPTION
+--     WHEN OTHERS THEN
+--         DBMS_OUTPUT.PUT_LINE('FAIL ==> ' || SQLERRM);
+--
+--         ROLLBACK;
+END;

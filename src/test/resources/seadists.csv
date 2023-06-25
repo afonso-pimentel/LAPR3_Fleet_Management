@@ -1,0 +1,3396 @@
+from_country,from_port_id,from_port,to_country,to_port_id,to_port,sea_distance
+Denmark,10358,Aarhus,Turkey,246265,Ambarli,3673
+Denmark,10358,Aarhus,Greece,21863,Aspropyrgos,3377
+Denmark,10358,Aarhus,Panama,216593,Balboa,5159
+Denmark,10358,Aarhus,Spain,17386,Barcelona,2403
+Denmark,10358,Aarhus,Georgia,18137,Batumi,4274
+Denmark,10358,Aarhus,Norway,26147,Bergen,433
+Denmark,10358,Aarhus,Tunisia,23448,Bizerte,2631
+Denmark,10358,Aarhus,France,18012,Brest,1004
+Denmark,10358,Aarhus,Peru,30045,Callao,6499
+Denmark,10358,Aarhus,Romania,14459,Constantza,3884
+Denmark,10358,Aarhus,Denmark,10563,Copenhagen,113
+Denmark,10358,Aarhus,Panama,216592,Cristobal,5120
+Denmark,10358,Aarhus,El Salvador,15107,Cutuco,5900
+Denmark,10358,Aarhus,Ireland,29749,Dublin,996
+Denmark,10358,Aarhus,France,18326,Dunkirk,668
+Denmark,10358,Aarhus,Ecuador,14226,Esmeraldas,5639
+Denmark,10358,Aarhus,Ukraine,213737,Feodosia,4079
+Denmark,10358,Aarhus,Portugal,23428,Funchal,2058
+Denmark,10358,Aarhus,Tunisia,23495,Gabes,2923
+Denmark,10358,Aarhus,Romania,14470,Galatz,4008
+Denmark,10358,Aarhus,Poland,12543,Gdansk,379
+Denmark,10358,Aarhus,Italy,11174,Genoa,2735
+Denmark,10358,Aarhus,Puerto Rico,13610,Guanica,4312
+Denmark,10358,Aarhus,Ecuador,29876,Guayaquil,5996
+Denmark,10358,Aarhus,Germany,224858,Hamburg,223
+Denmark,10358,Aarhus,Finland,16485,Helsinki,663
+Denmark,10358,Aarhus,Slovenia,24795,Izola,3532
+Denmark,10358,Aarhus,Russia,11771,Kaliningrad,410
+Denmark,10358,Aarhus,Slovenia,21381,Koper,3532
+Denmark,10358,Aarhus,Finland,16737,Kotka,716
+Denmark,10358,Aarhus,Portugal,13012,Leixoes,1457
+Denmark,10358,Aarhus,United Kingdom,29002,Liverpool,1026
+Denmark,10358,Aarhus,United Kingdom,29239,London,681
+Denmark,10358,Aarhus,United States of America,14635,Los Angeles,8071
+Denmark,10358,Aarhus,Sweden,20512,Lysekil,183
+Denmark,10358,Aarhus,Mexico,14277,Manzanillo,6884
+Denmark,10358,Aarhus,Venezuela,19974,Maracaibo,4781
+Denmark,10358,Aarhus,Peru,10860,Matarani,6934
+Denmark,10358,Aarhus,Turkey,22522,Mersin,3849
+Denmark,10358,Aarhus,Monaco,21457,Monaco,2657
+Denmark,10358,Aarhus,Uruguay,17941,Montevideo,6771
+Denmark,10358,Aarhus,Norway,27728,Narvik,1035
+Denmark,10358,Aarhus,United States of America,25007,New Jersey,3658
+Denmark,10358,Aarhus,Greece,21852,Piraeus,3369
+Denmark,10358,Aarhus,Slovenia,22770,Piran,3532
+Denmark,10358,Aarhus,Georgia,18682,Poti,4291
+Denmark,10358,Aarhus,Guatemala,29973,Puerto Quetzal,6048
+Denmark,10358,Aarhus,Germany,20072,Rostock,158
+Denmark,10358,Aarhus,Portugal,13390,Setubal,1639
+Denmark,10358,Aarhus,Russia,18454,St Petersburg,805
+Denmark,10358,Aarhus,Sweden,21206,Stockholm,536
+Denmark,10358,Aarhus,Estonia,18867,Tallinn,640
+Denmark,10358,Aarhus,Spain,18937,Valencia,2275
+Denmark,10358,Aarhus,Italy,13176,Venice,3552
+Denmark,10358,Aarhus,Mexico,21451,Veracruz,5345
+Denmark,10358,Aarhus,Netherlands,23247,Vlissingen,630
+Algeria,13523,Algiers,Denmark,10358,Aarhus,2300
+Algeria,13523,Algiers,Turkey,246265,Ambarli,1369
+Algeria,13523,Algiers,Belgium,19057,Antwerp,1778
+Algeria,13523,Algiers,Greece,21863,Aspropyrgos,1079
+Algeria,13523,Algiers,Argentina,14113,Bahia Blanca,5979
+Algeria,13523,Algiers,Panama,216593,Balboa,4776
+Algeria,13523,Algiers,Spain,17386,Barcelona,279
+Algeria,13523,Algiers,Georgia,18137,Batumi,1970
+Algeria,13523,Algiers,Norway,26147,Bergen,2224
+Algeria,13523,Algiers,Tunisia,23448,Bizerte,333
+Algeria,13523,Algiers,Bulgaria,20826,Bourgas,1510
+Algeria,13523,Algiers,France,18012,Brest,1354
+Algeria,13523,Algiers,Colombia,28261,Buenaventura,5130
+Algeria,13523,Algiers,Argentina,26670,Buenos Aires,5701
+Algeria,13523,Algiers,Peru,30045,Callao,6116
+Algeria,13523,Algiers,Colombia,28313,Cartagena,4511
+Algeria,13523,Algiers,Romania,14459,Constantza,1580
+Algeria,13523,Algiers,Denmark,10563,Copenhagen,2324
+Algeria,13523,Algiers,Panama,216592,Cristobal,4737
+Algeria,13523,Algiers,El Salvador,15107,Cutuco,5517
+Algeria,13523,Algiers,Ireland,29749,Dublin,1608
+Algeria,13523,Algiers,France,18326,Dunkirk,1674
+Algeria,13523,Algiers,Ecuador,14226,Esmeraldas,5256
+Algeria,13523,Algiers,Ukraine,213737,Feodosia,1775
+Algeria,13523,Algiers,Portugal,23428,Funchal,1020
+Algeria,13523,Algiers,Tunisia,23495,Gabes,625
+Algeria,13523,Algiers,Romania,14470,Galatz,1704
+Algeria,13523,Algiers,Poland,12543,Gdansk,2590
+Algeria,13523,Algiers,Italy,11174,Genoa,528
+Algeria,13523,Algiers,Ecuador,29876,Guayaquil,5613
+Algeria,13523,Algiers,Canada,22226,Halifax,3126
+Algeria,13523,Algiers,Germany,224858,Hamburg,2026
+Algeria,13523,Algiers,Finland,16485,Helsinki,2874
+Algeria,13523,Algiers,Portugal,18433,Horta,1536
+Algeria,13523,Algiers,Slovenia,24795,Izola,1236
+Algeria,13523,Algiers,Russia,11771,Kaliningrad,2625
+Algeria,13523,Algiers,Slovenia,21381,Koper,1236
+Algeria,13523,Algiers,Finland,16737,Kotka,2929
+Algeria,13523,Algiers,Cyprus,10136,Larnaca,1511
+Algeria,13523,Algiers,Portugal,13012,Leixoes,866
+Algeria,13523,Algiers,United Kingdom,29002,Liverpool,1678
+Algeria,13523,Algiers,United Kingdom,29239,London,1732
+Algeria,13523,Algiers,United States of America,14635,Los Angeles,7688
+Algeria,13523,Algiers,Sweden,20512,Lysekil,2208
+Algeria,13523,Algiers,Mexico,14277,Manzanillo,6501
+Algeria,13523,Algiers,Venezuela,19974,Maracaibo,4297
+Algeria,13523,Algiers,Peru,10860,Matarani,6551
+Algeria,13523,Algiers,Turkey,22522,Mersin,1551
+Algeria,13523,Algiers,Monaco,21457,Monaco,459
+Algeria,13523,Algiers,Uruguay,17941,Montevideo,5604
+Algeria,13523,Algiers,Norway,27728,Narvik,2820
+Algeria,13523,Algiers,United States of America,25007,New Jersey,3625
+Algeria,13523,Algiers,Greece,21852,Piraeus,1071
+Algeria,13523,Algiers,Slovenia,22770,Piran,1236
+Algeria,13523,Algiers,Portugal,18476,Ponta Delgada,1394
+Algeria,13523,Algiers,Georgia,18682,Poti,1987
+Algeria,13523,Algiers,Costa Rica,28781,Puerto Limon,4870
+Algeria,13523,Algiers,Guatemala,29973,Puerto Quetzal,5665
+Algeria,13523,Algiers,Croatia,24951,Rijeka,1200
+Algeria,13523,Algiers,Brazil,20301,Rio Grande,5310
+Algeria,13523,Algiers,Germany,20072,Rostock,2433
+Algeria,13523,Algiers,Brazil,20351,Salvador,3924
+Algeria,13523,Algiers,Chile,27792,San Vicente,7578
+Algeria,13523,Algiers,Brazil,27248,Santos,4789
+Algeria,13523,Algiers,Portugal,13390,Setubal,696
+Algeria,13523,Algiers,Algeria,15990,Skikda,191
+Algeria,13523,Algiers,Croatia,21556,Split,1080
+Algeria,13523,Algiers,Russia,18454,St Petersburg,3015
+Algeria,13523,Algiers,Sweden,21206,Stockholm,2746
+Algeria,13523,Algiers,Estonia,18867,Tallinn,2853
+Algeria,13523,Algiers,Spain,18937,Valencia,226
+Algeria,13523,Algiers,Chile,28082,Valparaiso,7391
+Algeria,13523,Algiers,Canada,25350,Vancouver,8797
+Algeria,13523,Algiers,Bulgaria,20847,Varna,1533
+Algeria,13523,Algiers,Italy,13176,Venice,1256
+Algeria,13523,Algiers,Mexico,21451,Veracruz,5231
+Algeria,13523,Algiers,Netherlands,23247,Vlissingen,1728
+Algeria,13523,Algiers,Belgium,19473,Zeebrugge,1707
+Turkey,246265,Ambarli,Ukraine,213737,Feodosia,406
+Turkey,246265,Ambarli,United Kingdom,29002,Liverpool,3051
+Turkey,246265,Ambarli,United Kingdom,29239,London,3105
+Turkey,246265,Ambarli,United States of America,14635,Los Angeles,9061
+Turkey,246265,Ambarli,Venezuela,19974,Maracaibo,5670
+Turkey,246265,Ambarli,Turkey,22522,Mersin,735
+Turkey,246265,Ambarli,Uruguay,17941,Montevideo,6977
+Turkey,246265,Ambarli,United States of America,25007,New Jersey,4998
+Belgium,19057,Antwerp,Denmark,10358,Aarhus,680
+Belgium,19057,Antwerp,Turkey,246265,Ambarli,3151
+Belgium,19057,Antwerp,Greece,21863,Aspropyrgos,2855
+Belgium,19057,Antwerp,Panama,216593,Balboa,4845
+Belgium,19057,Antwerp,Spain,17386,Barcelona,1881
+Belgium,19057,Antwerp,Georgia,18137,Batumi,3752
+Belgium,19057,Antwerp,Norway,26147,Bergen,635
+Belgium,19057,Antwerp,Tunisia,23448,Bizerte,2109
+Belgium,19057,Antwerp,Bulgaria,20826,Bourgas,3292
+Belgium,19057,Antwerp,France,18012,Brest,482
+Belgium,19057,Antwerp,Colombia,28261,Buenaventura,5199
+Belgium,19057,Antwerp,Peru,30045,Callao,6185
+Belgium,19057,Antwerp,Colombia,28313,Cartagena,4591
+Belgium,19057,Antwerp,Romania,14459,Constantza,3362
+Belgium,19057,Antwerp,Denmark,10563,Copenhagen,704
+Belgium,19057,Antwerp,Panama,216592,Cristobal,4806
+Belgium,19057,Antwerp,El Salvador,15107,Cutuco,5586
+Belgium,19057,Antwerp,Ireland,29749,Dublin,633
+Belgium,19057,Antwerp,France,18326,Dunkirk,146
+Belgium,19057,Antwerp,Ecuador,14226,Esmeraldas,5325
+Belgium,19057,Antwerp,Ukraine,213737,Feodosia,3557
+Belgium,19057,Antwerp,Portugal,23428,Funchal,1536
+Belgium,19057,Antwerp,Tunisia,23495,Gabes,2401
+Belgium,19057,Antwerp,Romania,14470,Galatz,3486
+Belgium,19057,Antwerp,Poland,12543,Gdansk,970
+Belgium,19057,Antwerp,Italy,11174,Genoa,2213
+Belgium,19057,Antwerp,Ecuador,29876,Guayaquil,5682
+Belgium,19057,Antwerp,Canada,22226,Halifax,2787
+Belgium,19057,Antwerp,Germany,224858,Hamburg,405
+Belgium,19057,Antwerp,Finland,16485,Helsinki,1254
+Belgium,19057,Antwerp,Slovenia,24795,Izola,3010
+Belgium,19057,Antwerp,Russia,11771,Kaliningrad,1005
+Belgium,19057,Antwerp,Slovenia,21381,Koper,3010
+Belgium,19057,Antwerp,Finland,16737,Kotka,1309
+Belgium,19057,Antwerp,Cyprus,10136,Larnaca,3287
+Belgium,19057,Antwerp,Portugal,13012,Leixoes,935
+Belgium,19057,Antwerp,United Kingdom,29002,Liverpool,698
+Belgium,19057,Antwerp,United Kingdom,29239,London,196
+Belgium,19057,Antwerp,United States of America,14635,Los Angeles,7757
+Belgium,19057,Antwerp,Sweden,20512,Lysekil,588
+Belgium,19057,Antwerp,Mexico,14277,Manzanillo,6570
+Belgium,19057,Antwerp,Venezuela,19974,Maracaibo,4426
+Belgium,19057,Antwerp,Peru,10860,Matarani,6620
+Belgium,19057,Antwerp,Turkey,22522,Mersin,3327
+Belgium,19057,Antwerp,Monaco,21457,Monaco,2135
+Belgium,19057,Antwerp,Uruguay,17941,Montevideo,6249
+Belgium,19057,Antwerp,Norway,27728,Narvik,1230
+Belgium,19057,Antwerp,United States of America,25007,New Jersey,3395
+Belgium,19057,Antwerp,Greece,21852,Piraeus,2847
+Belgium,19057,Antwerp,Slovenia,22770,Piran,3010
+Belgium,19057,Antwerp,Georgia,18682,Poti,3769
+Belgium,19057,Antwerp,Costa Rica,28781,Puerto Limon,4890
+Belgium,19057,Antwerp,Guatemala,29973,Puerto Quetzal,5734
+Belgium,19057,Antwerp,Croatia,24951,Rijeka,2974
+Belgium,19057,Antwerp,Brazil,20301,Rio Grande,5956
+Belgium,19057,Antwerp,Germany,20072,Rostock,813
+Belgium,19057,Antwerp,Brazil,20351,Salvador,4563
+Belgium,19057,Antwerp,Chile,27792,San Vicente,7647
+Belgium,19057,Antwerp,Brazil,27248,Santos,5435
+Belgium,19057,Antwerp,Portugal,13390,Setubal,1117
+Belgium,19057,Antwerp,Croatia,21556,Split,2854
+Belgium,19057,Antwerp,Russia,18454,St Petersburg,1395
+Belgium,19057,Antwerp,Sweden,21206,Stockholm,1126
+Belgium,19057,Antwerp,Estonia,18867,Tallinn,1233
+Belgium,19057,Antwerp,Spain,18937,Valencia,1753
+Belgium,19057,Antwerp,Chile,28082,Valparaiso,7460
+Belgium,19057,Antwerp,Canada,25350,Vancouver,8866
+Belgium,19057,Antwerp,Bulgaria,20847,Varna,3315
+Belgium,19057,Antwerp,Italy,13176,Venice,3030
+Belgium,19057,Antwerp,Mexico,21451,Veracruz,5109
+Belgium,19057,Antwerp,Netherlands,23247,Vlissingen,50
+Belgium,19057,Antwerp,Belgium,19473,Zeebrugge,87
+Greece,21863,Aspropyrgos,Turkey,246265,Ambarli,345
+Greece,21863,Aspropyrgos,Panama,216593,Balboa,5853
+Greece,21863,Aspropyrgos,Spain,17386,Barcelona,1164
+Greece,21863,Aspropyrgos,Norway,26147,Bergen,3301
+Greece,21863,Aspropyrgos,Tunisia,23448,Bizerte,748
+Greece,21863,Aspropyrgos,Peru,30045,Callao,7193
+Greece,21863,Aspropyrgos,Romania,14459,Constantza,556
+Greece,21863,Aspropyrgos,Panama,216592,Cristobal,5814
+Greece,21863,Aspropyrgos,Ireland,29749,Dublin,2685
+Greece,21863,Aspropyrgos,Ukraine,213737,Feodosia,751
+Greece,21863,Aspropyrgos,Portugal,23428,Funchal,2097
+Greece,21863,Aspropyrgos,Tunisia,23495,Gabes,769
+Greece,21863,Aspropyrgos,Romania,14470,Galatz,680
+Greece,21863,Aspropyrgos,Poland,12543,Gdansk,3667
+Greece,21863,Aspropyrgos,Italy,11174,Genoa,980
+Greece,21863,Aspropyrgos,Slovenia,24795,Izola,843
+Greece,21863,Aspropyrgos,Russia,11771,Kaliningrad,3702
+Greece,21863,Aspropyrgos,Slovenia,21381,Koper,843
+Greece,21863,Aspropyrgos,Portugal,13012,Leixoes,1943
+Greece,21863,Aspropyrgos,United Kingdom,29002,Liverpool,2755
+Greece,21863,Aspropyrgos,United Kingdom,29239,London,2809
+Greece,21863,Aspropyrgos,United States of America,14635,Los Angeles,8765
+Greece,21863,Aspropyrgos,Sweden,20512,Lysekil,3285
+Greece,21863,Aspropyrgos,Mexico,14277,Manzanillo,7578
+Greece,21863,Aspropyrgos,Venezuela,19974,Maracaibo,5374
+Greece,21863,Aspropyrgos,Peru,10860,Matarani,7628
+Greece,21863,Aspropyrgos,Turkey,22522,Mersin,594
+Greece,21863,Aspropyrgos,Monaco,21457,Monaco,1008
+Greece,21863,Aspropyrgos,Uruguay,17941,Montevideo,6681
+Greece,21863,Aspropyrgos,Norway,27728,Narvik,3897
+Greece,21863,Aspropyrgos,United States of America,25007,New Jersey,4702
+Greece,21863,Aspropyrgos,Greece,21852,Piraeus,10
+Greece,21863,Aspropyrgos,Slovenia,22770,Piran,843
+Greece,21863,Aspropyrgos,Guatemala,29973,Puerto Quetzal,6742
+Greece,21863,Aspropyrgos,Puerto Rico,13756,San Juan,4843
+Greece,21863,Aspropyrgos,Portugal,13390,Setubal,1773
+Greece,21863,Aspropyrgos,Russia,18454,St Petersburg,4092
+Greece,21863,Aspropyrgos,Sweden,21206,Stockholm,3823
+Greece,21863,Aspropyrgos,Spain,18937,Valencia,1245
+Greece,21863,Aspropyrgos,Italy,13176,Venice,863
+Greece,21863,Aspropyrgos,Mexico,21451,Veracruz,6308
+Greece,21863,Aspropyrgos,Netherlands,23247,Vlissingen,2805
+Argentina,14113,Bahia Blanca,Denmark,10358,Aarhus,7147
+Argentina,14113,Bahia Blanca,Turkey,246265,Ambarli,7352
+Argentina,14113,Bahia Blanca,Belgium,19057,Antwerp,6625
+Argentina,14113,Bahia Blanca,Greece,21863,Aspropyrgos,7056
+Argentina,14113,Bahia Blanca,Panama,216593,Balboa,4904
+Argentina,14113,Bahia Blanca,Spain,17386,Barcelona,6082
+Argentina,14113,Bahia Blanca,Georgia,18137,Batumi,7953
+Argentina,14113,Bahia Blanca,Norway,26147,Bergen,7062
+Argentina,14113,Bahia Blanca,Tunisia,23448,Bizerte,6310
+Argentina,14113,Bahia Blanca,Bulgaria,20826,Bourgas,7493
+Argentina,14113,Bahia Blanca,France,18012,Brest,6201
+Argentina,14113,Bahia Blanca,Colombia,28261,Buenaventura,4683
+Argentina,14113,Bahia Blanca,Argentina,26670,Buenos Aires,557
+Argentina,14113,Bahia Blanca,Peru,30045,Callao,3622
+Argentina,14113,Bahia Blanca,Colombia,28313,Cartagena,5388
+Argentina,14113,Bahia Blanca,Romania,14459,Constantza,7563
+Argentina,14113,Bahia Blanca,Denmark,10563,Copenhagen,7171
+Argentina,14113,Bahia Blanca,Panama,216592,Cristobal,5623
+Argentina,14113,Bahia Blanca,El Salvador,15107,Cutuco,5191
+Argentina,14113,Bahia Blanca,Ireland,29749,Dublin,6431
+Argentina,14113,Bahia Blanca,France,18326,Dunkirk,6521
+Argentina,14113,Bahia Blanca,Ecuador,14226,Esmeraldas,4443
+Argentina,14113,Bahia Blanca,Ukraine,213737,Feodosia,7758
+Argentina,14113,Bahia Blanca,Portugal,23428,Funchal,5101
+Argentina,14113,Bahia Blanca,Tunisia,23495,Gabes,6602
+Argentina,14113,Bahia Blanca,Romania,14470,Galatz,7687
+Argentina,14113,Bahia Blanca,Poland,12543,Gdansk,7437
+Argentina,14113,Bahia Blanca,Italy,11174,Genoa,6414
+Argentina,14113,Bahia Blanca,Puerto Rico,13610,Guanica,4969
+Argentina,14113,Bahia Blanca,Ecuador,29876,Guayaquil,4265
+Argentina,14113,Bahia Blanca,Canada,22226,Halifax,5990
+Argentina,14113,Bahia Blanca,Germany,224858,Hamburg,6873
+Argentina,14113,Bahia Blanca,Finland,16485,Helsinki,7721
+Argentina,14113,Bahia Blanca,Portugal,18433,Horta,5272
+Argentina,14113,Bahia Blanca,Slovenia,24795,Izola,7211
+Argentina,14113,Bahia Blanca,Russia,11771,Kaliningrad,7472
+Argentina,14113,Bahia Blanca,Slovenia,21381,Koper,7211
+Argentina,14113,Bahia Blanca,Finland,16737,Kotka,7776
+Argentina,14113,Bahia Blanca,Cyprus,10136,Larnaca,7488
+Argentina,14113,Bahia Blanca,Portugal,13012,Leixoes,5763
+Argentina,14113,Bahia Blanca,United Kingdom,29002,Liverpool,6510
+Argentina,14113,Bahia Blanca,United Kingdom,29239,London,6579
+Argentina,14113,Bahia Blanca,United States of America,14635,Los Angeles,6832
+Argentina,14113,Bahia Blanca,Sweden,20512,Lysekil,7055
+Argentina,14113,Bahia Blanca,Mexico,14277,Manzanillo,5745
+Argentina,14113,Bahia Blanca,Venezuela,19974,Maracaibo,5142
+Argentina,14113,Bahia Blanca,Peru,10860,Matarani,3334
+Argentina,14113,Bahia Blanca,Turkey,22522,Mersin,7528
+Argentina,14113,Bahia Blanca,Monaco,21457,Monaco,6336
+Argentina,14113,Bahia Blanca,Uruguay,17941,Montevideo,460
+Argentina,14113,Bahia Blanca,Norway,27728,Narvik,7561
+Argentina,14113,Bahia Blanca,United States of America,25007,New Jersey,6129
+Argentina,14113,Bahia Blanca,Greece,21852,Piraeus,7048
+Argentina,14113,Bahia Blanca,Slovenia,22770,Piran,7211
+Argentina,14113,Bahia Blanca,Portugal,18476,Ponta Delgada,5250
+Argentina,14113,Bahia Blanca,Georgia,18682,Poti,7970
+Argentina,14113,Bahia Blanca,Costa Rica,28781,Puerto Limon,5784
+Argentina,14113,Bahia Blanca,Guatemala,29973,Puerto Quetzal,5257
+Argentina,14113,Bahia Blanca,Croatia,24951,Rijeka,7175
+Argentina,14113,Bahia Blanca,Brazil,20301,Rio Grande,710
+Argentina,14113,Bahia Blanca,Germany,20072,Rostock,7280
+Argentina,14113,Bahia Blanca,Brazil,20351,Salvador,2126
+Argentina,14113,Bahia Blanca,Puerto Rico,13756,San Juan,5016
+Argentina,14113,Bahia Blanca,Chile,27792,San Vicente,2174
+Argentina,14113,Bahia Blanca,Brazil,27248,Santos,1280
+Argentina,14113,Bahia Blanca,Portugal,13390,Setubal,5608
+Argentina,14113,Bahia Blanca,Croatia,21556,Split,7055
+Argentina,14113,Bahia Blanca,Russia,18454,St Petersburg,7862
+Argentina,14113,Bahia Blanca,Sweden,21206,Stockholm,7593
+Argentina,14113,Bahia Blanca,Estonia,18867,Tallinn,7700
+Argentina,14113,Bahia Blanca,Spain,18937,Valencia,5954
+Argentina,14113,Bahia Blanca,Chile,28082,Valparaiso,2394
+Argentina,14113,Bahia Blanca,Canada,25350,Vancouver,7971
+Argentina,14113,Bahia Blanca,Bulgaria,20847,Varna,7516
+Argentina,14113,Bahia Blanca,Italy,13176,Venice,7231
+Argentina,14113,Bahia Blanca,Mexico,21451,Veracruz,6632
+Argentina,14113,Bahia Blanca,Netherlands,23247,Vlissingen,6575
+Argentina,14113,Bahia Blanca,Belgium,19473,Zeebrugge,6554
+Panama,216593,Balboa,Turkey,246265,Ambarli,6149
+Panama,216593,Balboa,Spain,17386,Barcelona,4879
+Panama,216593,Balboa,Tunisia,23448,Bizerte,5107
+Panama,216593,Balboa,Peru,30045,Callao,1340
+Panama,216593,Balboa,Romania,14459,Constantza,6360
+Panama,216593,Balboa,Panama,216592,Cristobal,39
+Panama,216593,Balboa,Ukraine,213737,Feodosia,6555
+Panama,216593,Balboa,Tunisia,23495,Gabes,5399
+Panama,216593,Balboa,Romania,14470,Galatz,6484
+Panama,216593,Balboa,Poland,12543,Gdansk,5449
+Panama,216593,Balboa,Puerto Rico,13610,Guanica,956
+Panama,216593,Balboa,Slovenia,24795,Izola,6008
+Panama,216593,Balboa,Russia,11771,Kaliningrad,5484
+Panama,216593,Balboa,Slovenia,21381,Koper,6008
+Panama,216593,Balboa,Portugal,13012,Leixoes,4229
+Panama,216593,Balboa,United Kingdom,29002,Liverpool,4579
+Panama,216593,Balboa,United Kingdom,29239,London,4799
+Panama,216593,Balboa,United States of America,14635,Los Angeles,2912
+Panama,216593,Balboa,Sweden,20512,Lysekil,5056
+Panama,216593,Balboa,Venezuela,19974,Maracaibo,715
+Panama,216593,Balboa,Peru,10860,Matarani,1775
+Panama,216593,Balboa,Turkey,22522,Mersin,6325
+Panama,216593,Balboa,Uruguay,17941,Montevideo,5235
+Panama,216593,Balboa,United States of America,25007,New Jersey,2018
+Panama,216593,Balboa,Slovenia,22770,Piran,6008
+Panama,216593,Balboa,Puerto Rico,13756,San Juan,1031
+Panama,216593,Balboa,Portugal,13390,Setubal,4209
+Panama,216593,Balboa,Russia,18454,St Petersburg,5874
+Panama,216593,Balboa,Sweden,21206,Stockholm,5605
+Panama,216593,Balboa,Spain,18937,Valencia,4751
+Spain,17386,Barcelona,Turkey,246265,Ambarli,1454
+Spain,17386,Barcelona,Tunisia,23448,Bizerte,436
+Spain,17386,Barcelona,Ukraine,213737,Feodosia,1860
+Spain,17386,Barcelona,Tunisia,23495,Gabes,721
+Spain,17386,Barcelona,United Kingdom,29002,Liverpool,1781
+Spain,17386,Barcelona,United Kingdom,29239,London,1835
+Spain,17386,Barcelona,United States of America,14635,Los Angeles,7791
+Spain,17386,Barcelona,Sweden,20512,Lysekil,2311
+Spain,17386,Barcelona,Venezuela,19974,Maracaibo,4400
+Spain,17386,Barcelona,Turkey,22522,Mersin,1636
+Spain,17386,Barcelona,Uruguay,17941,Montevideo,5707
+Spain,17386,Barcelona,United States of America,25007,New Jersey,3728
+Spain,17386,Barcelona,Sweden,21206,Stockholm,2849
+Spain,17386,Barcelona,Spain,18937,Valencia,164
+Georgia,18137,Batumi,Turkey,246265,Ambarli,601
+Georgia,18137,Batumi,Greece,21863,Aspropyrgos,946
+Georgia,18137,Batumi,Panama,216593,Balboa,6750
+Georgia,18137,Batumi,Spain,17386,Barcelona,2055
+Georgia,18137,Batumi,Norway,26147,Bergen,4198
+Georgia,18137,Batumi,Tunisia,23448,Bizerte,1639
+Georgia,18137,Batumi,Peru,30045,Callao,8090
+Georgia,18137,Batumi,Romania,14459,Constantza,588
+Georgia,18137,Batumi,Panama,216592,Cristobal,6711
+Georgia,18137,Batumi,Ireland,29749,Dublin,3582
+Georgia,18137,Batumi,Ukraine,213737,Feodosia,343
+Georgia,18137,Batumi,Portugal,23428,Funchal,2994
+Georgia,18137,Batumi,Tunisia,23495,Gabes,1660
+Georgia,18137,Batumi,Romania,14470,Galatz,643
+Georgia,18137,Batumi,Poland,12543,Gdansk,4564
+Georgia,18137,Batumi,Italy,11174,Genoa,1871
+Georgia,18137,Batumi,Puerto Rico,13610,Guanica,5809
+Georgia,18137,Batumi,Germany,224858,Hamburg,4000
+Georgia,18137,Batumi,Slovenia,24795,Izola,1734
+Georgia,18137,Batumi,Russia,11771,Kaliningrad,4599
+Georgia,18137,Batumi,Slovenia,21381,Koper,1734
+Georgia,18137,Batumi,Portugal,13012,Leixoes,2840
+Georgia,18137,Batumi,United Kingdom,29002,Liverpool,3652
+Georgia,18137,Batumi,United Kingdom,29239,London,3706
+Georgia,18137,Batumi,United States of America,14635,Los Angeles,9662
+Georgia,18137,Batumi,Sweden,20512,Lysekil,4182
+Georgia,18137,Batumi,Mexico,14277,Manzanillo,8475
+Georgia,18137,Batumi,Venezuela,19974,Maracaibo,6271
+Georgia,18137,Batumi,Peru,10860,Matarani,8525
+Georgia,18137,Batumi,Turkey,22522,Mersin,1336
+Georgia,18137,Batumi,Monaco,21457,Monaco,1899
+Georgia,18137,Batumi,Uruguay,17941,Montevideo,7578
+Georgia,18137,Batumi,Norway,27728,Narvik,4794
+Georgia,18137,Batumi,United States of America,25007,New Jersey,5599
+Georgia,18137,Batumi,Greece,21852,Piraeus,938
+Georgia,18137,Batumi,Slovenia,22770,Piran,1734
+Georgia,18137,Batumi,Georgia,18682,Poti,31
+Georgia,18137,Batumi,Guatemala,29973,Puerto Quetzal,7639
+Georgia,18137,Batumi,Germany,20072,Rostock,4407
+Georgia,18137,Batumi,Puerto Rico,13756,San Juan,5740
+Georgia,18137,Batumi,Portugal,13390,Setubal,2670
+Georgia,18137,Batumi,Russia,18454,St Petersburg,4989
+Georgia,18137,Batumi,Sweden,21206,Stockholm,4720
+Georgia,18137,Batumi,Spain,18937,Valencia,2136
+Georgia,18137,Batumi,Italy,13176,Venice,1755
+Georgia,18137,Batumi,Mexico,21451,Veracruz,7205
+Georgia,18137,Batumi,Netherlands,23247,Vlissingen,3702
+Norway,26147,Bergen,Turkey,246265,Ambarli,3597
+Norway,26147,Bergen,Panama,216593,Balboa,4873
+Norway,26147,Bergen,Spain,17386,Barcelona,2327
+Norway,26147,Bergen,Tunisia,23448,Bizerte,2555
+Norway,26147,Bergen,Peru,30045,Callao,6213
+Norway,26147,Bergen,Romania,14459,Constantza,3808
+Norway,26147,Bergen,Panama,216592,Cristobal,4834
+Norway,26147,Bergen,Ukraine,213737,Feodosia,4003
+Norway,26147,Bergen,Tunisia,23495,Gabes,2847
+Norway,26147,Bergen,Romania,14470,Galatz,3932
+Norway,26147,Bergen,Poland,12543,Gdansk,723
+Norway,26147,Bergen,Puerto Rico,13610,Guanica,4026
+Norway,26147,Bergen,Slovenia,24795,Izola,3456
+Norway,26147,Bergen,Russia,11771,Kaliningrad,758
+Norway,26147,Bergen,Slovenia,21381,Koper,3456
+Norway,26147,Bergen,Portugal,13012,Leixoes,1381
+Norway,26147,Bergen,United Kingdom,29002,Liverpool,740
+Norway,26147,Bergen,United Kingdom,29239,London,613
+Norway,26147,Bergen,United States of America,14635,Los Angeles,7785
+Norway,26147,Bergen,Sweden,20512,Lysekil,330
+Norway,26147,Bergen,Venezuela,19974,Maracaibo,4495
+Norway,26147,Bergen,Peru,10860,Matarani,6648
+Norway,26147,Bergen,Turkey,22522,Mersin,3773
+Norway,26147,Bergen,Uruguay,17941,Montevideo,6683
+Norway,26147,Bergen,Norway,27728,Narvik,627
+Norway,26147,Bergen,United States of America,25007,New Jersey,3372
+Norway,26147,Bergen,Slovenia,22770,Piran,3456
+Norway,26147,Bergen,Puerto Rico,13756,San Juan,3915
+Norway,26147,Bergen,Portugal,13390,Setubal,1563
+Norway,26147,Bergen,Russia,18454,St Petersburg,1148
+Norway,26147,Bergen,Sweden,21206,Stockholm,879
+Norway,26147,Bergen,Spain,18937,Valencia,2199
+Tunisia,23448,Bizerte,Turkey,246265,Ambarli,1038
+Tunisia,23448,Bizerte,Ukraine,213737,Feodosia,1444
+Tunisia,23448,Bizerte,Tunisia,23495,Gabes,293
+Tunisia,23448,Bizerte,United Kingdom,29002,Liverpool,2009
+Tunisia,23448,Bizerte,United Kingdom,29239,London,2063
+Tunisia,23448,Bizerte,United States of America,14635,Los Angeles,8019
+Tunisia,23448,Bizerte,Venezuela,19974,Maracaibo,4628
+Tunisia,23448,Bizerte,Turkey,22522,Mersin,1220
+Tunisia,23448,Bizerte,Uruguay,17941,Montevideo,5935
+Tunisia,23448,Bizerte,United States of America,25007,New Jersey,3956
+Bulgaria,20826,Bourgas,Denmark,10358,Aarhus,3814
+Bulgaria,20826,Bourgas,Turkey,246265,Ambarli,141
+Bulgaria,20826,Bourgas,Greece,21863,Aspropyrgos,486
+Bulgaria,20826,Bourgas,Panama,216593,Balboa,6290
+Bulgaria,20826,Bourgas,Spain,17386,Barcelona,1595
+Bulgaria,20826,Bourgas,Georgia,18137,Batumi,633
+Bulgaria,20826,Bourgas,Norway,26147,Bergen,3738
+Bulgaria,20826,Bourgas,Tunisia,23448,Bizerte,1179
+Bulgaria,20826,Bourgas,France,18012,Brest,2868
+Bulgaria,20826,Bourgas,Colombia,28261,Buenaventura,6644
+Bulgaria,20826,Bourgas,Peru,30045,Callao,7630
+Bulgaria,20826,Bourgas,Colombia,28313,Cartagena,6025
+Bulgaria,20826,Bourgas,Romania,14459,Constantza,126
+Bulgaria,20826,Bourgas,Denmark,10563,Copenhagen,3838
+Bulgaria,20826,Bourgas,Panama,216592,Cristobal,6251
+Bulgaria,20826,Bourgas,El Salvador,15107,Cutuco,7031
+Bulgaria,20826,Bourgas,Ireland,29749,Dublin,3122
+Bulgaria,20826,Bourgas,France,18326,Dunkirk,3188
+Bulgaria,20826,Bourgas,Ecuador,14226,Esmeraldas,6770
+Bulgaria,20826,Bourgas,Ukraine,213737,Feodosia,382
+Bulgaria,20826,Bourgas,Portugal,23428,Funchal,2534
+Bulgaria,20826,Bourgas,Tunisia,23495,Gabes,1200
+Bulgaria,20826,Bourgas,Romania,14470,Galatz,260
+Bulgaria,20826,Bourgas,Poland,12543,Gdansk,4104
+Bulgaria,20826,Bourgas,Italy,11174,Genoa,1411
+Bulgaria,20826,Bourgas,Puerto Rico,13610,Guanica,5349
+Bulgaria,20826,Bourgas,Ecuador,29876,Guayaquil,7127
+Bulgaria,20826,Bourgas,Canada,22226,Halifax,4640
+Bulgaria,20826,Bourgas,Germany,224858,Hamburg,3540
+Bulgaria,20826,Bourgas,Finland,16485,Helsinki,4388
+Bulgaria,20826,Bourgas,Slovenia,24795,Izola,1274
+Bulgaria,20826,Bourgas,Russia,11771,Kaliningrad,4139
+Bulgaria,20826,Bourgas,Slovenia,21381,Koper,1274
+Bulgaria,20826,Bourgas,Finland,16737,Kotka,4443
+Bulgaria,20826,Bourgas,Cyprus,10136,Larnaca,852
+Bulgaria,20826,Bourgas,Portugal,13012,Leixoes,2380
+Bulgaria,20826,Bourgas,United Kingdom,29002,Liverpool,3192
+Bulgaria,20826,Bourgas,United Kingdom,29239,London,3246
+Bulgaria,20826,Bourgas,United States of America,14635,Los Angeles,9202
+Bulgaria,20826,Bourgas,Sweden,20512,Lysekil,3722
+Bulgaria,20826,Bourgas,Mexico,14277,Manzanillo,8015
+Bulgaria,20826,Bourgas,Venezuela,19974,Maracaibo,5811
+Bulgaria,20826,Bourgas,Peru,10860,Matarani,8065
+Bulgaria,20826,Bourgas,Turkey,22522,Mersin,876
+Bulgaria,20826,Bourgas,Monaco,21457,Monaco,1439
+Bulgaria,20826,Bourgas,Uruguay,17941,Montevideo,7118
+Bulgaria,20826,Bourgas,Norway,27728,Narvik,4334
+Bulgaria,20826,Bourgas,United States of America,25007,New Jersey,5139
+Bulgaria,20826,Bourgas,Greece,21852,Piraeus,478
+Bulgaria,20826,Bourgas,Slovenia,22770,Piran,1274
+Bulgaria,20826,Bourgas,Georgia,18682,Poti,629
+Bulgaria,20826,Bourgas,Costa Rica,28781,Puerto Limon,6384
+Bulgaria,20826,Bourgas,Guatemala,29973,Puerto Quetzal,7179
+Bulgaria,20826,Bourgas,Croatia,24951,Rijeka,1238
+Bulgaria,20826,Bourgas,Germany,20072,Rostock,3947
+Bulgaria,20826,Bourgas,Puerto Rico,13756,San Juan,5280
+Bulgaria,20826,Bourgas,Chile,27792,San Vicente,9092
+Bulgaria,20826,Bourgas,Portugal,13390,Setubal,2210
+Bulgaria,20826,Bourgas,Croatia,21556,Split,1117
+Bulgaria,20826,Bourgas,Russia,18454,St Petersburg,4529
+Bulgaria,20826,Bourgas,Sweden,21206,Stockholm,4260
+Bulgaria,20826,Bourgas,Estonia,18867,Tallinn,4367
+Bulgaria,20826,Bourgas,Spain,18937,Valencia,1676
+Bulgaria,20826,Bourgas,Chile,28082,Valparaiso,8905
+Bulgaria,20826,Bourgas,Canada,25350,Vancouver,10311
+Bulgaria,20826,Bourgas,Bulgaria,20847,Varna,56
+Bulgaria,20826,Bourgas,Italy,13176,Venice,1295
+Bulgaria,20826,Bourgas,Mexico,21451,Veracruz,6745
+Bulgaria,20826,Bourgas,Netherlands,23247,Vlissingen,3242
+France,18012,Brest,Turkey,246265,Ambarli,2727
+France,18012,Brest,Greece,21863,Aspropyrgos,2431
+France,18012,Brest,Panama,216593,Balboa,4456
+France,18012,Brest,Spain,17386,Barcelona,1457
+France,18012,Brest,Georgia,18137,Batumi,3328
+France,18012,Brest,Norway,26147,Bergen,928
+France,18012,Brest,Tunisia,23448,Bizerte,1685
+France,18012,Brest,Peru,30045,Callao,5796
+France,18012,Brest,Romania,14459,Constantza,2938
+France,18012,Brest,Panama,216592,Cristobal,4417
+France,18012,Brest,Ireland,29749,Dublin,341
+France,18012,Brest,France,18326,Dunkirk,378
+France,18012,Brest,Ukraine,213737,Feodosia,3133
+France,18012,Brest,Portugal,23428,Funchal,1114
+France,18012,Brest,Tunisia,23495,Gabes,1977
+France,18012,Brest,Romania,14470,Galatz,3062
+France,18012,Brest,Poland,12543,Gdansk,1294
+France,18012,Brest,Italy,11174,Genoa,1789
+France,18012,Brest,Puerto Rico,13610,Guanica,3548
+France,18012,Brest,Germany,224858,Hamburg,730
+France,18012,Brest,Slovenia,24795,Izola,2586
+France,18012,Brest,Russia,11771,Kaliningrad,1329
+France,18012,Brest,Slovenia,21381,Koper,2586
+France,18012,Brest,Portugal,13012,Leixoes,511
+France,18012,Brest,United Kingdom,29002,Liverpool,406
+France,18012,Brest,United Kingdom,29239,London,436
+France,18012,Brest,United States of America,14635,Los Angeles,7368
+France,18012,Brest,Sweden,20512,Lysekil,912
+France,18012,Brest,Mexico,14277,Manzanillo,6181
+France,18012,Brest,Venezuela,19974,Maracaibo,4032
+France,18012,Brest,Peru,10860,Matarani,6231
+France,18012,Brest,Turkey,22522,Mersin,2903
+France,18012,Brest,Monaco,21457,Monaco,1711
+France,18012,Brest,Uruguay,17941,Montevideo,5825
+France,18012,Brest,Norway,27728,Narvik,1524
+France,18012,Brest,United States of America,25007,New Jersey,3029
+France,18012,Brest,Greece,21852,Piraeus,2423
+France,18012,Brest,Slovenia,22770,Piran,2586
+France,18012,Brest,Georgia,18682,Poti,3345
+France,18012,Brest,Guatemala,29973,Puerto Quetzal,5345
+France,18012,Brest,Germany,20072,Rostock,1137
+France,18012,Brest,Puerto Rico,13756,San Juan,3455
+France,18012,Brest,Portugal,13390,Setubal,693
+France,18012,Brest,Russia,18454,St Petersburg,1719
+France,18012,Brest,Sweden,21206,Stockholm,1450
+France,18012,Brest,Spain,18937,Valencia,1329
+France,18012,Brest,Italy,13176,Venice,2606
+France,18012,Brest,Mexico,21451,Veracruz,4733
+France,18012,Brest,Netherlands,23247,Vlissingen,432
+Colombia,28261,Buenaventura,Denmark,10358,Aarhus,5513
+Colombia,28261,Buenaventura,Turkey,246265,Ambarli,6503
+Colombia,28261,Buenaventura,Greece,21863,Aspropyrgos,6207
+Colombia,28261,Buenaventura,Panama,216593,Balboa,354
+Colombia,28261,Buenaventura,Spain,17386,Barcelona,5233
+Colombia,28261,Buenaventura,Georgia,18137,Batumi,7104
+Colombia,28261,Buenaventura,Norway,26147,Bergen,5227
+Colombia,28261,Buenaventura,Tunisia,23448,Bizerte,5461
+Colombia,28261,Buenaventura,France,18012,Brest,4810
+Colombia,28261,Buenaventura,Peru,30045,Callao,1124
+Colombia,28261,Buenaventura,Colombia,28313,Cartagena,669
+Colombia,28261,Buenaventura,Romania,14459,Constantza,6714
+Colombia,28261,Buenaventura,Denmark,10563,Copenhagen,5537
+Colombia,28261,Buenaventura,Panama,216592,Cristobal,393
+Colombia,28261,Buenaventura,El Salvador,15107,Cutuco,879
+Colombia,28261,Buenaventura,Ireland,29749,Dublin,4854
+Colombia,28261,Buenaventura,France,18326,Dunkirk,5100
+Colombia,28261,Buenaventura,Ecuador,14226,Esmeraldas,235
+Colombia,28261,Buenaventura,Ukraine,213737,Feodosia,6909
+Colombia,28261,Buenaventura,Portugal,23428,Funchal,4132
+Colombia,28261,Buenaventura,Tunisia,23495,Gabes,5753
+Colombia,28261,Buenaventura,Romania,14470,Galatz,6838
+Colombia,28261,Buenaventura,Poland,12543,Gdansk,5803
+Colombia,28261,Buenaventura,Italy,11174,Genoa,5565
+Colombia,28261,Buenaventura,Puerto Rico,13610,Guanica,1310
+Colombia,28261,Buenaventura,Ecuador,29876,Guayaquil,621
+Colombia,28261,Buenaventura,Germany,224858,Hamburg,5447
+Colombia,28261,Buenaventura,Finland,16485,Helsinki,6087
+Colombia,28261,Buenaventura,Slovenia,24795,Izola,6362
+Colombia,28261,Buenaventura,Russia,11771,Kaliningrad,5838
+Colombia,28261,Buenaventura,Slovenia,21381,Koper,6362
+Colombia,28261,Buenaventura,Finland,16737,Kotka,6142
+Colombia,28261,Buenaventura,Cyprus,10136,Larnaca,6639
+Colombia,28261,Buenaventura,Portugal,13012,Leixoes,4583
+Colombia,28261,Buenaventura,United Kingdom,29002,Liverpool,4933
+Colombia,28261,Buenaventura,United Kingdom,29239,London,5153
+Colombia,28261,Buenaventura,United States of America,14635,Los Angeles,3047
+Colombia,28261,Buenaventura,Sweden,20512,Lysekil,5410
+Colombia,28261,Buenaventura,Mexico,14277,Manzanillo,1854
+Colombia,28261,Buenaventura,Venezuela,19974,Maracaibo,1069
+Colombia,28261,Buenaventura,Peru,10860,Matarani,1561
+Colombia,28261,Buenaventura,Turkey,22522,Mersin,6679
+Colombia,28261,Buenaventura,Monaco,21457,Monaco,5487
+Colombia,28261,Buenaventura,Uruguay,17941,Montevideo,5014
+Colombia,28261,Buenaventura,Norway,27728,Narvik,5628
+Colombia,28261,Buenaventura,United States of America,25007,New Jersey,2372
+Colombia,28261,Buenaventura,Greece,21852,Piraeus,6199
+Colombia,28261,Buenaventura,Slovenia,22770,Piran,6362
+Colombia,28261,Buenaventura,Georgia,18682,Poti,7121
+Colombia,28261,Buenaventura,Costa Rica,28781,Puerto Limon,585
+Colombia,28261,Buenaventura,Guatemala,29973,Puerto Quetzal,1022
+Colombia,28261,Buenaventura,Croatia,24951,Rijeka,6326
+Colombia,28261,Buenaventura,Germany,20072,Rostock,5646
+Colombia,28261,Buenaventura,Puerto Rico,13756,San Juan,1385
+Colombia,28261,Buenaventura,Portugal,13390,Setubal,4563
+Colombia,28261,Buenaventura,Croatia,21556,Split,6206
+Colombia,28261,Buenaventura,Russia,18454,St Petersburg,6228
+Colombia,28261,Buenaventura,Sweden,21206,Stockholm,5959
+Colombia,28261,Buenaventura,Estonia,18867,Tallinn,6066
+Colombia,28261,Buenaventura,Spain,18937,Valencia,5105
+Colombia,28261,Buenaventura,Italy,13176,Venice,6382
+Colombia,28261,Buenaventura,Mexico,21451,Veracruz,1803
+Colombia,28261,Buenaventura,Netherlands,23247,Vlissingen,5149
+Argentina,26670,Buenos Aires,Denmark,10358,Aarhus,6868
+Argentina,26670,Buenos Aires,Turkey,246265,Ambarli,7074
+Argentina,26670,Buenos Aires,Belgium,19057,Antwerp,6346
+Argentina,26670,Buenos Aires,Greece,21863,Aspropyrgos,6778
+Argentina,26670,Buenos Aires,Panama,216593,Balboa,5332
+Argentina,26670,Buenos Aires,Spain,17386,Barcelona,5804
+Argentina,26670,Buenos Aires,Georgia,18137,Batumi,7675
+Argentina,26670,Buenos Aires,Norway,26147,Bergen,6780
+Argentina,26670,Buenos Aires,Tunisia,23448,Bizerte,6032
+Argentina,26670,Buenos Aires,Bulgaria,20826,Bourgas,7215
+Argentina,26670,Buenos Aires,France,18012,Brest,5922
+Argentina,26670,Buenos Aires,Colombia,28261,Buenaventura,5111
+Argentina,26670,Buenos Aires,Peru,30045,Callao,4050
+Argentina,26670,Buenos Aires,Colombia,28313,Cartagena,5111
+Argentina,26670,Buenos Aires,Romania,14459,Constantza,7285
+Argentina,26670,Buenos Aires,Denmark,10563,Copenhagen,6892
+Argentina,26670,Buenos Aires,Panama,216592,Cristobal,5344
+Argentina,26670,Buenos Aires,El Salvador,15107,Cutuco,5619
+Argentina,26670,Buenos Aires,Ireland,29749,Dublin,6152
+Argentina,26670,Buenos Aires,France,18326,Dunkirk,6242
+Argentina,26670,Buenos Aires,Ecuador,14226,Esmeraldas,4871
+Argentina,26670,Buenos Aires,Ukraine,213737,Feodosia,7480
+Argentina,26670,Buenos Aires,Portugal,23428,Funchal,4818
+Argentina,26670,Buenos Aires,Tunisia,23495,Gabes,6324
+Argentina,26670,Buenos Aires,Romania,14470,Galatz,7409
+Argentina,26670,Buenos Aires,Poland,12543,Gdansk,7158
+Argentina,26670,Buenos Aires,Italy,11174,Genoa,6136
+Argentina,26670,Buenos Aires,Puerto Rico,13610,Guanica,4690
+Argentina,26670,Buenos Aires,Ecuador,29876,Guayaquil,4693
+Argentina,26670,Buenos Aires,Canada,22226,Halifax,5715
+Argentina,26670,Buenos Aires,Germany,224858,Hamburg,6594
+Argentina,26670,Buenos Aires,Finland,16485,Helsinki,7442
+Argentina,26670,Buenos Aires,Portugal,18433,Horta,4995
+Argentina,26670,Buenos Aires,Slovenia,24795,Izola,6933
+Argentina,26670,Buenos Aires,Russia,11771,Kaliningrad,7193
+Argentina,26670,Buenos Aires,Slovenia,21381,Koper,6933
+Argentina,26670,Buenos Aires,Finland,16737,Kotka,7497
+Argentina,26670,Buenos Aires,Cyprus,10136,Larnaca,7210
+Argentina,26670,Buenos Aires,Portugal,13012,Leixoes,5472
+Argentina,26670,Buenos Aires,United Kingdom,29002,Liverpool,6231
+Argentina,26670,Buenos Aires,United Kingdom,29239,London,6300
+Argentina,26670,Buenos Aires,United States of America,14635,Los Angeles,7260
+Argentina,26670,Buenos Aires,Sweden,20512,Lysekil,6776
+Argentina,26670,Buenos Aires,Mexico,14277,Manzanillo,6173
+Argentina,26670,Buenos Aires,Venezuela,19974,Maracaibo,4864
+Argentina,26670,Buenos Aires,Peru,10860,Matarani,3762
+Argentina,26670,Buenos Aires,Turkey,22522,Mersin,7250
+Argentina,26670,Buenos Aires,Monaco,21457,Monaco,6058
+Argentina,26670,Buenos Aires,Uruguay,17941,Montevideo,129
+Argentina,26670,Buenos Aires,Norway,27728,Narvik,7279
+Argentina,26670,Buenos Aires,United States of America,25007,New Jersey,5852
+Argentina,26670,Buenos Aires,Greece,21852,Piraeus,6770
+Argentina,26670,Buenos Aires,Slovenia,22770,Piran,6933
+Argentina,26670,Buenos Aires,Portugal,18476,Ponta Delgada,4969
+Argentina,26670,Buenos Aires,Georgia,18682,Poti,7692
+Argentina,26670,Buenos Aires,Costa Rica,28781,Puerto Limon,5507
+Argentina,26670,Buenos Aires,Guatemala,29973,Puerto Quetzal,5685
+Argentina,26670,Buenos Aires,Croatia,24951,Rijeka,6897
+Argentina,26670,Buenos Aires,Brazil,20301,Rio Grande,429
+Argentina,26670,Buenos Aires,Germany,20072,Rostock,7001
+Argentina,26670,Buenos Aires,Brazil,20351,Salvador,1848
+Argentina,26670,Buenos Aires,Puerto Rico,13756,San Juan,4737
+Argentina,26670,Buenos Aires,Chile,27792,San Vicente,2602
+Argentina,26670,Buenos Aires,Brazil,27248,Santos,998
+Argentina,26670,Buenos Aires,Portugal,13390,Setubal,5331
+Argentina,26670,Buenos Aires,Croatia,21556,Split,6777
+Argentina,26670,Buenos Aires,Russia,18454,St Petersburg,7583
+Argentina,26670,Buenos Aires,Sweden,21206,Stockholm,7314
+Argentina,26670,Buenos Aires,Estonia,18867,Tallinn,7421
+Argentina,26670,Buenos Aires,Spain,18937,Valencia,5676
+Argentina,26670,Buenos Aires,Chile,28082,Valparaiso,2822
+Argentina,26670,Buenos Aires,Canada,25350,Vancouver,8399
+Argentina,26670,Buenos Aires,Bulgaria,20847,Varna,7238
+Argentina,26670,Buenos Aires,Italy,13176,Venice,6953
+Argentina,26670,Buenos Aires,Mexico,21451,Veracruz,6353
+Argentina,26670,Buenos Aires,Netherlands,23247,Vlissingen,6296
+Argentina,26670,Buenos Aires,Belgium,19473,Zeebrugge,6275
+Peru,30045,Callao,Turkey,246265,Ambarli,7489
+Peru,30045,Callao,Spain,17386,Barcelona,6219
+Peru,30045,Callao,Tunisia,23448,Bizerte,6447
+Peru,30045,Callao,Romania,14459,Constantza,7700
+Peru,30045,Callao,Ukraine,213737,Feodosia,7895
+Peru,30045,Callao,Tunisia,23495,Gabes,6739
+Peru,30045,Callao,Romania,14470,Galatz,7824
+Peru,30045,Callao,Poland,12543,Gdansk,6789
+Peru,30045,Callao,Puerto Rico,13610,Guanica,2296
+Peru,30045,Callao,Slovenia,24795,Izola,7348
+Peru,30045,Callao,Russia,11771,Kaliningrad,6824
+Peru,30045,Callao,Slovenia,21381,Koper,7348
+Peru,30045,Callao,Portugal,13012,Leixoes,5569
+Peru,30045,Callao,United Kingdom,29002,Liverpool,5919
+Peru,30045,Callao,United Kingdom,29239,London,6139
+Peru,30045,Callao,United States of America,14635,Los Angeles,3654
+Peru,30045,Callao,Sweden,20512,Lysekil,6396
+Peru,30045,Callao,Venezuela,19974,Maracaibo,2055
+Peru,30045,Callao,Peru,10860,Matarani,442
+Peru,30045,Callao,Turkey,22522,Mersin,7665
+Peru,30045,Callao,Uruguay,17941,Montevideo,3953
+Peru,30045,Callao,United States of America,25007,New Jersey,3358
+Peru,30045,Callao,Slovenia,22770,Piran,7348
+Peru,30045,Callao,Puerto Rico,13756,San Juan,2371
+Peru,30045,Callao,Portugal,13390,Setubal,5549
+Peru,30045,Callao,Russia,18454,St Petersburg,7214
+Peru,30045,Callao,Sweden,21206,Stockholm,6945
+Peru,30045,Callao,Spain,18937,Valencia,6091
+Colombia,28313,Cartagena,Denmark,10358,Aarhus,4933
+Colombia,28313,Cartagena,Turkey,246265,Ambarli,5884
+Colombia,28313,Cartagena,Greece,21863,Aspropyrgos,5588
+Colombia,28313,Cartagena,Panama,216593,Balboa,315
+Colombia,28313,Cartagena,Spain,17386,Barcelona,4614
+Colombia,28313,Cartagena,Georgia,18137,Batumi,6485
+Colombia,28313,Cartagena,Norway,26147,Bergen,4647
+Colombia,28313,Cartagena,Tunisia,23448,Bizerte,4842
+Colombia,28313,Cartagena,France,18012,Brest,4203
+Colombia,28313,Cartagena,Peru,30045,Callao,1655
+Colombia,28313,Cartagena,Romania,14459,Constantza,6095
+Colombia,28313,Cartagena,Denmark,10563,Copenhagen,4957
+Colombia,28313,Cartagena,Panama,216592,Cristobal,276
+Colombia,28313,Cartagena,El Salvador,15107,Cutuco,1056
+Colombia,28313,Cartagena,Ireland,29749,Dublin,4257
+Colombia,28313,Cartagena,France,18326,Dunkirk,4492
+Colombia,28313,Cartagena,Ecuador,14226,Esmeraldas,795
+Colombia,28313,Cartagena,Ukraine,213737,Feodosia,6290
+Colombia,28313,Cartagena,Portugal,23428,Funchal,3513
+Colombia,28313,Cartagena,Tunisia,23495,Gabes,5134
+Colombia,28313,Cartagena,Romania,14470,Galatz,6219
+Colombia,28313,Cartagena,Poland,12543,Gdansk,5223
+Colombia,28313,Cartagena,Italy,11174,Genoa,4946
+Colombia,28313,Cartagena,Puerto Rico,13610,Guanica,700
+Colombia,28313,Cartagena,Ecuador,29876,Guayaquil,1152
+Colombia,28313,Cartagena,Germany,224858,Hamburg,4839
+Colombia,28313,Cartagena,Finland,16485,Helsinki,5507
+Colombia,28313,Cartagena,Slovenia,24795,Izola,5743
+Colombia,28313,Cartagena,Russia,11771,Kaliningrad,5258
+Colombia,28313,Cartagena,Slovenia,21381,Koper,5743
+Colombia,28313,Cartagena,Finland,16737,Kotka,5562
+Colombia,28313,Cartagena,Cyprus,10136,Larnaca,6020
+Colombia,28313,Cartagena,Portugal,13012,Leixoes,3976
+Colombia,28313,Cartagena,United Kingdom,29002,Liverpool,4336
+Colombia,28313,Cartagena,United Kingdom,29239,London,4545
+Colombia,28313,Cartagena,United States of America,14635,Los Angeles,3227
+Colombia,28313,Cartagena,Sweden,20512,Lysekil,4830
+Colombia,28313,Cartagena,Mexico,14277,Manzanillo,2040
+Colombia,28313,Cartagena,Venezuela,19974,Maracaibo,443
+Colombia,28313,Cartagena,Peru,10860,Matarani,2090
+Colombia,28313,Cartagena,Turkey,22522,Mersin,6060
+Colombia,28313,Cartagena,Monaco,21457,Monaco,4868
+Colombia,28313,Cartagena,Uruguay,17941,Montevideo,5014
+Colombia,28313,Cartagena,Norway,27728,Narvik,5054
+Colombia,28313,Cartagena,United States of America,25007,New Jersey,1857
+Colombia,28313,Cartagena,Greece,21852,Piraeus,5580
+Colombia,28313,Cartagena,Slovenia,22770,Piran,5743
+Colombia,28313,Cartagena,Georgia,18682,Poti,6502
+Colombia,28313,Cartagena,Costa Rica,28781,Puerto Limon,452
+Colombia,28313,Cartagena,Guatemala,29973,Puerto Quetzal,1204
+Colombia,28313,Cartagena,Croatia,24951,Rijeka,5707
+Colombia,28313,Cartagena,Germany,20072,Rostock,5066
+Colombia,28313,Cartagena,Puerto Rico,13756,San Juan,776
+Colombia,28313,Cartagena,Portugal,13390,Setubal,3947
+Colombia,28313,Cartagena,Croatia,21556,Split,5587
+Colombia,28313,Cartagena,Russia,18454,St Petersburg,5648
+Colombia,28313,Cartagena,Sweden,21206,Stockholm,5379
+Colombia,28313,Cartagena,Estonia,18867,Tallinn,5486
+Colombia,28313,Cartagena,Spain,18937,Valencia,4486
+Colombia,28313,Cartagena,Italy,13176,Venice,5763
+Colombia,28313,Cartagena,Mexico,21451,Veracruz,1506
+Colombia,28313,Cartagena,Netherlands,23247,Vlissingen,4541
+Romania,14459,Constantza,Turkey,246265,Ambarli,211
+Romania,14459,Constantza,Spain,17386,Barcelona,1665
+Romania,14459,Constantza,Tunisia,23448,Bizerte,1249
+Romania,14459,Constantza,Ukraine,213737,Feodosia,307
+Romania,14459,Constantza,Tunisia,23495,Gabes,1270
+Romania,14459,Constantza,Romania,14470,Galatz,143
+Romania,14459,Constantza,Slovenia,24795,Izola,1344
+Romania,14459,Constantza,Russia,11771,Kaliningrad,4209
+Romania,14459,Constantza,Slovenia,21381,Koper,1344
+Romania,14459,Constantza,United Kingdom,29002,Liverpool,3262
+Romania,14459,Constantza,United Kingdom,29239,London,3316
+Romania,14459,Constantza,United States of America,14635,Los Angeles,9272
+Romania,14459,Constantza,Sweden,20512,Lysekil,3792
+Romania,14459,Constantza,Venezuela,19974,Maracaibo,5881
+Romania,14459,Constantza,Turkey,22522,Mersin,946
+Romania,14459,Constantza,Uruguay,17941,Montevideo,7188
+Romania,14459,Constantza,United States of America,25007,New Jersey,5209
+Romania,14459,Constantza,Slovenia,22770,Piran,1344
+Romania,14459,Constantza,Russia,18454,St Petersburg,4599
+Romania,14459,Constantza,Sweden,21206,Stockholm,4330
+Romania,14459,Constantza,Spain,18937,Valencia,1746
+Denmark,10563,Copenhagen,Turkey,246265,Ambarli,3697
+Denmark,10563,Copenhagen,Greece,21863,Aspropyrgos,3401
+Denmark,10563,Copenhagen,Panama,216593,Balboa,5183
+Denmark,10563,Copenhagen,Spain,17386,Barcelona,2427
+Denmark,10563,Copenhagen,Georgia,18137,Batumi,4298
+Denmark,10563,Copenhagen,Norway,26147,Bergen,457
+Denmark,10563,Copenhagen,Tunisia,23448,Bizerte,2655
+Denmark,10563,Copenhagen,France,18012,Brest,1028
+Denmark,10563,Copenhagen,Peru,30045,Callao,6523
+Denmark,10563,Copenhagen,Romania,14459,Constantza,3908
+Denmark,10563,Copenhagen,Panama,216592,Cristobal,5144
+Denmark,10563,Copenhagen,El Salvador,15107,Cutuco,5924
+Denmark,10563,Copenhagen,Ireland,29749,Dublin,1020
+Denmark,10563,Copenhagen,France,18326,Dunkirk,692
+Denmark,10563,Copenhagen,Ecuador,14226,Esmeraldas,5663
+Denmark,10563,Copenhagen,Ukraine,213737,Feodosia,4103
+Denmark,10563,Copenhagen,Portugal,23428,Funchal,2082
+Denmark,10563,Copenhagen,Tunisia,23495,Gabes,2947
+Denmark,10563,Copenhagen,Romania,14470,Galatz,4032
+Denmark,10563,Copenhagen,Poland,12543,Gdansk,274
+Denmark,10563,Copenhagen,Italy,11174,Genoa,2759
+Denmark,10563,Copenhagen,Puerto Rico,13610,Guanica,4336
+Denmark,10563,Copenhagen,Ecuador,29876,Guayaquil,6020
+Denmark,10563,Copenhagen,Germany,224858,Hamburg,252
+Denmark,10563,Copenhagen,Finland,16485,Helsinki,555
+Denmark,10563,Copenhagen,Slovenia,24795,Izola,3556
+Denmark,10563,Copenhagen,Russia,11771,Kaliningrad,307
+Denmark,10563,Copenhagen,Slovenia,21381,Koper,3556
+Denmark,10563,Copenhagen,Finland,16737,Kotka,610
+Denmark,10563,Copenhagen,Portugal,13012,Leixoes,1481
+Denmark,10563,Copenhagen,United Kingdom,29002,Liverpool,1050
+Denmark,10563,Copenhagen,United Kingdom,29239,London,705
+Denmark,10563,Copenhagen,United States of America,14635,Los Angeles,8095
+Denmark,10563,Copenhagen,Sweden,20512,Lysekil,174
+Denmark,10563,Copenhagen,Mexico,14277,Manzanillo,6908
+Denmark,10563,Copenhagen,Venezuela,19974,Maracaibo,4805
+Denmark,10563,Copenhagen,Peru,10860,Matarani,6958
+Denmark,10563,Copenhagen,Turkey,22522,Mersin,3873
+Denmark,10563,Copenhagen,Monaco,21457,Monaco,2681
+Denmark,10563,Copenhagen,Uruguay,17941,Montevideo,6795
+Denmark,10563,Copenhagen,Norway,27728,Narvik,1059
+Denmark,10563,Copenhagen,United States of America,25007,New Jersey,3682
+Denmark,10563,Copenhagen,Greece,21852,Piraeus,3393
+Denmark,10563,Copenhagen,Slovenia,22770,Piran,3556
+Denmark,10563,Copenhagen,Georgia,18682,Poti,4315
+Denmark,10563,Copenhagen,Guatemala,29973,Puerto Quetzal,6072
+Denmark,10563,Copenhagen,Germany,20072,Rostock,108
+Denmark,10563,Copenhagen,Puerto Rico,13756,San Juan,4225
+Denmark,10563,Copenhagen,Portugal,13390,Setubal,1663
+Denmark,10563,Copenhagen,Russia,18454,St Petersburg,699
+Denmark,10563,Copenhagen,Sweden,21206,Stockholm,427
+Denmark,10563,Copenhagen,Estonia,18867,Tallinn,533
+Denmark,10563,Copenhagen,Spain,18937,Valencia,2299
+Denmark,10563,Copenhagen,Italy,13176,Venice,3576
+Denmark,10563,Copenhagen,Mexico,21451,Veracruz,5369
+Denmark,10563,Copenhagen,Netherlands,23247,Vlissingen,654
+Panama,216592,Cristobal,Turkey,246265,Ambarli,6110
+Panama,216592,Cristobal,Spain,17386,Barcelona,4840
+Panama,216592,Cristobal,Tunisia,23448,Bizerte,5068
+Panama,216592,Cristobal,Peru,30045,Callao,1379
+Panama,216592,Cristobal,Romania,14459,Constantza,6321
+Panama,216592,Cristobal,Ukraine,213737,Feodosia,6516
+Panama,216592,Cristobal,Tunisia,23495,Gabes,5360
+Panama,216592,Cristobal,Romania,14470,Galatz,6445
+Panama,216592,Cristobal,Poland,12543,Gdansk,5410
+Panama,216592,Cristobal,Puerto Rico,13610,Guanica,917
+Panama,216592,Cristobal,Slovenia,24795,Izola,5969
+Panama,216592,Cristobal,Russia,11771,Kaliningrad,5445
+Panama,216592,Cristobal,Slovenia,21381,Koper,5969
+Panama,216592,Cristobal,Portugal,13012,Leixoes,4190
+Panama,216592,Cristobal,United Kingdom,29002,Liverpool,4540
+Panama,216592,Cristobal,United Kingdom,29239,London,4760
+Panama,216592,Cristobal,United States of America,14635,Los Angeles,2951
+Panama,216592,Cristobal,Sweden,20512,Lysekil,5017
+Panama,216592,Cristobal,Venezuela,19974,Maracaibo,676
+Panama,216592,Cristobal,Peru,10860,Matarani,1814
+Panama,216592,Cristobal,Turkey,22522,Mersin,6286
+Panama,216592,Cristobal,Uruguay,17941,Montevideo,5247
+Panama,216592,Cristobal,United States of America,25007,New Jersey,1979
+Panama,216592,Cristobal,Slovenia,22770,Piran,5969
+Panama,216592,Cristobal,Puerto Rico,13756,San Juan,992
+Panama,216592,Cristobal,Portugal,13390,Setubal,4170
+Panama,216592,Cristobal,Russia,18454,St Petersburg,5835
+Panama,216592,Cristobal,Sweden,21206,Stockholm,5566
+Panama,216592,Cristobal,Spain,18937,Valencia,4712
+El Salvador,15107,Cutuco,Turkey,246265,Ambarli,6890
+El Salvador,15107,Cutuco,Greece,21863,Aspropyrgos,6594
+El Salvador,15107,Cutuco,Panama,216593,Balboa,741
+El Salvador,15107,Cutuco,Spain,17386,Barcelona,5620
+El Salvador,15107,Cutuco,Georgia,18137,Batumi,7491
+El Salvador,15107,Cutuco,Norway,26147,Bergen,5614
+El Salvador,15107,Cutuco,Tunisia,23448,Bizerte,5848
+El Salvador,15107,Cutuco,France,18012,Brest,5197
+El Salvador,15107,Cutuco,Peru,30045,Callao,1664
+El Salvador,15107,Cutuco,Romania,14459,Constantza,7101
+El Salvador,15107,Cutuco,Panama,216592,Cristobal,780
+El Salvador,15107,Cutuco,Ireland,29749,Dublin,5241
+El Salvador,15107,Cutuco,France,18326,Dunkirk,5487
+El Salvador,15107,Cutuco,Ukraine,213737,Feodosia,7296
+El Salvador,15107,Cutuco,Portugal,23428,Funchal,4519
+El Salvador,15107,Cutuco,Tunisia,23495,Gabes,6140
+El Salvador,15107,Cutuco,Romania,14470,Galatz,7225
+El Salvador,15107,Cutuco,Poland,12543,Gdansk,6190
+El Salvador,15107,Cutuco,Italy,11174,Genoa,5952
+El Salvador,15107,Cutuco,Puerto Rico,13610,Guanica,1697
+El Salvador,15107,Cutuco,Germany,224858,Hamburg,5834
+El Salvador,15107,Cutuco,Finland,16485,Helsinki,6474
+El Salvador,15107,Cutuco,Slovenia,24795,Izola,6749
+El Salvador,15107,Cutuco,Russia,11771,Kaliningrad,6225
+El Salvador,15107,Cutuco,Slovenia,21381,Koper,6749
+El Salvador,15107,Cutuco,Finland,16737,Kotka,6529
+El Salvador,15107,Cutuco,Portugal,13012,Leixoes,4970
+El Salvador,15107,Cutuco,United Kingdom,29002,Liverpool,5320
+El Salvador,15107,Cutuco,United Kingdom,29239,London,5540
+El Salvador,15107,Cutuco,United States of America,14635,Los Angeles,2245
+El Salvador,15107,Cutuco,Sweden,20512,Lysekil,5797
+El Salvador,15107,Cutuco,Mexico,14277,Manzanillo,1055
+El Salvador,15107,Cutuco,Venezuela,19974,Maracaibo,1456
+El Salvador,15107,Cutuco,Peru,10860,Matarani,2099
+El Salvador,15107,Cutuco,Turkey,22522,Mersin,7066
+El Salvador,15107,Cutuco,Monaco,21457,Monaco,5874
+El Salvador,15107,Cutuco,Uruguay,17941,Montevideo,5522
+El Salvador,15107,Cutuco,Norway,27728,Narvik,6015
+El Salvador,15107,Cutuco,United States of America,25007,New Jersey,2759
+El Salvador,15107,Cutuco,Greece,21852,Piraeus,6586
+El Salvador,15107,Cutuco,Slovenia,22770,Piran,6749
+El Salvador,15107,Cutuco,Georgia,18682,Poti,7508
+El Salvador,15107,Cutuco,Guatemala,29973,Puerto Quetzal,202
+El Salvador,15107,Cutuco,Germany,20072,Rostock,6033
+El Salvador,15107,Cutuco,Puerto Rico,13756,San Juan,1772
+El Salvador,15107,Cutuco,Portugal,13390,Setubal,4950
+El Salvador,15107,Cutuco,Russia,18454,St Petersburg,6615
+El Salvador,15107,Cutuco,Sweden,21206,Stockholm,6346
+El Salvador,15107,Cutuco,Estonia,18867,Tallinn,6453
+El Salvador,15107,Cutuco,Spain,18937,Valencia,5492
+El Salvador,15107,Cutuco,Italy,13176,Venice,6769
+El Salvador,15107,Cutuco,Mexico,21451,Veracruz,2190
+El Salvador,15107,Cutuco,Netherlands,23247,Vlissingen,5536
+Ireland,29749,Dublin,Turkey,246265,Ambarli,2981
+Ireland,29749,Dublin,Panama,216593,Balboa,4500
+Ireland,29749,Dublin,Spain,17386,Barcelona,1711
+Ireland,29749,Dublin,Norway,26147,Bergen,710
+Ireland,29749,Dublin,Tunisia,23448,Bizerte,1939
+Ireland,29749,Dublin,Peru,30045,Callao,5840
+Ireland,29749,Dublin,Romania,14459,Constantza,3192
+Ireland,29749,Dublin,Panama,216592,Cristobal,4461
+Ireland,29749,Dublin,Ukraine,213737,Feodosia,3387
+Ireland,29749,Dublin,Portugal,23428,Funchal,1350
+Ireland,29749,Dublin,Tunisia,23495,Gabes,2231
+Ireland,29749,Dublin,Romania,14470,Galatz,3316
+Ireland,29749,Dublin,Poland,12543,Gdansk,1286
+Ireland,29749,Dublin,Italy,11174,Genoa,2043
+Ireland,29749,Dublin,Puerto Rico,13610,Guanica,3614
+Ireland,29749,Dublin,Slovenia,24795,Izola,2840
+Ireland,29749,Dublin,Russia,11771,Kaliningrad,1321
+Ireland,29749,Dublin,Slovenia,21381,Koper,2840
+Ireland,29749,Dublin,Portugal,13012,Leixoes,763
+Ireland,29749,Dublin,United Kingdom,29002,Liverpool,117
+Ireland,29749,Dublin,United Kingdom,29239,London,587
+Ireland,29749,Dublin,United States of America,14635,Los Angeles,7412
+Ireland,29749,Dublin,Sweden,20512,Lysekil,893
+Ireland,29749,Dublin,Mexico,14277,Manzanillo,6225
+Ireland,29749,Dublin,Venezuela,19974,Maracaibo,4098
+Ireland,29749,Dublin,Peru,10860,Matarani,6275
+Ireland,29749,Dublin,Turkey,22522,Mersin,3157
+Ireland,29749,Dublin,Monaco,21457,Monaco,1965
+Ireland,29749,Dublin,Uruguay,17941,Montevideo,6055
+Ireland,29749,Dublin,Norway,27728,Narvik,1209
+Ireland,29749,Dublin,United States of America,25007,New Jersey,3036
+Ireland,29749,Dublin,Slovenia,22770,Piran,2840
+Ireland,29749,Dublin,Puerto Rico,13756,San Juan,3514
+Ireland,29749,Dublin,Portugal,13390,Setubal,945
+Ireland,29749,Dublin,Russia,18454,St Petersburg,1711
+Ireland,29749,Dublin,Sweden,21206,Stockholm,1442
+Ireland,29749,Dublin,Spain,18937,Valencia,1583
+Ireland,29749,Dublin,Italy,13176,Venice,2860
+Ireland,29749,Dublin,Mexico,21451,Veracruz,4757
+Ireland,29749,Dublin,Netherlands,23247,Vlissingen,583
+France,18326,Dunkirk,Turkey,246265,Ambarli,3047
+France,18326,Dunkirk,Greece,21863,Aspropyrgos,2751
+France,18326,Dunkirk,Panama,216593,Balboa,4746
+France,18326,Dunkirk,Spain,17386,Barcelona,1777
+France,18326,Dunkirk,Georgia,18137,Batumi,3648
+France,18326,Dunkirk,Norway,26147,Bergen,592
+France,18326,Dunkirk,Tunisia,23448,Bizerte,2005
+France,18326,Dunkirk,Peru,30045,Callao,6086
+France,18326,Dunkirk,Romania,14459,Constantza,3258
+France,18326,Dunkirk,Panama,216592,Cristobal,4707
+France,18326,Dunkirk,Ireland,29749,Dublin,532
+France,18326,Dunkirk,Ukraine,213737,Feodosia,3453
+France,18326,Dunkirk,Portugal,23428,Funchal,1432
+France,18326,Dunkirk,Tunisia,23495,Gabes,2297
+France,18326,Dunkirk,Romania,14470,Galatz,3382
+France,18326,Dunkirk,Poland,12543,Gdansk,958
+France,18326,Dunkirk,Italy,11174,Genoa,2109
+France,18326,Dunkirk,Puerto Rico,13610,Guanica,3843
+France,18326,Dunkirk,Germany,224858,Hamburg,394
+France,18326,Dunkirk,Slovenia,24795,Izola,2906
+France,18326,Dunkirk,Russia,11771,Kaliningrad,993
+France,18326,Dunkirk,Slovenia,21381,Koper,2906
+France,18326,Dunkirk,Portugal,13012,Leixoes,831
+France,18326,Dunkirk,United Kingdom,29002,Liverpool,597
+France,18326,Dunkirk,United Kingdom,29239,London,111
+France,18326,Dunkirk,United States of America,14635,Los Angeles,7658
+France,18326,Dunkirk,Sweden,20512,Lysekil,576
+France,18326,Dunkirk,Mexico,14277,Manzanillo,6471
+France,18326,Dunkirk,Venezuela,19974,Maracaibo,4327
+France,18326,Dunkirk,Peru,10860,Matarani,6521
+France,18326,Dunkirk,Turkey,22522,Mersin,3223
+France,18326,Dunkirk,Monaco,21457,Monaco,2031
+France,18326,Dunkirk,Uruguay,17941,Montevideo,6145
+France,18326,Dunkirk,Norway,27728,Narvik,1188
+France,18326,Dunkirk,United States of America,25007,New Jersey,3296
+France,18326,Dunkirk,Greece,21852,Piraeus,2743
+France,18326,Dunkirk,Slovenia,22770,Piran,2906
+France,18326,Dunkirk,Georgia,18682,Poti,3665
+France,18326,Dunkirk,Guatemala,29973,Puerto Quetzal,5635
+France,18326,Dunkirk,Germany,20072,Rostock,801
+France,18326,Dunkirk,Puerto Rico,13756,San Juan,3754
+France,18326,Dunkirk,Portugal,13390,Setubal,1013
+France,18326,Dunkirk,Russia,18454,St Petersburg,1383
+France,18326,Dunkirk,Sweden,21206,Stockholm,1114
+France,18326,Dunkirk,Spain,18937,Valencia,1649
+France,18326,Dunkirk,Italy,13176,Venice,2926
+France,18326,Dunkirk,Mexico,21451,Veracruz,5010
+France,18326,Dunkirk,Netherlands,23247,Vlissingen,96
+Ecuador,14226,Esmeraldas,Turkey,246265,Ambarli,6629
+Ecuador,14226,Esmeraldas,Greece,21863,Aspropyrgos,6333
+Ecuador,14226,Esmeraldas,Panama,216593,Balboa,480
+Ecuador,14226,Esmeraldas,Spain,17386,Barcelona,5359
+Ecuador,14226,Esmeraldas,Georgia,18137,Batumi,7230
+Ecuador,14226,Esmeraldas,Norway,26147,Bergen,5353
+Ecuador,14226,Esmeraldas,Tunisia,23448,Bizerte,5587
+Ecuador,14226,Esmeraldas,France,18012,Brest,4936
+Ecuador,14226,Esmeraldas,Peru,30045,Callao,899
+Ecuador,14226,Esmeraldas,Romania,14459,Constantza,6840
+Ecuador,14226,Esmeraldas,Panama,216592,Cristobal,519
+Ecuador,14226,Esmeraldas,El Salvador,15107,Cutuco,898
+Ecuador,14226,Esmeraldas,Ireland,29749,Dublin,4980
+Ecuador,14226,Esmeraldas,France,18326,Dunkirk,5226
+Ecuador,14226,Esmeraldas,Ukraine,213737,Feodosia,7035
+Ecuador,14226,Esmeraldas,Portugal,23428,Funchal,4258
+Ecuador,14226,Esmeraldas,Tunisia,23495,Gabes,5879
+Ecuador,14226,Esmeraldas,Romania,14470,Galatz,6964
+Ecuador,14226,Esmeraldas,Poland,12543,Gdansk,5929
+Ecuador,14226,Esmeraldas,Italy,11174,Genoa,5691
+Ecuador,14226,Esmeraldas,Puerto Rico,13610,Guanica,1436
+Ecuador,14226,Esmeraldas,Ecuador,29876,Guayaquil,394
+Ecuador,14226,Esmeraldas,Germany,224858,Hamburg,5573
+Ecuador,14226,Esmeraldas,Finland,16485,Helsinki,6213
+Ecuador,14226,Esmeraldas,Slovenia,24795,Izola,6488
+Ecuador,14226,Esmeraldas,Russia,11771,Kaliningrad,5964
+Ecuador,14226,Esmeraldas,Slovenia,21381,Koper,6488
+Ecuador,14226,Esmeraldas,Finland,16737,Kotka,6268
+Ecuador,14226,Esmeraldas,Portugal,13012,Leixoes,4709
+Ecuador,14226,Esmeraldas,United Kingdom,29002,Liverpool,5059
+Ecuador,14226,Esmeraldas,United Kingdom,29239,London,5279
+Ecuador,14226,Esmeraldas,United States of America,14635,Los Angeles,3005
+Ecuador,14226,Esmeraldas,Sweden,20512,Lysekil,5536
+Ecuador,14226,Esmeraldas,Mexico,14277,Manzanillo,1830
+Ecuador,14226,Esmeraldas,Venezuela,19974,Maracaibo,1195
+Ecuador,14226,Esmeraldas,Peru,10860,Matarani,1326
+Ecuador,14226,Esmeraldas,Turkey,22522,Mersin,6805
+Ecuador,14226,Esmeraldas,Monaco,21457,Monaco,5613
+Ecuador,14226,Esmeraldas,Uruguay,17941,Montevideo,4774
+Ecuador,14226,Esmeraldas,Norway,27728,Narvik,5754
+Ecuador,14226,Esmeraldas,United States of America,25007,New Jersey,2498
+Ecuador,14226,Esmeraldas,Greece,21852,Piraeus,6325
+Ecuador,14226,Esmeraldas,Slovenia,22770,Piran,6488
+Ecuador,14226,Esmeraldas,Georgia,18682,Poti,7247
+Ecuador,14226,Esmeraldas,Guatemala,29973,Puerto Quetzal,1026
+Ecuador,14226,Esmeraldas,Germany,20072,Rostock,5772
+Ecuador,14226,Esmeraldas,Puerto Rico,13756,San Juan,1511
+Ecuador,14226,Esmeraldas,Portugal,13390,Setubal,4689
+Ecuador,14226,Esmeraldas,Russia,18454,St Petersburg,6354
+Ecuador,14226,Esmeraldas,Sweden,21206,Stockholm,6085
+Ecuador,14226,Esmeraldas,Estonia,18867,Tallinn,6192
+Ecuador,14226,Esmeraldas,Spain,18937,Valencia,5231
+Ecuador,14226,Esmeraldas,Italy,13176,Venice,6508
+Ecuador,14226,Esmeraldas,Mexico,21451,Veracruz,1929
+Ecuador,14226,Esmeraldas,Netherlands,23247,Vlissingen,5275
+Ukraine,213737,Feodosia,United Kingdom,29002,Liverpool,3457
+Ukraine,213737,Feodosia,United Kingdom,29239,London,3511
+Ukraine,213737,Feodosia,United States of America,14635,Los Angeles,9467
+Ukraine,213737,Feodosia,Venezuela,19974,Maracaibo,6076
+Ukraine,213737,Feodosia,Uruguay,17941,Montevideo,7383
+Ukraine,213737,Feodosia,United States of America,25007,New Jersey,5404
+Portugal,23428,Funchal,Turkey,246265,Ambarli,2393
+Portugal,23428,Funchal,Panama,216593,Balboa,3778
+Portugal,23428,Funchal,Spain,17386,Barcelona,1123
+Portugal,23428,Funchal,Norway,26147,Bergen,1982
+Portugal,23428,Funchal,Tunisia,23448,Bizerte,1351
+Portugal,23428,Funchal,Peru,30045,Callao,5118
+Portugal,23428,Funchal,Romania,14459,Constantza,2604
+Portugal,23428,Funchal,Panama,216592,Cristobal,3739
+Portugal,23428,Funchal,Ukraine,213737,Feodosia,2799
+Portugal,23428,Funchal,Tunisia,23495,Gabes,1643
+Portugal,23428,Funchal,Romania,14470,Galatz,2728
+Portugal,23428,Funchal,Poland,12543,Gdansk,2348
+Portugal,23428,Funchal,Puerto Rico,13610,Guanica,2837
+Portugal,23428,Funchal,Slovenia,24795,Izola,2252
+Portugal,23428,Funchal,Russia,11771,Kaliningrad,2383
+Portugal,23428,Funchal,Slovenia,21381,Koper,2252
+Portugal,23428,Funchal,Portugal,13012,Leixoes,655
+Portugal,23428,Funchal,United Kingdom,29002,Liverpool,1429
+Portugal,23428,Funchal,United Kingdom,29239,London,1490
+Portugal,23428,Funchal,United States of America,14635,Los Angeles,6690
+Portugal,23428,Funchal,Sweden,20512,Lysekil,1966
+Portugal,23428,Funchal,Mexico,14277,Manzanillo,5503
+Portugal,23428,Funchal,Venezuela,19974,Maracaibo,3295
+Portugal,23428,Funchal,Peru,10860,Matarani,5553
+Portugal,23428,Funchal,Turkey,22522,Mersin,2569
+Portugal,23428,Funchal,Monaco,21457,Monaco,1377
+Portugal,23428,Funchal,Uruguay,17941,Montevideo,4721
+Portugal,23428,Funchal,Norway,27728,Narvik,2505
+Portugal,23428,Funchal,United States of America,25007,New Jersey,2768
+Portugal,23428,Funchal,Slovenia,22770,Piran,2252
+Portugal,23428,Funchal,Puerto Rico,13756,San Juan,2776
+Portugal,23428,Funchal,Portugal,13390,Setubal,536
+Portugal,23428,Funchal,Russia,18454,St Petersburg,2773
+Portugal,23428,Funchal,Sweden,21206,Stockholm,2504
+Portugal,23428,Funchal,Spain,18937,Valencia,995
+Portugal,23428,Funchal,Mexico,21451,Veracruz,4295
+Portugal,23428,Funchal,Netherlands,23247,Vlissingen,1486
+Tunisia,23495,Gabes,Turkey,246265,Ambarli,1059
+Tunisia,23495,Gabes,Ukraine,213737,Feodosia,1465
+Tunisia,23495,Gabes,United Kingdom,29002,Liverpool,2301
+Tunisia,23495,Gabes,United Kingdom,29239,London,2355
+Tunisia,23495,Gabes,United States of America,14635,Los Angeles,8311
+Tunisia,23495,Gabes,Venezuela,19974,Maracaibo,4920
+Tunisia,23495,Gabes,Turkey,22522,Mersin,1225
+Tunisia,23495,Gabes,Uruguay,17941,Montevideo,6227
+Tunisia,23495,Gabes,United States of America,25007,New Jersey,4248
+Romania,14470,Galatz,Turkey,246265,Ambarli,335
+Romania,14470,Galatz,Spain,17386,Barcelona,1789
+Romania,14470,Galatz,Tunisia,23448,Bizerte,1373
+Romania,14470,Galatz,Ukraine,213737,Feodosia,364
+Romania,14470,Galatz,Tunisia,23495,Gabes,1394
+Romania,14470,Galatz,Slovenia,24795,Izola,1468
+Romania,14470,Galatz,Russia,11771,Kaliningrad,4333
+Romania,14470,Galatz,Slovenia,21381,Koper,1468
+Romania,14470,Galatz,United Kingdom,29002,Liverpool,3386
+Romania,14470,Galatz,United Kingdom,29239,London,3440
+Romania,14470,Galatz,United States of America,14635,Los Angeles,9396
+Romania,14470,Galatz,Sweden,20512,Lysekil,3916
+Romania,14470,Galatz,Venezuela,19974,Maracaibo,6005
+Romania,14470,Galatz,Turkey,22522,Mersin,1070
+Romania,14470,Galatz,Uruguay,17941,Montevideo,7312
+Romania,14470,Galatz,United States of America,25007,New Jersey,5333
+Romania,14470,Galatz,Slovenia,22770,Piran,1468
+Romania,14470,Galatz,Russia,18454,St Petersburg,4723
+Romania,14470,Galatz,Sweden,21206,Stockholm,4454
+Romania,14470,Galatz,Spain,18937,Valencia,1870
+Poland,12543,Gdansk,Turkey,246265,Ambarli,3963
+Poland,12543,Gdansk,Spain,17386,Barcelona,2693
+Poland,12543,Gdansk,Tunisia,23448,Bizerte,2921
+Poland,12543,Gdansk,Romania,14459,Constantza,4174
+Poland,12543,Gdansk,Ukraine,213737,Feodosia,4369
+Poland,12543,Gdansk,Tunisia,23495,Gabes,3213
+Poland,12543,Gdansk,Romania,14470,Galatz,4298
+Poland,12543,Gdansk,Puerto Rico,13610,Guanica,4602
+Poland,12543,Gdansk,Slovenia,24795,Izola,3822
+Poland,12543,Gdansk,Russia,11771,Kaliningrad,67
+Poland,12543,Gdansk,Slovenia,21381,Koper,3822
+Poland,12543,Gdansk,Portugal,13012,Leixoes,1747
+Poland,12543,Gdansk,United Kingdom,29002,Liverpool,1316
+Poland,12543,Gdansk,United Kingdom,29239,London,971
+Poland,12543,Gdansk,United States of America,14635,Los Angeles,8361
+Poland,12543,Gdansk,Sweden,20512,Lysekil,439
+Poland,12543,Gdansk,Venezuela,19974,Maracaibo,5071
+Poland,12543,Gdansk,Turkey,22522,Mersin,4139
+Poland,12543,Gdansk,Uruguay,17941,Montevideo,7061
+Poland,12543,Gdansk,United States of America,25007,New Jersey,3948
+Poland,12543,Gdansk,Slovenia,22770,Piran,3822
+Poland,12543,Gdansk,Puerto Rico,13756,San Juan,4491
+Poland,12543,Gdansk,Portugal,13390,Setubal,1929
+Poland,12543,Gdansk,Russia,18454,St Petersburg,565
+Poland,12543,Gdansk,Sweden,21206,Stockholm,345
+Poland,12543,Gdansk,Spain,18937,Valencia,2565
+Italy,11174,Genoa,Turkey,246265,Ambarli,1270
+Italy,11174,Genoa,Panama,216593,Balboa,5211
+Italy,11174,Genoa,Spain,17386,Barcelona,352
+Italy,11174,Genoa,Norway,26147,Bergen,2659
+Italy,11174,Genoa,Tunisia,23448,Bizerte,431
+Italy,11174,Genoa,Peru,30045,Callao,6551
+Italy,11174,Genoa,Romania,14459,Constantza,1481
+Italy,11174,Genoa,Panama,216592,Cristobal,5172
+Italy,11174,Genoa,Ukraine,213737,Feodosia,1676
+Italy,11174,Genoa,Portugal,23428,Funchal,1455
+Italy,11174,Genoa,Tunisia,23495,Gabes,682
+Italy,11174,Genoa,Romania,14470,Galatz,1605
+Italy,11174,Genoa,Poland,12543,Gdansk,3025
+Italy,11174,Genoa,Puerto Rico,13610,Guanica,4270
+Italy,11174,Genoa,Slovenia,24795,Izola,1107
+Italy,11174,Genoa,Russia,11771,Kaliningrad,3060
+Italy,11174,Genoa,Slovenia,21381,Koper,1107
+Italy,11174,Genoa,Portugal,13012,Leixoes,1301
+Italy,11174,Genoa,United Kingdom,29002,Liverpool,2113
+Italy,11174,Genoa,United Kingdom,29239,London,2167
+Italy,11174,Genoa,United States of America,14635,Los Angeles,8123
+Italy,11174,Genoa,Sweden,20512,Lysekil,2643
+Italy,11174,Genoa,Mexico,14277,Manzanillo,6936
+Italy,11174,Genoa,Venezuela,19974,Maracaibo,4732
+Italy,11174,Genoa,Peru,10860,Matarani,6986
+Italy,11174,Genoa,Turkey,22522,Mersin,1452
+Italy,11174,Genoa,Monaco,21457,Monaco,86
+Italy,11174,Genoa,Uruguay,17941,Montevideo,6039
+Italy,11174,Genoa,Norway,27728,Narvik,3255
+Italy,11174,Genoa,United States of America,25007,New Jersey,4060
+Italy,11174,Genoa,Slovenia,22770,Piran,1107
+Italy,11174,Genoa,Puerto Rico,13756,San Juan,4201
+Italy,11174,Genoa,Portugal,13390,Setubal,1131
+Italy,11174,Genoa,Russia,18454,St Petersburg,3450
+Italy,11174,Genoa,Sweden,21206,Stockholm,3181
+Italy,11174,Genoa,Spain,18937,Valencia,510
+Italy,11174,Genoa,Italy,13176,Venice,1127
+Italy,11174,Genoa,Mexico,21451,Veracruz,5666
+Italy,11174,Genoa,Netherlands,23247,Vlissingen,2163
+Puerto Rico,13610,Guanica,Turkey,246265,Ambarli,5208
+Puerto Rico,13610,Guanica,Spain,17386,Barcelona,3938
+Puerto Rico,13610,Guanica,Tunisia,23448,Bizerte,4166
+Puerto Rico,13610,Guanica,Romania,14459,Constantza,5419
+Puerto Rico,13610,Guanica,Ukraine,213737,Feodosia,5614
+Puerto Rico,13610,Guanica,Tunisia,23495,Gabes,4458
+Puerto Rico,13610,Guanica,Romania,14470,Galatz,5543
+Puerto Rico,13610,Guanica,Slovenia,24795,Izola,5067
+Puerto Rico,13610,Guanica,Russia,11771,Kaliningrad,4637
+Puerto Rico,13610,Guanica,Slovenia,21381,Koper,5067
+Puerto Rico,13610,Guanica,United Kingdom,29002,Liverpool,3693
+Puerto Rico,13610,Guanica,United Kingdom,29239,London,3896
+Puerto Rico,13610,Guanica,United States of America,14635,Los Angeles,3868
+Puerto Rico,13610,Guanica,Sweden,20512,Lysekil,4209
+Puerto Rico,13610,Guanica,Venezuela,19974,Maracaibo,530
+Puerto Rico,13610,Guanica,Turkey,22522,Mersin,5384
+Puerto Rico,13610,Guanica,Uruguay,17941,Montevideo,4593
+Puerto Rico,13610,Guanica,United States of America,25007,New Jersey,1455
+Puerto Rico,13610,Guanica,Slovenia,22770,Piran,5067
+Puerto Rico,13610,Guanica,Puerto Rico,13756,San Juan,129
+Puerto Rico,13610,Guanica,Russia,18454,St Petersburg,5027
+Puerto Rico,13610,Guanica,Sweden,21206,Stockholm,4758
+Puerto Rico,13610,Guanica,Spain,18937,Valencia,3810
+Ecuador,29876,Guayaquil,Turkey,246265,Ambarli,6986
+Ecuador,29876,Guayaquil,Greece,21863,Aspropyrgos,6690
+Ecuador,29876,Guayaquil,Panama,216593,Balboa,837
+Ecuador,29876,Guayaquil,Spain,17386,Barcelona,5716
+Ecuador,29876,Guayaquil,Georgia,18137,Batumi,7587
+Ecuador,29876,Guayaquil,Norway,26147,Bergen,5710
+Ecuador,29876,Guayaquil,Tunisia,23448,Bizerte,5944
+Ecuador,29876,Guayaquil,France,18012,Brest,5293
+Ecuador,29876,Guayaquil,Peru,30045,Callao,706
+Ecuador,29876,Guayaquil,Romania,14459,Constantza,7197
+Ecuador,29876,Guayaquil,Panama,216592,Cristobal,876
+Ecuador,29876,Guayaquil,El Salvador,15107,Cutuco,1180
+Ecuador,29876,Guayaquil,Ireland,29749,Dublin,5337
+Ecuador,29876,Guayaquil,France,18326,Dunkirk,5583
+Ecuador,29876,Guayaquil,Ukraine,213737,Feodosia,7392
+Ecuador,29876,Guayaquil,Portugal,23428,Funchal,4615
+Ecuador,29876,Guayaquil,Tunisia,23495,Gabes,6236
+Ecuador,29876,Guayaquil,Romania,14470,Galatz,7321
+Ecuador,29876,Guayaquil,Poland,12543,Gdansk,6286
+Ecuador,29876,Guayaquil,Italy,11174,Genoa,6048
+Ecuador,29876,Guayaquil,Puerto Rico,13610,Guanica,1793
+Ecuador,29876,Guayaquil,Germany,224858,Hamburg,5930
+Ecuador,29876,Guayaquil,Finland,16485,Helsinki,6570
+Ecuador,29876,Guayaquil,Slovenia,24795,Izola,6845
+Ecuador,29876,Guayaquil,Russia,11771,Kaliningrad,6321
+Ecuador,29876,Guayaquil,Slovenia,21381,Koper,6845
+Ecuador,29876,Guayaquil,Finland,16737,Kotka,6625
+Ecuador,29876,Guayaquil,Portugal,13012,Leixoes,5066
+Ecuador,29876,Guayaquil,United Kingdom,29002,Liverpool,5416
+Ecuador,29876,Guayaquil,United Kingdom,29239,London,5636
+Ecuador,29876,Guayaquil,United States of America,14635,Los Angeles,3228
+Ecuador,29876,Guayaquil,Sweden,20512,Lysekil,5893
+Ecuador,29876,Guayaquil,Mexico,14277,Manzanillo,2036
+Ecuador,29876,Guayaquil,Venezuela,19974,Maracaibo,1552
+Ecuador,29876,Guayaquil,Peru,10860,Matarani,1146
+Ecuador,29876,Guayaquil,Turkey,22522,Mersin,7162
+Ecuador,29876,Guayaquil,Monaco,21457,Monaco,5970
+Ecuador,29876,Guayaquil,Uruguay,17941,Montevideo,4596
+Ecuador,29876,Guayaquil,Norway,27728,Narvik,6111
+Ecuador,29876,Guayaquil,United States of America,25007,New Jersey,2855
+Ecuador,29876,Guayaquil,Greece,21852,Piraeus,6682
+Ecuador,29876,Guayaquil,Slovenia,22770,Piran,6845
+Ecuador,29876,Guayaquil,Georgia,18682,Poti,7604
+Ecuador,29876,Guayaquil,Guatemala,29973,Puerto Quetzal,1290
+Ecuador,29876,Guayaquil,Germany,20072,Rostock,6129
+Ecuador,29876,Guayaquil,Puerto Rico,13756,San Juan,1868
+Ecuador,29876,Guayaquil,Portugal,13390,Setubal,5046
+Ecuador,29876,Guayaquil,Russia,18454,St Petersburg,6711
+Ecuador,29876,Guayaquil,Sweden,21206,Stockholm,6442
+Ecuador,29876,Guayaquil,Estonia,18867,Tallinn,6549
+Ecuador,29876,Guayaquil,Spain,18937,Valencia,5588
+Ecuador,29876,Guayaquil,Italy,13176,Venice,6865
+Ecuador,29876,Guayaquil,Mexico,21451,Veracruz,2286
+Ecuador,29876,Guayaquil,Netherlands,23247,Vlissingen,5632
+Canada,22226,Halifax,Denmark,10358,Aarhus,3006
+Canada,22226,Halifax,Turkey,246265,Ambarli,4499
+Canada,22226,Halifax,Greece,21863,Aspropyrgos,4203
+Canada,22226,Halifax,Panama,216593,Balboa,2337
+Canada,22226,Halifax,Spain,17386,Barcelona,3229
+Canada,22226,Halifax,Georgia,18137,Batumi,5100
+Canada,22226,Halifax,Norway,26147,Bergen,2720
+Canada,22226,Halifax,Tunisia,23448,Bizerte,3457
+Canada,22226,Halifax,France,18012,Brest,2431
+Canada,22226,Halifax,Colombia,28261,Buenaventura,2691
+Canada,22226,Halifax,Peru,30045,Callao,3677
+Canada,22226,Halifax,Colombia,28313,Cartagena,2175
+Canada,22226,Halifax,Romania,14459,Constantza,4710
+Canada,22226,Halifax,Denmark,10563,Copenhagen,3030
+Canada,22226,Halifax,Panama,216592,Cristobal,2298
+Canada,22226,Halifax,El Salvador,15107,Cutuco,3078
+Canada,22226,Halifax,Ireland,29749,Dublin,2423
+Canada,22226,Halifax,France,18326,Dunkirk,2688
+Canada,22226,Halifax,Ecuador,14226,Esmeraldas,2817
+Canada,22226,Halifax,Ukraine,213737,Feodosia,4905
+Canada,22226,Halifax,Portugal,23428,Funchal,2279
+Canada,22226,Halifax,Tunisia,23495,Gabes,3749
+Canada,22226,Halifax,Romania,14470,Galatz,4834
+Canada,22226,Halifax,Poland,12543,Gdansk,3296
+Canada,22226,Halifax,Italy,11174,Genoa,3561
+Canada,22226,Halifax,Puerto Rico,13610,Guanica,1652
+Canada,22226,Halifax,Ecuador,29876,Guayaquil,3174
+Canada,22226,Halifax,Germany,224858,Hamburg,2975
+Canada,22226,Halifax,Finland,16485,Helsinki,3580
+Canada,22226,Halifax,Slovenia,24795,Izola,4358
+Canada,22226,Halifax,Russia,11771,Kaliningrad,3331
+Canada,22226,Halifax,Slovenia,21381,Koper,4358
+Canada,22226,Halifax,Finland,16737,Kotka,3635
+Canada,22226,Halifax,Cyprus,10136,Larnaca,4635
+Canada,22226,Halifax,Portugal,13012,Leixoes,2466
+Canada,22226,Halifax,United Kingdom,29002,Liverpool,2493
+Canada,22226,Halifax,United Kingdom,29239,London,2741
+Canada,22226,Halifax,United States of America,14635,Los Angeles,5249
+Canada,22226,Halifax,Sweden,20512,Lysekil,2903
+Canada,22226,Halifax,Mexico,14277,Manzanillo,4062
+Canada,22226,Halifax,Venezuela,19974,Maracaibo,2125
+Canada,22226,Halifax,Peru,10860,Matarani,4112
+Canada,22226,Halifax,Turkey,22522,Mersin,4675
+Canada,22226,Halifax,Monaco,21457,Monaco,3483
+Canada,22226,Halifax,Uruguay,17941,Montevideo,5618
+Canada,22226,Halifax,Norway,27728,Narvik,3121
+Canada,22226,Halifax,United States of America,25007,New Jersey,600
+Canada,22226,Halifax,Greece,21852,Piraeus,4195
+Canada,22226,Halifax,Slovenia,22770,Piran,4358
+Canada,22226,Halifax,Georgia,18682,Poti,5117
+Canada,22226,Halifax,Costa Rica,28781,Puerto Limon,2367
+Canada,22226,Halifax,Guatemala,29973,Puerto Quetzal,3226
+Canada,22226,Halifax,Croatia,24951,Rijeka,4322
+Canada,22226,Halifax,Germany,20072,Rostock,3139
+Canada,22226,Halifax,Puerto Rico,13756,San Juan,1580
+Canada,22226,Halifax,Chile,27792,San Vicente,5139
+Canada,22226,Halifax,Portugal,13390,Setubal,2507
+Canada,22226,Halifax,Croatia,21556,Split,4202
+Canada,22226,Halifax,Russia,18454,St Petersburg,3721
+Canada,22226,Halifax,Sweden,21206,Stockholm,3452
+Canada,22226,Halifax,Estonia,18867,Tallinn,3559
+Canada,22226,Halifax,Spain,18937,Valencia,3101
+Canada,22226,Halifax,Chile,28082,Valparaiso,4952
+Canada,22226,Halifax,Canada,25350,Vancouver,6358
+Canada,22226,Halifax,Italy,13176,Venice,4378
+Canada,22226,Halifax,Mexico,21451,Veracruz,2399
+Canada,22226,Halifax,Netherlands,23247,Vlissingen,2737
+Germany,224858,Hamburg,Turkey,246265,Ambarli,3399
+Germany,224858,Hamburg,Greece,21863,Aspropyrgos,3103
+Germany,224858,Hamburg,Panama,216593,Balboa,5093
+Germany,224858,Hamburg,Spain,17386,Barcelona,2129
+Germany,224858,Hamburg,Norway,26147,Bergen,487
+Germany,224858,Hamburg,Tunisia,23448,Bizerte,2357
+Germany,224858,Hamburg,Peru,30045,Callao,6433
+Germany,224858,Hamburg,Romania,14459,Constantza,3610
+Germany,224858,Hamburg,Panama,216592,Cristobal,5054
+Germany,224858,Hamburg,Ireland,29749,Dublin,881
+Germany,224858,Hamburg,Ukraine,213737,Feodosia,3805
+Germany,224858,Hamburg,Portugal,23428,Funchal,1784
+Germany,224858,Hamburg,Tunisia,23495,Gabes,2649
+Germany,224858,Hamburg,Romania,14470,Galatz,3734
+Germany,224858,Hamburg,Poland,12543,Gdansk,434
+Germany,224858,Hamburg,Italy,11174,Genoa,2461
+Germany,224858,Hamburg,Puerto Rico,13610,Guanica,4190
+Germany,224858,Hamburg,Slovenia,24795,Izola,3258
+Germany,224858,Hamburg,Russia,11771,Kaliningrad,455
+Germany,224858,Hamburg,Slovenia,21381,Koper,3258
+Germany,224858,Hamburg,Portugal,13012,Leixoes,1183
+Germany,224858,Hamburg,United Kingdom,29002,Liverpool,946
+Germany,224858,Hamburg,United Kingdom,29239,London,428
+Germany,224858,Hamburg,United States of America,14635,Los Angeles,8005
+Germany,224858,Hamburg,Sweden,20512,Lysekil,393
+Germany,224858,Hamburg,Mexico,14277,Manzanillo,6818
+Germany,224858,Hamburg,Venezuela,19974,Maracaibo,4674
+Germany,224858,Hamburg,Peru,10860,Matarani,6868
+Germany,224858,Hamburg,Turkey,22522,Mersin,3575
+Germany,224858,Hamburg,Monaco,21457,Monaco,2383
+Germany,224858,Hamburg,Uruguay,17941,Montevideo,6497
+Germany,224858,Hamburg,Norway,27728,Narvik,1077
+Germany,224858,Hamburg,United States of America,25007,New Jersey,3627
+Germany,224858,Hamburg,Greece,21852,Piraeus,3095
+Germany,224858,Hamburg,Slovenia,22770,Piran,3258
+Germany,224858,Hamburg,Guatemala,29973,Puerto Quetzal,5982
+Germany,224858,Hamburg,Germany,20072,Rostock,174
+Germany,224858,Hamburg,Puerto Rico,13756,San Juan,4101
+Germany,224858,Hamburg,Portugal,13390,Setubal,1365
+Germany,224858,Hamburg,Russia,18454,St Petersburg,868
+Germany,224858,Hamburg,Sweden,21206,Stockholm,587
+Germany,224858,Hamburg,Spain,18937,Valencia,2001
+Germany,224858,Hamburg,Italy,13176,Venice,3278
+Germany,224858,Hamburg,Mexico,21451,Veracruz,5314
+Germany,224858,Hamburg,Netherlands,23247,Vlissingen,355
+Finland,16485,Helsinki,Turkey,246265,Ambarli,4247
+Finland,16485,Helsinki,Greece,21863,Aspropyrgos,3951
+Finland,16485,Helsinki,Panama,216593,Balboa,5733
+Finland,16485,Helsinki,Spain,17386,Barcelona,2977
+Finland,16485,Helsinki,Georgia,18137,Batumi,4848
+Finland,16485,Helsinki,Norway,26147,Bergen,1007
+Finland,16485,Helsinki,Tunisia,23448,Bizerte,3205
+Finland,16485,Helsinki,France,18012,Brest,1578
+Finland,16485,Helsinki,Peru,30045,Callao,7073
+Finland,16485,Helsinki,Romania,14459,Constantza,4458
+Finland,16485,Helsinki,Panama,216592,Cristobal,5694
+Finland,16485,Helsinki,Ireland,29749,Dublin,1570
+Finland,16485,Helsinki,France,18326,Dunkirk,1242
+Finland,16485,Helsinki,Ukraine,213737,Feodosia,4653
+Finland,16485,Helsinki,Portugal,23428,Funchal,2632
+Finland,16485,Helsinki,Tunisia,23495,Gabes,3497
+Finland,16485,Helsinki,Romania,14470,Galatz,4582
+Finland,16485,Helsinki,Poland,12543,Gdansk,422
+Finland,16485,Helsinki,Italy,11174,Genoa,3309
+Finland,16485,Helsinki,Puerto Rico,13610,Guanica,4886
+Finland,16485,Helsinki,Germany,224858,Hamburg,721
+Finland,16485,Helsinki,Slovenia,24795,Izola,4106
+Finland,16485,Helsinki,Russia,11771,Kaliningrad,424
+Finland,16485,Helsinki,Slovenia,21381,Koper,4106
+Finland,16485,Helsinki,Finland,16737,Kotka,87
+Finland,16485,Helsinki,Portugal,13012,Leixoes,2031
+Finland,16485,Helsinki,United Kingdom,29002,Liverpool,1600
+Finland,16485,Helsinki,United Kingdom,29239,London,1255
+Finland,16485,Helsinki,United States of America,14635,Los Angeles,8645
+Finland,16485,Helsinki,Sweden,20512,Lysekil,723
+Finland,16485,Helsinki,Mexico,14277,Manzanillo,7458
+Finland,16485,Helsinki,Venezuela,19974,Maracaibo,5355
+Finland,16485,Helsinki,Peru,10860,Matarani,7508
+Finland,16485,Helsinki,Turkey,22522,Mersin,4423
+Finland,16485,Helsinki,Monaco,21457,Monaco,3231
+Finland,16485,Helsinki,Uruguay,17941,Montevideo,7345
+Finland,16485,Helsinki,Norway,27728,Narvik,1609
+Finland,16485,Helsinki,United States of America,25007,New Jersey,4232
+Finland,16485,Helsinki,Greece,21852,Piraeus,3943
+Finland,16485,Helsinki,Slovenia,22770,Piran,4106
+Finland,16485,Helsinki,Georgia,18682,Poti,4865
+Finland,16485,Helsinki,Guatemala,29973,Puerto Quetzal,6622
+Finland,16485,Helsinki,Germany,20072,Rostock,580
+Finland,16485,Helsinki,Puerto Rico,13756,San Juan,4775
+Finland,16485,Helsinki,Portugal,13390,Setubal,2213
+Finland,16485,Helsinki,Russia,18454,St Petersburg,171
+Finland,16485,Helsinki,Sweden,21206,Stockholm,237
+Finland,16485,Helsinki,Spain,18937,Valencia,2849
+Finland,16485,Helsinki,Italy,13176,Venice,4126
+Finland,16485,Helsinki,Mexico,21451,Veracruz,5919
+Finland,16485,Helsinki,Netherlands,23247,Vlissingen,1204
+Portugal,18433,Horta,Denmark,10358,Aarhus,2137
+Portugal,18433,Horta,Turkey,246265,Ambarli,2909
+Portugal,18433,Horta,Belgium,19057,Antwerp,1615
+Portugal,18433,Horta,Greece,21863,Aspropyrgos,2613
+Portugal,18433,Horta,Panama,216593,Balboa,3300
+Portugal,18433,Horta,Spain,17386,Barcelona,1639
+Portugal,18433,Horta,Georgia,18137,Batumi,3510
+Portugal,18433,Horta,Norway,26147,Bergen,1864
+Portugal,18433,Horta,Tunisia,23448,Bizerte,1867
+Portugal,18433,Horta,Bulgaria,20826,Bourgas,3050
+Portugal,18433,Horta,France,18012,Brest,1199
+Portugal,18433,Horta,Colombia,28261,Buenaventura,3654
+Portugal,18433,Horta,Peru,30045,Callao,4640
+Portugal,18433,Horta,Colombia,28313,Cartagena,3047
+Portugal,18433,Horta,Romania,14459,Constantza,3120
+Portugal,18433,Horta,Denmark,10563,Copenhagen,2161
+Portugal,18433,Horta,Panama,216592,Cristobal,3261
+Portugal,18433,Horta,El Salvador,15107,Cutuco,4041
+Portugal,18433,Horta,Ireland,29749,Dublin,1324
+Portugal,18433,Horta,France,18326,Dunkirk,1511
+Portugal,18433,Horta,Ecuador,14226,Esmeraldas,3780
+Portugal,18433,Horta,Ukraine,213737,Feodosia,3315
+Portugal,18433,Horta,Portugal,23428,Funchal,678
+Portugal,18433,Horta,Tunisia,23495,Gabes,2159
+Portugal,18433,Horta,Romania,14470,Galatz,3244
+Portugal,18433,Horta,Poland,12543,Gdansk,2427
+Portugal,18433,Horta,Italy,11174,Genoa,1971
+Portugal,18433,Horta,Puerto Rico,13610,Guanica,2375
+Portugal,18433,Horta,Ecuador,29876,Guayaquil,4137
+Portugal,18433,Horta,Canada,22226,Halifax,1609
+Portugal,18433,Horta,Germany,224858,Hamburg,1863
+Portugal,18433,Horta,Finland,16485,Helsinki,2711
+Portugal,18433,Horta,Slovenia,24795,Izola,2768
+Portugal,18433,Horta,Russia,11771,Kaliningrad,2462
+Portugal,18433,Horta,Slovenia,21381,Koper,2768
+Portugal,18433,Horta,Finland,16737,Kotka,2766
+Portugal,18433,Horta,Cyprus,10136,Larnaca,3045
+Portugal,18433,Horta,Portugal,13012,Leixoes,937
+Portugal,18433,Horta,United Kingdom,29002,Liverpool,1403
+Portugal,18433,Horta,United Kingdom,29239,London,1569
+Portugal,18433,Horta,United States of America,14635,Los Angeles,6212
+Portugal,18433,Horta,Sweden,20512,Lysekil,2045
+Portugal,18433,Horta,Mexico,14277,Manzanillo,5025
+Portugal,18433,Horta,Venezuela,19974,Maracaibo,2859
+Portugal,18433,Horta,Peru,10860,Matarani,5075
+Portugal,18433,Horta,Turkey,22522,Mersin,3085
+Portugal,18433,Horta,Monaco,21457,Monaco,1893
+Portugal,18433,Horta,Uruguay,17941,Montevideo,4898
+Portugal,18433,Horta,Norway,27728,Narvik,2363
+Portugal,18433,Horta,United States of America,25007,New Jersey,2106
+Portugal,18433,Horta,Greece,21852,Piraeus,2605
+Portugal,18433,Horta,Slovenia,22770,Piran,2768
+Portugal,18433,Horta,Portugal,18476,Ponta Delgada,155
+Portugal,18433,Horta,Georgia,18682,Poti,3527
+Portugal,18433,Horta,Costa Rica,28781,Puerto Limon,3393
+Portugal,18433,Horta,Guatemala,29973,Puerto Quetzal,4189
+Portugal,18433,Horta,Croatia,24951,Rijeka,2732
+Portugal,18433,Horta,Brazil,20301,Rio Grande,4604
+Portugal,18433,Horta,Germany,20072,Rostock,2270
+Portugal,18433,Horta,Brazil,20351,Salvador,3209
+Portugal,18433,Horta,Puerto Rico,13756,San Juan,2296
+Portugal,18433,Horta,Chile,27792,San Vicente,6102
+Portugal,18433,Horta,Brazil,27248,Santos,4082
+Portugal,18433,Horta,Portugal,13390,Setubal,939
+Portugal,18433,Horta,Croatia,21556,Split,2612
+Portugal,18433,Horta,Russia,18454,St Petersburg,2852
+Portugal,18433,Horta,Sweden,21206,Stockholm,2583
+Portugal,18433,Horta,Estonia,18867,Tallinn,2690
+Portugal,18433,Horta,Spain,18937,Valencia,1511
+Portugal,18433,Horta,Chile,28082,Valparaiso,5915
+Portugal,18433,Horta,Canada,25350,Vancouver,7321
+Portugal,18433,Horta,Bulgaria,20847,Varna,3073
+Portugal,18433,Horta,Italy,13176,Venice,2788
+Portugal,18433,Horta,Mexico,21451,Veracruz,3704
+Portugal,18433,Horta,Netherlands,23247,Vlissingen,1565
+Portugal,18433,Horta,Belgium,19473,Zeebrugge,1544
+Slovenia,24795,Izola,Turkey,246265,Ambarli,1133
+Slovenia,24795,Izola,Spain,17386,Barcelona,1296
+Slovenia,24795,Izola,Tunisia,23448,Bizerte,914
+Slovenia,24795,Izola,Ukraine,213737,Feodosia,1539
+Slovenia,24795,Izola,Tunisia,23495,Gabes,965
+Slovenia,24795,Izola,United Kingdom,29002,Liverpool,2910
+Slovenia,24795,Izola,United Kingdom,29239,London,2964
+Slovenia,24795,Izola,United States of America,14635,Los Angeles,8920
+Slovenia,24795,Izola,Sweden,20512,Lysekil,3440
+Slovenia,24795,Izola,Venezuela,19974,Maracaibo,5529
+Slovenia,24795,Izola,Turkey,22522,Mersin,1316
+Slovenia,24795,Izola,Uruguay,17941,Montevideo,6836
+Slovenia,24795,Izola,United States of America,25007,New Jersey,4857
+Slovenia,24795,Izola,Sweden,21206,Stockholm,3978
+Slovenia,24795,Izola,Spain,18937,Valencia,1384
+Russia,11771,Kaliningrad,Turkey,246265,Ambarli,3998
+Russia,11771,Kaliningrad,Spain,17386,Barcelona,2728
+Russia,11771,Kaliningrad,Tunisia,23448,Bizerte,2956
+Russia,11771,Kaliningrad,Ukraine,213737,Feodosia,4404
+Russia,11771,Kaliningrad,Tunisia,23495,Gabes,3248
+Russia,11771,Kaliningrad,Slovenia,24795,Izola,3857
+Russia,11771,Kaliningrad,Slovenia,21381,Koper,3857
+Russia,11771,Kaliningrad,United Kingdom,29002,Liverpool,1351
+Russia,11771,Kaliningrad,United Kingdom,29239,London,1006
+Russia,11771,Kaliningrad,United States of America,14635,Los Angeles,8396
+Russia,11771,Kaliningrad,Sweden,20512,Lysekil,473
+Russia,11771,Kaliningrad,Venezuela,19974,Maracaibo,5106
+Russia,11771,Kaliningrad,Turkey,22522,Mersin,4174
+Russia,11771,Kaliningrad,Uruguay,17941,Montevideo,7096
+Russia,11771,Kaliningrad,United States of America,25007,New Jersey,3983
+Russia,11771,Kaliningrad,Slovenia,22770,Piran,3857
+Russia,11771,Kaliningrad,Russia,18454,St Petersburg,568
+Russia,11771,Kaliningrad,Sweden,21206,Stockholm,340
+Russia,11771,Kaliningrad,Spain,18937,Valencia,2600
+Slovenia,21381,Koper,Turkey,246265,Ambarli,1133
+Slovenia,21381,Koper,Spain,17386,Barcelona,1296
+Slovenia,21381,Koper,Tunisia,23448,Bizerte,914
+Slovenia,21381,Koper,Ukraine,213737,Feodosia,1539
+Slovenia,21381,Koper,Tunisia,23495,Gabes,965
+Slovenia,21381,Koper,United Kingdom,29002,Liverpool,2910
+Slovenia,21381,Koper,United Kingdom,29239,London,2964
+Slovenia,21381,Koper,United States of America,14635,Los Angeles,8920
+Slovenia,21381,Koper,Sweden,20512,Lysekil,3440
+Slovenia,21381,Koper,Venezuela,19974,Maracaibo,5529
+Slovenia,21381,Koper,Turkey,22522,Mersin,1316
+Slovenia,21381,Koper,Uruguay,17941,Montevideo,6836
+Slovenia,21381,Koper,United States of America,25007,New Jersey,4857
+Slovenia,21381,Koper,Sweden,21206,Stockholm,3978
+Slovenia,21381,Koper,Spain,18937,Valencia,1384
+Finland,16737,Kotka,Turkey,246265,Ambarli,4302
+Finland,16737,Kotka,Greece,21863,Aspropyrgos,4006
+Finland,16737,Kotka,Panama,216593,Balboa,5788
+Finland,16737,Kotka,Spain,17386,Barcelona,3032
+Finland,16737,Kotka,Georgia,18137,Batumi,4903
+Finland,16737,Kotka,Norway,26147,Bergen,1062
+Finland,16737,Kotka,Tunisia,23448,Bizerte,3260
+Finland,16737,Kotka,France,18012,Brest,1633
+Finland,16737,Kotka,Peru,30045,Callao,7128
+Finland,16737,Kotka,Romania,14459,Constantza,4513
+Finland,16737,Kotka,Panama,216592,Cristobal,5749
+Finland,16737,Kotka,Ireland,29749,Dublin,1625
+Finland,16737,Kotka,France,18326,Dunkirk,1297
+Finland,16737,Kotka,Ukraine,213737,Feodosia,4708
+Finland,16737,Kotka,Portugal,23428,Funchal,2687
+Finland,16737,Kotka,Tunisia,23495,Gabes,3552
+Finland,16737,Kotka,Romania,14470,Galatz,4637
+Finland,16737,Kotka,Poland,12543,Gdansk,486
+Finland,16737,Kotka,Italy,11174,Genoa,3364
+Finland,16737,Kotka,Puerto Rico,13610,Guanica,4941
+Finland,16737,Kotka,Germany,224858,Hamburg,780
+Finland,16737,Kotka,Slovenia,24795,Izola,4161
+Finland,16737,Kotka,Russia,11771,Kaliningrad,485
+Finland,16737,Kotka,Slovenia,21381,Koper,4161
+Finland,16737,Kotka,Portugal,13012,Leixoes,2086
+Finland,16737,Kotka,United Kingdom,29002,Liverpool,1655
+Finland,16737,Kotka,United Kingdom,29239,London,1310
+Finland,16737,Kotka,United States of America,14635,Los Angeles,8700
+Finland,16737,Kotka,Sweden,20512,Lysekil,781
+Finland,16737,Kotka,Mexico,14277,Manzanillo,7513
+Finland,16737,Kotka,Venezuela,19974,Maracaibo,5410
+Finland,16737,Kotka,Peru,10860,Matarani,7563
+Finland,16737,Kotka,Turkey,22522,Mersin,4478
+Finland,16737,Kotka,Monaco,21457,Monaco,3286
+Finland,16737,Kotka,Uruguay,17941,Montevideo,7400
+Finland,16737,Kotka,Norway,27728,Narvik,1664
+Finland,16737,Kotka,United States of America,25007,New Jersey,4287
+Finland,16737,Kotka,Greece,21852,Piraeus,3998
+Finland,16737,Kotka,Slovenia,22770,Piran,4161
+Finland,16737,Kotka,Georgia,18682,Poti,4920
+Finland,16737,Kotka,Guatemala,29973,Puerto Quetzal,6677
+Finland,16737,Kotka,Germany,20072,Rostock,636
+Finland,16737,Kotka,Puerto Rico,13756,San Juan,4830
+Finland,16737,Kotka,Portugal,13390,Setubal,2268
+Finland,16737,Kotka,Russia,18454,St Petersburg,106
+Finland,16737,Kotka,Sweden,21206,Stockholm,297
+Finland,16737,Kotka,Spain,18937,Valencia,2904
+Finland,16737,Kotka,Italy,13176,Venice,4181
+Finland,16737,Kotka,Mexico,21451,Veracruz,5974
+Finland,16737,Kotka,Netherlands,23247,Vlissingen,1259
+Cyprus,10136,Larnaca,Denmark,10358,Aarhus,3809
+Cyprus,10136,Larnaca,Turkey,246265,Ambarli,711
+Cyprus,10136,Larnaca,Greece,21863,Aspropyrgos,567
+Cyprus,10136,Larnaca,Panama,216593,Balboa,6285
+Cyprus,10136,Larnaca,Spain,17386,Barcelona,1596
+Cyprus,10136,Larnaca,Georgia,18137,Batumi,1312
+Cyprus,10136,Larnaca,Norway,26147,Bergen,3733
+Cyprus,10136,Larnaca,Tunisia,23448,Bizerte,1180
+Cyprus,10136,Larnaca,France,18012,Brest,2863
+Cyprus,10136,Larnaca,Peru,30045,Callao,7625
+Cyprus,10136,Larnaca,Romania,14459,Constantza,922
+Cyprus,10136,Larnaca,Denmark,10563,Copenhagen,3833
+Cyprus,10136,Larnaca,Panama,216592,Cristobal,6246
+Cyprus,10136,Larnaca,El Salvador,15107,Cutuco,7026
+Cyprus,10136,Larnaca,Ireland,29749,Dublin,3117
+Cyprus,10136,Larnaca,France,18326,Dunkirk,3183
+Cyprus,10136,Larnaca,Ecuador,14226,Esmeraldas,6765
+Cyprus,10136,Larnaca,Ukraine,213737,Feodosia,1117
+Cyprus,10136,Larnaca,Portugal,23428,Funchal,2529
+Cyprus,10136,Larnaca,Tunisia,23495,Gabes,1175
+Cyprus,10136,Larnaca,Romania,14470,Galatz,1046
+Cyprus,10136,Larnaca,Poland,12543,Gdansk,4099
+Cyprus,10136,Larnaca,Italy,11174,Genoa,1416
+Cyprus,10136,Larnaca,Puerto Rico,13610,Guanica,5344
+Cyprus,10136,Larnaca,Ecuador,29876,Guayaquil,7122
+Cyprus,10136,Larnaca,Germany,224858,Hamburg,3535
+Cyprus,10136,Larnaca,Finland,16485,Helsinki,4383
+Cyprus,10136,Larnaca,Slovenia,24795,Izola,1280
+Cyprus,10136,Larnaca,Russia,11771,Kaliningrad,4134
+Cyprus,10136,Larnaca,Slovenia,21381,Koper,1280
+Cyprus,10136,Larnaca,Finland,16737,Kotka,4438
+Cyprus,10136,Larnaca,Portugal,13012,Leixoes,2375
+Cyprus,10136,Larnaca,United Kingdom,29002,Liverpool,3187
+Cyprus,10136,Larnaca,United Kingdom,29239,London,3241
+Cyprus,10136,Larnaca,United States of America,14635,Los Angeles,9197
+Cyprus,10136,Larnaca,Sweden,20512,Lysekil,3717
+Cyprus,10136,Larnaca,Mexico,14277,Manzanillo,8010
+Cyprus,10136,Larnaca,Venezuela,19974,Maracaibo,5806
+Cyprus,10136,Larnaca,Peru,10860,Matarani,8060
+Cyprus,10136,Larnaca,Turkey,22522,Mersin,140
+Cyprus,10136,Larnaca,Monaco,21457,Monaco,1444
+Cyprus,10136,Larnaca,Uruguay,17941,Montevideo,7113
+Cyprus,10136,Larnaca,Norway,27728,Narvik,4329
+Cyprus,10136,Larnaca,United States of America,25007,New Jersey,5134
+Cyprus,10136,Larnaca,Greece,21852,Piraeus,559
+Cyprus,10136,Larnaca,Slovenia,22770,Piran,1280
+Cyprus,10136,Larnaca,Georgia,18682,Poti,1329
+Cyprus,10136,Larnaca,Guatemala,29973,Puerto Quetzal,7174
+Cyprus,10136,Larnaca,Germany,20072,Rostock,3942
+Cyprus,10136,Larnaca,Puerto Rico,13756,San Juan,5275
+Cyprus,10136,Larnaca,Portugal,13390,Setubal,2205
+Cyprus,10136,Larnaca,Russia,18454,St Petersburg,4524
+Cyprus,10136,Larnaca,Sweden,21206,Stockholm,4255
+Cyprus,10136,Larnaca,Estonia,18867,Tallinn,4362
+Cyprus,10136,Larnaca,Spain,18937,Valencia,1677
+Cyprus,10136,Larnaca,Italy,13176,Venice,1300
+Cyprus,10136,Larnaca,Mexico,21451,Veracruz,6740
+Cyprus,10136,Larnaca,Netherlands,23247,Vlissingen,3237
+Portugal,13012,Leixoes,Turkey,246265,Ambarli,2239
+Portugal,13012,Leixoes,Spain,17386,Barcelona,969
+Portugal,13012,Leixoes,Tunisia,23448,Bizerte,1197
+Portugal,13012,Leixoes,Romania,14459,Constantza,2450
+Portugal,13012,Leixoes,Ukraine,213737,Feodosia,2645
+Portugal,13012,Leixoes,Tunisia,23495,Gabes,1489
+Portugal,13012,Leixoes,Romania,14470,Galatz,2574
+Portugal,13012,Leixoes,Puerto Rico,13610,Guanica,3294
+Portugal,13012,Leixoes,Slovenia,24795,Izola,2098
+Portugal,13012,Leixoes,Russia,11771,Kaliningrad,1782
+Portugal,13012,Leixoes,Slovenia,21381,Koper,2098
+Portugal,13012,Leixoes,United Kingdom,29002,Liverpool,835
+Portugal,13012,Leixoes,United Kingdom,29239,London,889
+Portugal,13012,Leixoes,United States of America,14635,Los Angeles,7141
+Portugal,13012,Leixoes,Sweden,20512,Lysekil,1365
+Portugal,13012,Leixoes,Venezuela,19974,Maracaibo,3778
+Portugal,13012,Leixoes,Turkey,22522,Mersin,2415
+Portugal,13012,Leixoes,Uruguay,17941,Montevideo,5375
+Portugal,13012,Leixoes,United States of America,25007,New Jersey,2948
+Portugal,13012,Leixoes,Slovenia,22770,Piran,2098
+Portugal,13012,Leixoes,Puerto Rico,13756,San Juan,3223
+Portugal,13012,Leixoes,Portugal,13390,Setubal,207
+Portugal,13012,Leixoes,Russia,18454,St Petersburg,2172
+Portugal,13012,Leixoes,Sweden,21206,Stockholm,1903
+Portugal,13012,Leixoes,Spain,18937,Valencia,841
+United Kingdom,29002,Liverpool,United Kingdom,29239,London,652
+United Kingdom,29002,Liverpool,United States of America,14635,Los Angeles,7491
+United Kingdom,29002,Liverpool,Venezuela,19974,Maracaibo,4177
+United Kingdom,29002,Liverpool,Uruguay,17941,Montevideo,6134
+United Kingdom,29002,Liverpool,United States of America,25007,New Jersey,3115
+United Kingdom,29239,London,United States of America,14635,Los Angeles,7711
+United Kingdom,29239,London,Venezuela,19974,Maracaibo,4380
+United Kingdom,29239,London,Uruguay,17941,Montevideo,6203
+United Kingdom,29239,London,United States of America,25007,New Jersey,3349
+United States of America,14635,Los Angeles,Venezuela,19974,Maracaibo,3627
+United States of America,14635,Los Angeles,Uruguay,17941,Montevideo,7163
+United States of America,14635,Los Angeles,United States of America,25007,New Jersey,4930
+Sweden,20512,Lysekil,Turkey,246265,Ambarli,3581
+Sweden,20512,Lysekil,Tunisia,23448,Bizerte,2539
+Sweden,20512,Lysekil,Ukraine,213737,Feodosia,3987
+Sweden,20512,Lysekil,Tunisia,23495,Gabes,2831
+Sweden,20512,Lysekil,United Kingdom,29002,Liverpool,923
+Sweden,20512,Lysekil,United Kingdom,29239,London,589
+Sweden,20512,Lysekil,United States of America,14635,Los Angeles,7968
+Sweden,20512,Lysekil,Venezuela,19974,Maracaibo,4678
+Sweden,20512,Lysekil,Turkey,22522,Mersin,3757
+Sweden,20512,Lysekil,Uruguay,17941,Montevideo,6679
+Sweden,20512,Lysekil,United States of America,25007,New Jersey,3555
+Sweden,20512,Lysekil,Sweden,21206,Stockholm,595
+Mexico,14277,Manzanillo,Turkey,246265,Ambarli,7874
+Mexico,14277,Manzanillo,Panama,216593,Balboa,1725
+Mexico,14277,Manzanillo,Spain,17386,Barcelona,6604
+Mexico,14277,Manzanillo,Norway,26147,Bergen,6598
+Mexico,14277,Manzanillo,Tunisia,23448,Bizerte,6832
+Mexico,14277,Manzanillo,Peru,30045,Callao,2475
+Mexico,14277,Manzanillo,Romania,14459,Constantza,8085
+Mexico,14277,Manzanillo,Panama,216592,Cristobal,1764
+Mexico,14277,Manzanillo,Ukraine,213737,Feodosia,8280
+Mexico,14277,Manzanillo,Tunisia,23495,Gabes,7124
+Mexico,14277,Manzanillo,Romania,14470,Galatz,8209
+Mexico,14277,Manzanillo,Poland,12543,Gdansk,7174
+Mexico,14277,Manzanillo,Puerto Rico,13610,Guanica,2681
+Mexico,14277,Manzanillo,Slovenia,24795,Izola,7733
+Mexico,14277,Manzanillo,Russia,11771,Kaliningrad,7209
+Mexico,14277,Manzanillo,Slovenia,21381,Koper,7733
+Mexico,14277,Manzanillo,Portugal,13012,Leixoes,5954
+Mexico,14277,Manzanillo,United Kingdom,29002,Liverpool,6304
+Mexico,14277,Manzanillo,United Kingdom,29239,London,6524
+Mexico,14277,Manzanillo,United States of America,14635,Los Angeles,1206
+Mexico,14277,Manzanillo,Sweden,20512,Lysekil,6781
+Mexico,14277,Manzanillo,Venezuela,19974,Maracaibo,2440
+Mexico,14277,Manzanillo,Peru,10860,Matarani,2909
+Mexico,14277,Manzanillo,Turkey,22522,Mersin,8050
+Mexico,14277,Manzanillo,Monaco,21457,Monaco,6858
+Mexico,14277,Manzanillo,Uruguay,17941,Montevideo,6076
+Mexico,14277,Manzanillo,Norway,27728,Narvik,6999
+Mexico,14277,Manzanillo,United States of America,25007,New Jersey,3743
+Mexico,14277,Manzanillo,Slovenia,22770,Piran,7733
+Mexico,14277,Manzanillo,Puerto Rico,13756,San Juan,2756
+Mexico,14277,Manzanillo,Portugal,13390,Setubal,5934
+Mexico,14277,Manzanillo,Russia,18454,St Petersburg,7599
+Mexico,14277,Manzanillo,Sweden,21206,Stockholm,7330
+Mexico,14277,Manzanillo,Spain,18937,Valencia,6476
+Mexico,14277,Manzanillo,Mexico,21451,Veracruz,3174
+Mexico,14277,Manzanillo,Netherlands,23247,Vlissingen,6520
+Peru,10860,Matarani,Turkey,246265,Ambarli,7924
+Peru,10860,Matarani,Spain,17386,Barcelona,6654
+Peru,10860,Matarani,Tunisia,23448,Bizerte,6882
+Peru,10860,Matarani,Romania,14459,Constantza,8135
+Peru,10860,Matarani,Ukraine,213737,Feodosia,8330
+Peru,10860,Matarani,Tunisia,23495,Gabes,7174
+Peru,10860,Matarani,Romania,14470,Galatz,8259
+Peru,10860,Matarani,Poland,12543,Gdansk,7224
+Peru,10860,Matarani,Puerto Rico,13610,Guanica,2731
+Peru,10860,Matarani,Slovenia,24795,Izola,7783
+Peru,10860,Matarani,Russia,11771,Kaliningrad,7259
+Peru,10860,Matarani,Slovenia,21381,Koper,7783
+Peru,10860,Matarani,Portugal,13012,Leixoes,6004
+Peru,10860,Matarani,United Kingdom,29002,Liverpool,6354
+Peru,10860,Matarani,United Kingdom,29239,London,6574
+Peru,10860,Matarani,United States of America,14635,Los Angeles,4083
+Peru,10860,Matarani,Sweden,20512,Lysekil,6831
+Peru,10860,Matarani,Venezuela,19974,Maracaibo,2490
+Peru,10860,Matarani,Turkey,22522,Mersin,8100
+Peru,10860,Matarani,Uruguay,17941,Montevideo,3665
+Peru,10860,Matarani,United States of America,25007,New Jersey,3793
+Peru,10860,Matarani,Slovenia,22770,Piran,7783
+Peru,10860,Matarani,Puerto Rico,13756,San Juan,2806
+Peru,10860,Matarani,Portugal,13390,Setubal,5984
+Peru,10860,Matarani,Russia,18454,St Petersburg,7649
+Peru,10860,Matarani,Sweden,21206,Stockholm,7380
+Peru,10860,Matarani,Spain,18937,Valencia,6526
+Turkey,22522,Mersin,Ukraine,213737,Feodosia,1141
+Turkey,22522,Mersin,United Kingdom,29002,Liverpool,3227
+Turkey,22522,Mersin,United Kingdom,29239,London,3281
+Turkey,22522,Mersin,United States of America,14635,Los Angeles,9237
+Turkey,22522,Mersin,Venezuela,19974,Maracaibo,5846
+Turkey,22522,Mersin,Uruguay,17941,Montevideo,7153
+Turkey,22522,Mersin,United States of America,25007,New Jersey,5174
+Monaco,21457,Monaco,Turkey,246265,Ambarli,1298
+Monaco,21457,Monaco,Panama,216593,Balboa,5133
+Monaco,21457,Monaco,Spain,17386,Barcelona,272
+Monaco,21457,Monaco,Norway,26147,Bergen,2581
+Monaco,21457,Monaco,Tunisia,23448,Bizerte,414
+Monaco,21457,Monaco,Peru,30045,Callao,6473
+Monaco,21457,Monaco,Romania,14459,Constantza,1509
+Monaco,21457,Monaco,Panama,216592,Cristobal,5094
+Monaco,21457,Monaco,Ukraine,213737,Feodosia,1704
+Monaco,21457,Monaco,Tunisia,23495,Gabes,684
+Monaco,21457,Monaco,Romania,14470,Galatz,1633
+Monaco,21457,Monaco,Poland,12543,Gdansk,2947
+Monaco,21457,Monaco,Puerto Rico,13610,Guanica,4192
+Monaco,21457,Monaco,Slovenia,24795,Izola,1136
+Monaco,21457,Monaco,Russia,11771,Kaliningrad,2982
+Monaco,21457,Monaco,Slovenia,21381,Koper,1136
+Monaco,21457,Monaco,Portugal,13012,Leixoes,1223
+Monaco,21457,Monaco,United Kingdom,29002,Liverpool,2035
+Monaco,21457,Monaco,United Kingdom,29239,London,2089
+Monaco,21457,Monaco,United States of America,14635,Los Angeles,8045
+Monaco,21457,Monaco,Sweden,20512,Lysekil,2565
+Monaco,21457,Monaco,Venezuela,19974,Maracaibo,4654
+Monaco,21457,Monaco,Peru,10860,Matarani,6908
+Monaco,21457,Monaco,Turkey,22522,Mersin,1480
+Monaco,21457,Monaco,Uruguay,17941,Montevideo,5961
+Monaco,21457,Monaco,Norway,27728,Narvik,3177
+Monaco,21457,Monaco,United States of America,25007,New Jersey,3982
+Monaco,21457,Monaco,Slovenia,22770,Piran,1136
+Monaco,21457,Monaco,Puerto Rico,13756,San Juan,4123
+Monaco,21457,Monaco,Portugal,13390,Setubal,1053
+Monaco,21457,Monaco,Russia,18454,St Petersburg,3372
+Monaco,21457,Monaco,Sweden,21206,Stockholm,3103
+Monaco,21457,Monaco,Spain,18937,Valencia,431
+Monaco,21457,Monaco,Netherlands,23247,Vlissingen,2085
+Malta,10138,Marsaxlokk,Italy,11174,Genoa,590
+Uruguay,17941,Montevideo,Venezuela,19974,Maracaibo,4767
+Norway,27728,Narvik,Turkey,246265,Ambarli,4193
+Norway,27728,Narvik,Panama,216593,Balboa,5274
+Norway,27728,Narvik,Spain,17386,Barcelona,2923
+Norway,27728,Narvik,Tunisia,23448,Bizerte,3151
+Norway,27728,Narvik,Peru,30045,Callao,6614
+Norway,27728,Narvik,Romania,14459,Constantza,4404
+Norway,27728,Narvik,Panama,216592,Cristobal,5235
+Norway,27728,Narvik,Ukraine,213737,Feodosia,4599
+Norway,27728,Narvik,Tunisia,23495,Gabes,3443
+Norway,27728,Narvik,Romania,14470,Galatz,4528
+Norway,27728,Narvik,Poland,12543,Gdansk,1325
+Norway,27728,Narvik,Puerto Rico,13610,Guanica,4420
+Norway,27728,Narvik,Slovenia,24795,Izola,4052
+Norway,27728,Narvik,Russia,11771,Kaliningrad,1360
+Norway,27728,Narvik,Slovenia,21381,Koper,4052
+Norway,27728,Narvik,Portugal,13012,Leixoes,1977
+Norway,27728,Narvik,United Kingdom,29002,Liverpool,1239
+Norway,27728,Narvik,United Kingdom,29239,London,1207
+Norway,27728,Narvik,United States of America,14635,Los Angeles,8186
+Norway,27728,Narvik,Sweden,20512,Lysekil,923
+Norway,27728,Narvik,Venezuela,19974,Maracaibo,4902
+Norway,27728,Narvik,Peru,10860,Matarani,7049
+Norway,27728,Narvik,Turkey,22522,Mersin,4369
+Norway,27728,Narvik,Uruguay,17941,Montevideo,7182
+Norway,27728,Narvik,United States of America,25007,New Jersey,3773
+Norway,27728,Narvik,Slovenia,22770,Piran,4052
+Norway,27728,Narvik,Puerto Rico,13756,San Juan,4320
+Norway,27728,Narvik,Portugal,13390,Setubal,2159
+Norway,27728,Narvik,Russia,18454,St Petersburg,1750
+Norway,27728,Narvik,Sweden,21206,Stockholm,1481
+Norway,27728,Narvik,Spain,18937,Valencia,2795
+United States of America,25007,New Jersey,Venezuela,19974,Maracaibo,1909
+United States of America,25007,New Jersey,Uruguay,17941,Montevideo,5755
+Greece,21852,Piraeus,Turkey,246265,Ambarli,337
+Greece,21852,Piraeus,Panama,216593,Balboa,5845
+Greece,21852,Piraeus,Spain,17386,Barcelona,1156
+Greece,21852,Piraeus,Norway,26147,Bergen,3293
+Greece,21852,Piraeus,Tunisia,23448,Bizerte,740
+Greece,21852,Piraeus,Peru,30045,Callao,7185
+Greece,21852,Piraeus,Romania,14459,Constantza,548
+Greece,21852,Piraeus,Panama,216592,Cristobal,5806
+Greece,21852,Piraeus,Ireland,29749,Dublin,2677
+Greece,21852,Piraeus,Ukraine,213737,Feodosia,743
+Greece,21852,Piraeus,Portugal,23428,Funchal,2089
+Greece,21852,Piraeus,Tunisia,23495,Gabes,761
+Greece,21852,Piraeus,Romania,14470,Galatz,672
+Greece,21852,Piraeus,Poland,12543,Gdansk,3659
+Greece,21852,Piraeus,Italy,11174,Genoa,972
+Greece,21852,Piraeus,Puerto Rico,13610,Guanica,4904
+Greece,21852,Piraeus,Slovenia,24795,Izola,835
+Greece,21852,Piraeus,Russia,11771,Kaliningrad,3694
+Greece,21852,Piraeus,Slovenia,21381,Koper,835
+Greece,21852,Piraeus,Portugal,13012,Leixoes,1935
+Greece,21852,Piraeus,United Kingdom,29002,Liverpool,2747
+Greece,21852,Piraeus,United Kingdom,29239,London,2801
+Greece,21852,Piraeus,United States of America,14635,Los Angeles,8757
+Greece,21852,Piraeus,Sweden,20512,Lysekil,3277
+Greece,21852,Piraeus,Mexico,14277,Manzanillo,7570
+Greece,21852,Piraeus,Venezuela,19974,Maracaibo,5366
+Greece,21852,Piraeus,Peru,10860,Matarani,7620
+Greece,21852,Piraeus,Turkey,22522,Mersin,586
+Greece,21852,Piraeus,Monaco,21457,Monaco,1000
+Greece,21852,Piraeus,Uruguay,17941,Montevideo,6673
+Greece,21852,Piraeus,Norway,27728,Narvik,3889
+Greece,21852,Piraeus,United States of America,25007,New Jersey,4694
+Greece,21852,Piraeus,Slovenia,22770,Piran,835
+Greece,21852,Piraeus,Guatemala,29973,Puerto Quetzal,6734
+Greece,21852,Piraeus,Puerto Rico,13756,San Juan,4835
+Greece,21852,Piraeus,Portugal,13390,Setubal,1765
+Greece,21852,Piraeus,Russia,18454,St Petersburg,4084
+Greece,21852,Piraeus,Sweden,21206,Stockholm,3815
+Greece,21852,Piraeus,Spain,18937,Valencia,1237
+Greece,21852,Piraeus,Italy,13176,Venice,855
+Greece,21852,Piraeus,Mexico,21451,Veracruz,6300
+Greece,21852,Piraeus,Netherlands,23247,Vlissingen,2797
+Slovenia,22770,Piran,Turkey,246265,Ambarli,1133
+Slovenia,22770,Piran,Spain,17386,Barcelona,1296
+Slovenia,22770,Piran,Tunisia,23448,Bizerte,914
+Slovenia,22770,Piran,Ukraine,213737,Feodosia,1539
+Slovenia,22770,Piran,Tunisia,23495,Gabes,965
+Slovenia,22770,Piran,United Kingdom,29002,Liverpool,2910
+Slovenia,22770,Piran,United Kingdom,29239,London,2964
+Slovenia,22770,Piran,United States of America,14635,Los Angeles,8920
+Slovenia,22770,Piran,Sweden,20512,Lysekil,3440
+Slovenia,22770,Piran,Venezuela,19974,Maracaibo,5529
+Slovenia,22770,Piran,Turkey,22522,Mersin,1316
+Slovenia,22770,Piran,Uruguay,17941,Montevideo,6836
+Slovenia,22770,Piran,United States of America,25007,New Jersey,4857
+Slovenia,22770,Piran,Sweden,21206,Stockholm,3978
+Slovenia,22770,Piran,Spain,18937,Valencia,1384
+Portugal,18476,Ponta Delgada,Denmark,10358,Aarhus,2067
+Portugal,18476,Ponta Delgada,Turkey,246265,Ambarli,2767
+Portugal,18476,Ponta Delgada,Belgium,19057,Antwerp,1545
+Portugal,18476,Ponta Delgada,Greece,21863,Aspropyrgos,2471
+Portugal,18476,Ponta Delgada,Panama,216593,Balboa,3418
+Portugal,18476,Ponta Delgada,Spain,17386,Barcelona,1497
+Portugal,18476,Ponta Delgada,Georgia,18137,Batumi,3368
+Portugal,18476,Ponta Delgada,Norway,26147,Bergen,1855
+Portugal,18476,Ponta Delgada,Tunisia,23448,Bizerte,1725
+Portugal,18476,Ponta Delgada,Bulgaria,20826,Bourgas,2908
+Portugal,18476,Ponta Delgada,France,18012,Brest,1128
+Portugal,18476,Ponta Delgada,Colombia,28261,Buenaventura,3772
+Portugal,18476,Ponta Delgada,Peru,30045,Callao,4758
+Portugal,18476,Ponta Delgada,Colombia,28313,Cartagena,3163
+Portugal,18476,Ponta Delgada,Romania,14459,Constantza,2978
+Portugal,18476,Ponta Delgada,Denmark,10563,Copenhagen,2091
+Portugal,18476,Ponta Delgada,Panama,216592,Cristobal,3379
+Portugal,18476,Ponta Delgada,El Salvador,15107,Cutuco,4159
+Portugal,18476,Ponta Delgada,Ireland,29749,Dublin,1279
+Portugal,18476,Ponta Delgada,France,18326,Dunkirk,1441
+Portugal,18476,Ponta Delgada,Ecuador,14226,Esmeraldas,3898
+Portugal,18476,Ponta Delgada,Ukraine,213737,Feodosia,3173
+Portugal,18476,Ponta Delgada,Portugal,23428,Funchal,530
+Portugal,18476,Ponta Delgada,Tunisia,23495,Gabes,2017
+Portugal,18476,Ponta Delgada,Romania,14470,Galatz,3102
+Portugal,18476,Ponta Delgada,Poland,12543,Gdansk,2357
+Portugal,18476,Ponta Delgada,Italy,11174,Genoa,1829
+Portugal,18476,Ponta Delgada,Puerto Rico,13610,Guanica,2487
+Portugal,18476,Ponta Delgada,Ecuador,29876,Guayaquil,4255
+Portugal,18476,Ponta Delgada,Canada,22226,Halifax,1754
+Portugal,18476,Ponta Delgada,Germany,224858,Hamburg,1793
+Portugal,18476,Ponta Delgada,Finland,16485,Helsinki,2641
+Portugal,18476,Ponta Delgada,Slovenia,24795,Izola,2626
+Portugal,18476,Ponta Delgada,Russia,11771,Kaliningrad,2392
+Portugal,18476,Ponta Delgada,Slovenia,21381,Koper,2626
+Portugal,18476,Ponta Delgada,Finland,16737,Kotka,2696
+Portugal,18476,Ponta Delgada,Cyprus,10136,Larnaca,2903
+Portugal,18476,Ponta Delgada,Portugal,13012,Leixoes,817
+Portugal,18476,Ponta Delgada,United Kingdom,29002,Liverpool,1358
+Portugal,18476,Ponta Delgada,United Kingdom,29239,London,1499
+Portugal,18476,Ponta Delgada,United States of America,14635,Los Angeles,6330
+Portugal,18476,Ponta Delgada,Sweden,20512,Lysekil,1975
+Portugal,18476,Ponta Delgada,Mexico,14277,Manzanillo,5143
+Portugal,18476,Ponta Delgada,Venezuela,19974,Maracaibo,2971
+Portugal,18476,Ponta Delgada,Peru,10860,Matarani,5193
+Portugal,18476,Ponta Delgada,Turkey,22522,Mersin,2943
+Portugal,18476,Ponta Delgada,Monaco,21457,Monaco,1751
+Portugal,18476,Ponta Delgada,Uruguay,17941,Montevideo,4872
+Portugal,18476,Ponta Delgada,Norway,27728,Narvik,2354
+Portugal,18476,Ponta Delgada,United States of America,25007,New Jersey,2253
+Portugal,18476,Ponta Delgada,Greece,21852,Piraeus,2463
+Portugal,18476,Ponta Delgada,Slovenia,22770,Piran,2626
+Portugal,18476,Ponta Delgada,Georgia,18682,Poti,3385
+Portugal,18476,Ponta Delgada,Costa Rica,28781,Puerto Limon,3511
+Portugal,18476,Ponta Delgada,Guatemala,29973,Puerto Quetzal,4307
+Portugal,18476,Ponta Delgada,Croatia,24951,Rijeka,2590
+Portugal,18476,Ponta Delgada,Brazil,20301,Rio Grande,4579
+Portugal,18476,Ponta Delgada,Germany,20072,Rostock,2200
+Portugal,18476,Ponta Delgada,Brazil,20351,Salvador,3187
+Portugal,18476,Ponta Delgada,Puerto Rico,13756,San Juan,2411
+Portugal,18476,Ponta Delgada,Chile,27792,San Vicente,6220
+Portugal,18476,Ponta Delgada,Brazil,27248,Santos,4058
+Portugal,18476,Ponta Delgada,Portugal,13390,Setubal,804
+Portugal,18476,Ponta Delgada,Croatia,21556,Split,2470
+Portugal,18476,Ponta Delgada,Russia,18454,St Petersburg,2782
+Portugal,18476,Ponta Delgada,Sweden,21206,Stockholm,2513
+Portugal,18476,Ponta Delgada,Estonia,18867,Tallinn,2620
+Portugal,18476,Ponta Delgada,Spain,18937,Valencia,1369
+Portugal,18476,Ponta Delgada,Chile,28082,Valparaiso,6033
+Portugal,18476,Ponta Delgada,Canada,25350,Vancouver,7439
+Portugal,18476,Ponta Delgada,Bulgaria,20847,Varna,2931
+Portugal,18476,Ponta Delgada,Italy,13176,Venice,2646
+Portugal,18476,Ponta Delgada,Mexico,21451,Veracruz,3841
+Portugal,18476,Ponta Delgada,Netherlands,23247,Vlissingen,1495
+Portugal,18476,Ponta Delgada,Belgium,19473,Zeebrugge,1474
+Georgia,18682,Poti,Turkey,246265,Ambarli,588
+Georgia,18682,Poti,Greece,21863,Aspropyrgos,963
+Georgia,18682,Poti,Panama,216593,Balboa,6767
+Georgia,18682,Poti,Spain,17386,Barcelona,2072
+Georgia,18682,Poti,Norway,26147,Bergen,4215
+Georgia,18682,Poti,Tunisia,23448,Bizerte,1656
+Georgia,18682,Poti,Peru,30045,Callao,8107
+Georgia,18682,Poti,Romania,14459,Constantza,579
+Georgia,18682,Poti,Panama,216592,Cristobal,6728
+Georgia,18682,Poti,Ireland,29749,Dublin,3599
+Georgia,18682,Poti,Ukraine,213737,Feodosia,324
+Georgia,18682,Poti,Portugal,23428,Funchal,3011
+Georgia,18682,Poti,Tunisia,23495,Gabes,1677
+Georgia,18682,Poti,Romania,14470,Galatz,626
+Georgia,18682,Poti,Poland,12543,Gdansk,4581
+Georgia,18682,Poti,Italy,11174,Genoa,1888
+Georgia,18682,Poti,Puerto Rico,13610,Guanica,5826
+Georgia,18682,Poti,Germany,224858,Hamburg,4017
+Georgia,18682,Poti,Slovenia,24795,Izola,1751
+Georgia,18682,Poti,Russia,11771,Kaliningrad,4616
+Georgia,18682,Poti,Slovenia,21381,Koper,1751
+Georgia,18682,Poti,Portugal,13012,Leixoes,2857
+Georgia,18682,Poti,United Kingdom,29002,Liverpool,3669
+Georgia,18682,Poti,United Kingdom,29239,London,3723
+Georgia,18682,Poti,United States of America,14635,Los Angeles,9679
+Georgia,18682,Poti,Sweden,20512,Lysekil,4199
+Georgia,18682,Poti,Mexico,14277,Manzanillo,8492
+Georgia,18682,Poti,Venezuela,19974,Maracaibo,6288
+Georgia,18682,Poti,Peru,10860,Matarani,8542
+Georgia,18682,Poti,Turkey,22522,Mersin,1353
+Georgia,18682,Poti,Monaco,21457,Monaco,1916
+Georgia,18682,Poti,Uruguay,17941,Montevideo,7595
+Georgia,18682,Poti,Norway,27728,Narvik,4811
+Georgia,18682,Poti,United States of America,25007,New Jersey,5616
+Georgia,18682,Poti,Greece,21852,Piraeus,955
+Georgia,18682,Poti,Slovenia,22770,Piran,1751
+Georgia,18682,Poti,Guatemala,29973,Puerto Quetzal,7656
+Georgia,18682,Poti,Germany,20072,Rostock,4424
+Georgia,18682,Poti,Puerto Rico,13756,San Juan,5757
+Georgia,18682,Poti,Portugal,13390,Setubal,2687
+Georgia,18682,Poti,Russia,18454,St Petersburg,5006
+Georgia,18682,Poti,Sweden,21206,Stockholm,4737
+Georgia,18682,Poti,Spain,18937,Valencia,2153
+Georgia,18682,Poti,Italy,13176,Venice,1772
+Georgia,18682,Poti,Mexico,21451,Veracruz,7222
+Georgia,18682,Poti,Netherlands,23247,Vlissingen,3719
+Costa Rica,28781,Puerto Limon,Denmark,10358,Aarhus,5193
+Costa Rica,28781,Puerto Limon,Turkey,246265,Ambarli,6243
+Costa Rica,28781,Puerto Limon,Greece,21863,Aspropyrgos,5947
+Costa Rica,28781,Puerto Limon,Panama,216593,Balboa,231
+Costa Rica,28781,Puerto Limon,Spain,17386,Barcelona,4973
+Costa Rica,28781,Puerto Limon,Georgia,18137,Batumi,6844
+Costa Rica,28781,Puerto Limon,Norway,26147,Bergen,4907
+Costa Rica,28781,Puerto Limon,Tunisia,23448,Bizerte,5201
+Costa Rica,28781,Puerto Limon,France,18012,Brest,4505
+Costa Rica,28781,Puerto Limon,Peru,30045,Callao,1571
+Costa Rica,28781,Puerto Limon,Romania,14459,Constantza,6454
+Costa Rica,28781,Puerto Limon,Denmark,10563,Copenhagen,5217
+Costa Rica,28781,Puerto Limon,Panama,216592,Cristobal,192
+Costa Rica,28781,Puerto Limon,El Salvador,15107,Cutuco,972
+Costa Rica,28781,Puerto Limon,Ireland,29749,Dublin,4534
+Costa Rica,28781,Puerto Limon,France,18326,Dunkirk,4791
+Costa Rica,28781,Puerto Limon,Ecuador,14226,Esmeraldas,711
+Costa Rica,28781,Puerto Limon,Ukraine,213737,Feodosia,6649
+Costa Rica,28781,Puerto Limon,Portugal,23428,Funchal,3880
+Costa Rica,28781,Puerto Limon,Tunisia,23495,Gabes,5493
+Costa Rica,28781,Puerto Limon,Romania,14470,Galatz,6578
+Costa Rica,28781,Puerto Limon,Poland,12543,Gdansk,5483
+Costa Rica,28781,Puerto Limon,Italy,11174,Genoa,5305
+Costa Rica,28781,Puerto Limon,Puerto Rico,13610,Guanica,1052
+Costa Rica,28781,Puerto Limon,Ecuador,29876,Guayaquil,1068
+Costa Rica,28781,Puerto Limon,Germany,224858,Hamburg,5138
+Costa Rica,28781,Puerto Limon,Finland,16485,Helsinki,5767
+Costa Rica,28781,Puerto Limon,Slovenia,24795,Izola,6102
+Costa Rica,28781,Puerto Limon,Russia,11771,Kaliningrad,5518
+Costa Rica,28781,Puerto Limon,Slovenia,21381,Koper,6102
+Costa Rica,28781,Puerto Limon,Finland,16737,Kotka,5822
+Costa Rica,28781,Puerto Limon,Cyprus,10136,Larnaca,6379
+Costa Rica,28781,Puerto Limon,Portugal,13012,Leixoes,4322
+Costa Rica,28781,Puerto Limon,United Kingdom,29002,Liverpool,4613
+Costa Rica,28781,Puerto Limon,United Kingdom,29239,London,4844
+Costa Rica,28781,Puerto Limon,United States of America,14635,Los Angeles,3143
+Costa Rica,28781,Puerto Limon,Sweden,20512,Lysekil,5090
+Costa Rica,28781,Puerto Limon,Mexico,14277,Manzanillo,1956
+Costa Rica,28781,Puerto Limon,Venezuela,19974,Maracaibo,838
+Costa Rica,28781,Puerto Limon,Peru,10860,Matarani,2006
+Costa Rica,28781,Puerto Limon,Turkey,22522,Mersin,6419
+Costa Rica,28781,Puerto Limon,Monaco,21457,Monaco,5227
+Costa Rica,28781,Puerto Limon,Uruguay,17941,Montevideo,5310
+Costa Rica,28781,Puerto Limon,Norway,27728,Narvik,5308
+Costa Rica,28781,Puerto Limon,United States of America,25007,New Jersey,2051
+Costa Rica,28781,Puerto Limon,Greece,21852,Piraeus,5939
+Costa Rica,28781,Puerto Limon,Slovenia,22770,Piran,6102
+Costa Rica,28781,Puerto Limon,Georgia,18682,Poti,6861
+Costa Rica,28781,Puerto Limon,Guatemala,29973,Puerto Quetzal,1120
+Costa Rica,28781,Puerto Limon,Croatia,24951,Rijeka,6066
+Costa Rica,28781,Puerto Limon,Germany,20072,Rostock,5326
+Costa Rica,28781,Puerto Limon,Puerto Rico,13756,San Juan,1122
+Costa Rica,28781,Puerto Limon,Portugal,13390,Setubal,4302
+Costa Rica,28781,Puerto Limon,Croatia,21556,Split,5946
+Costa Rica,28781,Puerto Limon,Russia,18454,St Petersburg,5908
+Costa Rica,28781,Puerto Limon,Sweden,21206,Stockholm,5639
+Costa Rica,28781,Puerto Limon,Estonia,18867,Tallinn,5746
+Costa Rica,28781,Puerto Limon,Spain,18937,Valencia,4845
+Costa Rica,28781,Puerto Limon,Italy,13176,Venice,6122
+Costa Rica,28781,Puerto Limon,Mexico,21451,Veracruz,1363
+Costa Rica,28781,Puerto Limon,Netherlands,23247,Vlissingen,4840
+Guatemala,29973,Puerto Quetzal,Turkey,246265,Ambarli,7038
+Guatemala,29973,Puerto Quetzal,Panama,216593,Balboa,889
+Guatemala,29973,Puerto Quetzal,Spain,17386,Barcelona,5768
+Guatemala,29973,Puerto Quetzal,Norway,26147,Bergen,5762
+Guatemala,29973,Puerto Quetzal,Tunisia,23448,Bizerte,5996
+Guatemala,29973,Puerto Quetzal,Peru,30045,Callao,1763
+Guatemala,29973,Puerto Quetzal,Romania,14459,Constantza,7249
+Guatemala,29973,Puerto Quetzal,Panama,216592,Cristobal,928
+Guatemala,29973,Puerto Quetzal,Ireland,29749,Dublin,5389
+Guatemala,29973,Puerto Quetzal,Ukraine,213737,Feodosia,7444
+Guatemala,29973,Puerto Quetzal,Portugal,23428,Funchal,4667
+Guatemala,29973,Puerto Quetzal,Tunisia,23495,Gabes,6288
+Guatemala,29973,Puerto Quetzal,Romania,14470,Galatz,7373
+Guatemala,29973,Puerto Quetzal,Poland,12543,Gdansk,6338
+Guatemala,29973,Puerto Quetzal,Italy,11174,Genoa,6100
+Guatemala,29973,Puerto Quetzal,Puerto Rico,13610,Guanica,1845
+Guatemala,29973,Puerto Quetzal,Slovenia,24795,Izola,6897
+Guatemala,29973,Puerto Quetzal,Russia,11771,Kaliningrad,6373
+Guatemala,29973,Puerto Quetzal,Slovenia,21381,Koper,6897
+Guatemala,29973,Puerto Quetzal,Portugal,13012,Leixoes,5118
+Guatemala,29973,Puerto Quetzal,United Kingdom,29002,Liverpool,5468
+Guatemala,29973,Puerto Quetzal,United Kingdom,29239,London,5688
+Guatemala,29973,Puerto Quetzal,United States of America,14635,Los Angeles,2047
+Guatemala,29973,Puerto Quetzal,Sweden,20512,Lysekil,5945
+Guatemala,29973,Puerto Quetzal,Mexico,14277,Manzanillo,854
+Guatemala,29973,Puerto Quetzal,Venezuela,19974,Maracaibo,1604
+Guatemala,29973,Puerto Quetzal,Peru,10860,Matarani,2204
+Guatemala,29973,Puerto Quetzal,Turkey,22522,Mersin,7214
+Guatemala,29973,Puerto Quetzal,Monaco,21457,Monaco,6022
+Guatemala,29973,Puerto Quetzal,Uruguay,17941,Montevideo,5588
+Guatemala,29973,Puerto Quetzal,Norway,27728,Narvik,6163
+Guatemala,29973,Puerto Quetzal,United States of America,25007,New Jersey,2907
+Guatemala,29973,Puerto Quetzal,Slovenia,22770,Piran,6897
+Guatemala,29973,Puerto Quetzal,Puerto Rico,13756,San Juan,1920
+Guatemala,29973,Puerto Quetzal,Portugal,13390,Setubal,5098
+Guatemala,29973,Puerto Quetzal,Russia,18454,St Petersburg,6763
+Guatemala,29973,Puerto Quetzal,Sweden,21206,Stockholm,6494
+Guatemala,29973,Puerto Quetzal,Spain,18937,Valencia,5640
+Guatemala,29973,Puerto Quetzal,Italy,13176,Venice,6917
+Guatemala,29973,Puerto Quetzal,Mexico,21451,Veracruz,2338
+Guatemala,29973,Puerto Quetzal,Netherlands,23247,Vlissingen,5684
+Croatia,24951,Rijeka,Denmark,10358,Aarhus,3496
+Croatia,24951,Rijeka,Turkey,246265,Ambarli,1097
+Croatia,24951,Rijeka,Greece,21863,Aspropyrgos,808
+Croatia,24951,Rijeka,Panama,216593,Balboa,5972
+Croatia,24951,Rijeka,Spain,17386,Barcelona,1260
+Croatia,24951,Rijeka,Georgia,18137,Batumi,1698
+Croatia,24951,Rijeka,Norway,26147,Bergen,3420
+Croatia,24951,Rijeka,Tunisia,23448,Bizerte,878
+Croatia,24951,Rijeka,France,18012,Brest,2550
+Croatia,24951,Rijeka,Peru,30045,Callao,7312
+Croatia,24951,Rijeka,Romania,14459,Constantza,1308
+Croatia,24951,Rijeka,Denmark,10563,Copenhagen,3520
+Croatia,24951,Rijeka,Panama,216592,Cristobal,5933
+Croatia,24951,Rijeka,El Salvador,15107,Cutuco,6713
+Croatia,24951,Rijeka,Ireland,29749,Dublin,2804
+Croatia,24951,Rijeka,France,18326,Dunkirk,2870
+Croatia,24951,Rijeka,Ecuador,14226,Esmeraldas,6452
+Croatia,24951,Rijeka,Ukraine,213737,Feodosia,1503
+Croatia,24951,Rijeka,Portugal,23428,Funchal,2216
+Croatia,24951,Rijeka,Tunisia,23495,Gabes,928
+Croatia,24951,Rijeka,Romania,14470,Galatz,1432
+Croatia,24951,Rijeka,Poland,12543,Gdansk,3786
+Croatia,24951,Rijeka,Italy,11174,Genoa,1071
+Croatia,24951,Rijeka,Puerto Rico,13610,Guanica,5031
+Croatia,24951,Rijeka,Ecuador,29876,Guayaquil,6809
+Croatia,24951,Rijeka,Germany,224858,Hamburg,3222
+Croatia,24951,Rijeka,Finland,16485,Helsinki,4070
+Croatia,24951,Rijeka,Slovenia,24795,Izola,106
+Croatia,24951,Rijeka,Russia,11771,Kaliningrad,3821
+Croatia,24951,Rijeka,Slovenia,21381,Koper,106
+Croatia,24951,Rijeka,Finland,16737,Kotka,4125
+Croatia,24951,Rijeka,Cyprus,10136,Larnaca,1245
+Croatia,24951,Rijeka,Portugal,13012,Leixoes,2062
+Croatia,24951,Rijeka,United Kingdom,29002,Liverpool,2874
+Croatia,24951,Rijeka,United Kingdom,29239,London,2928
+Croatia,24951,Rijeka,United States of America,14635,Los Angeles,8884
+Croatia,24951,Rijeka,Sweden,20512,Lysekil,3404
+Croatia,24951,Rijeka,Mexico,14277,Manzanillo,7697
+Croatia,24951,Rijeka,Venezuela,19974,Maracaibo,5493
+Croatia,24951,Rijeka,Peru,10860,Matarani,7747
+Croatia,24951,Rijeka,Turkey,22522,Mersin,1279
+Croatia,24951,Rijeka,Monaco,21457,Monaco,1100
+Croatia,24951,Rijeka,Uruguay,17941,Montevideo,6800
+Croatia,24951,Rijeka,Norway,27728,Narvik,4016
+Croatia,24951,Rijeka,United States of America,25007,New Jersey,4821
+Croatia,24951,Rijeka,Greece,21852,Piraeus,800
+Croatia,24951,Rijeka,Slovenia,22770,Piran,106
+Croatia,24951,Rijeka,Georgia,18682,Poti,1715
+Croatia,24951,Rijeka,Guatemala,29973,Puerto Quetzal,6861
+Croatia,24951,Rijeka,Germany,20072,Rostock,3629
+Croatia,24951,Rijeka,Puerto Rico,13756,San Juan,4962
+Croatia,24951,Rijeka,Portugal,13390,Setubal,1892
+Croatia,24951,Rijeka,Croatia,21556,Split,165
+Croatia,24951,Rijeka,Russia,18454,St Petersburg,4211
+Croatia,24951,Rijeka,Sweden,21206,Stockholm,3942
+Croatia,24951,Rijeka,Estonia,18867,Tallinn,4049
+Croatia,24951,Rijeka,Spain,18937,Valencia,1348
+Croatia,24951,Rijeka,Italy,13176,Venice,129
+Croatia,24951,Rijeka,Mexico,21451,Veracruz,6427
+Croatia,24951,Rijeka,Netherlands,23247,Vlissingen,2924
+Brazil,20301,Rio Grande,Denmark,10358,Aarhus,6478
+Brazil,20301,Rio Grande,Turkey,246265,Ambarli,6683
+Brazil,20301,Rio Grande,Greece,21863,Aspropyrgos,6387
+Brazil,20301,Rio Grande,Panama,216593,Balboa,4993
+Brazil,20301,Rio Grande,Spain,17386,Barcelona,5413
+Brazil,20301,Rio Grande,Georgia,18137,Batumi,7284
+Brazil,20301,Rio Grande,Norway,26147,Bergen,6394
+Brazil,20301,Rio Grande,Tunisia,23448,Bizerte,5641
+Brazil,20301,Rio Grande,Bulgaria,20826,Bourgas,6824
+Brazil,20301,Rio Grande,France,18012,Brest,5532
+Brazil,20301,Rio Grande,Colombia,28261,Buenaventura,5252
+Brazil,20301,Rio Grande,Peru,30045,Callao,4191
+Brazil,20301,Rio Grande,Colombia,28313,Cartagena,4720
+Brazil,20301,Rio Grande,Romania,14459,Constantza,6894
+Brazil,20301,Rio Grande,Denmark,10563,Copenhagen,6502
+Brazil,20301,Rio Grande,Panama,216592,Cristobal,4954
+Brazil,20301,Rio Grande,El Salvador,15107,Cutuco,5734
+Brazil,20301,Rio Grande,Ireland,29749,Dublin,5762
+Brazil,20301,Rio Grande,France,18326,Dunkirk,5852
+Brazil,20301,Rio Grande,Ecuador,14226,Esmeraldas,5012
+Brazil,20301,Rio Grande,Ukraine,213737,Feodosia,7089
+Brazil,20301,Rio Grande,Portugal,23428,Funchal,4430
+Brazil,20301,Rio Grande,Tunisia,23495,Gabes,5933
+Brazil,20301,Rio Grande,Romania,14470,Galatz,7018
+Brazil,20301,Rio Grande,Poland,12543,Gdansk,6768
+Brazil,20301,Rio Grande,Italy,11174,Genoa,5745
+Brazil,20301,Rio Grande,Puerto Rico,13610,Guanica,4300
+Brazil,20301,Rio Grande,Ecuador,29876,Guayaquil,4834
+Brazil,20301,Rio Grande,Canada,22226,Halifax,5321
+Brazil,20301,Rio Grande,Germany,224858,Hamburg,6204
+Brazil,20301,Rio Grande,Finland,16485,Helsinki,7052
+Brazil,20301,Rio Grande,Slovenia,24795,Izola,6542
+Brazil,20301,Rio Grande,Russia,11771,Kaliningrad,6803
+Brazil,20301,Rio Grande,Slovenia,21381,Koper,6542
+Brazil,20301,Rio Grande,Finland,16737,Kotka,7107
+Brazil,20301,Rio Grande,Cyprus,10136,Larnaca,6819
+Brazil,20301,Rio Grande,Portugal,13012,Leixoes,5082
+Brazil,20301,Rio Grande,United Kingdom,29002,Liverpool,5841
+Brazil,20301,Rio Grande,United Kingdom,29239,London,5910
+Brazil,20301,Rio Grande,United States of America,14635,Los Angeles,7401
+Brazil,20301,Rio Grande,Sweden,20512,Lysekil,6386
+Brazil,20301,Rio Grande,Mexico,14277,Manzanillo,6314
+Brazil,20301,Rio Grande,Venezuela,19974,Maracaibo,4472
+Brazil,20301,Rio Grande,Peru,10860,Matarani,3903
+Brazil,20301,Rio Grande,Turkey,22522,Mersin,6859
+Brazil,20301,Rio Grande,Monaco,21457,Monaco,5667
+Brazil,20301,Rio Grande,Uruguay,17941,Montevideo,332
+Brazil,20301,Rio Grande,Norway,27728,Narvik,6893
+Brazil,20301,Rio Grande,United States of America,25007,New Jersey,5461
+Brazil,20301,Rio Grande,Greece,21852,Piraeus,6379
+Brazil,20301,Rio Grande,Slovenia,22770,Piran,6542
+Brazil,20301,Rio Grande,Georgia,18682,Poti,7301
+Brazil,20301,Rio Grande,Costa Rica,28781,Puerto Limon,5117
+Brazil,20301,Rio Grande,Guatemala,29973,Puerto Quetzal,5826
+Brazil,20301,Rio Grande,Croatia,24951,Rijeka,6506
+Brazil,20301,Rio Grande,Germany,20072,Rostock,6611
+Brazil,20301,Rio Grande,Brazil,20351,Salvador,1458
+Brazil,20301,Rio Grande,Puerto Rico,13756,San Juan,4346
+Brazil,20301,Rio Grande,Chile,27792,San Vicente,2743
+Brazil,20301,Rio Grande,Brazil,27248,Santos,608
+Brazil,20301,Rio Grande,Portugal,13390,Setubal,4942
+Brazil,20301,Rio Grande,Croatia,21556,Split,6386
+Brazil,20301,Rio Grande,Russia,18454,St Petersburg,7193
+Brazil,20301,Rio Grande,Sweden,21206,Stockholm,6924
+Brazil,20301,Rio Grande,Estonia,18867,Tallinn,7031
+Brazil,20301,Rio Grande,Spain,18937,Valencia,5285
+Brazil,20301,Rio Grande,Chile,28082,Valparaiso,2963
+Brazil,20301,Rio Grande,Canada,25350,Vancouver,8540
+Brazil,20301,Rio Grande,Bulgaria,20847,Varna,6847
+Brazil,20301,Rio Grande,Italy,13176,Venice,6562
+Brazil,20301,Rio Grande,Mexico,21451,Veracruz,5963
+Brazil,20301,Rio Grande,Netherlands,23247,Vlissingen,5906
+Germany,20072,Rostock,Turkey,246265,Ambarli,3806
+Germany,20072,Rostock,Greece,21863,Aspropyrgos,3510
+Germany,20072,Rostock,Panama,216593,Balboa,5292
+Germany,20072,Rostock,Spain,17386,Barcelona,2536
+Germany,20072,Rostock,Norway,26147,Bergen,566
+Germany,20072,Rostock,Tunisia,23448,Bizerte,2764
+Germany,20072,Rostock,Peru,30045,Callao,6632
+Germany,20072,Rostock,Romania,14459,Constantza,4017
+Germany,20072,Rostock,Panama,216592,Cristobal,5253
+Germany,20072,Rostock,Ireland,29749,Dublin,1129
+Germany,20072,Rostock,Ukraine,213737,Feodosia,4212
+Germany,20072,Rostock,Portugal,23428,Funchal,2191
+Germany,20072,Rostock,Tunisia,23495,Gabes,3056
+Germany,20072,Rostock,Romania,14470,Galatz,4141
+Germany,20072,Rostock,Poland,12543,Gdansk,277
+Germany,20072,Rostock,Italy,11174,Genoa,2868
+Germany,20072,Rostock,Puerto Rico,13610,Guanica,4445
+Germany,20072,Rostock,Slovenia,24795,Izola,3665
+Germany,20072,Rostock,Russia,11771,Kaliningrad,315
+Germany,20072,Rostock,Slovenia,21381,Koper,3665
+Germany,20072,Rostock,Portugal,13012,Leixoes,1590
+Germany,20072,Rostock,United Kingdom,29002,Liverpool,1159
+Germany,20072,Rostock,United Kingdom,29239,London,814
+Germany,20072,Rostock,United States of America,14635,Los Angeles,8204
+Germany,20072,Rostock,Sweden,20512,Lysekil,282
+Germany,20072,Rostock,Mexico,14277,Manzanillo,7017
+Germany,20072,Rostock,Venezuela,19974,Maracaibo,4914
+Germany,20072,Rostock,Peru,10860,Matarani,7067
+Germany,20072,Rostock,Turkey,22522,Mersin,3982
+Germany,20072,Rostock,Monaco,21457,Monaco,2790
+Germany,20072,Rostock,Uruguay,17941,Montevideo,6904
+Germany,20072,Rostock,Norway,27728,Narvik,1168
+Germany,20072,Rostock,United States of America,25007,New Jersey,3791
+Germany,20072,Rostock,Greece,21852,Piraeus,3502
+Germany,20072,Rostock,Slovenia,22770,Piran,3665
+Germany,20072,Rostock,Guatemala,29973,Puerto Quetzal,6181
+Germany,20072,Rostock,Puerto Rico,13756,San Juan,4334
+Germany,20072,Rostock,Portugal,13390,Setubal,1772
+Germany,20072,Rostock,Russia,18454,St Petersburg,721
+Germany,20072,Rostock,Sweden,21206,Stockholm,454
+Germany,20072,Rostock,Spain,18937,Valencia,2408
+Germany,20072,Rostock,Italy,13176,Venice,3685
+Germany,20072,Rostock,Mexico,21451,Veracruz,5478
+Germany,20072,Rostock,Netherlands,23247,Vlissingen,763
+Brazil,20351,Salvador,Denmark,10358,Aarhus,5085
+Brazil,20351,Salvador,Turkey,246265,Ambarli,5297
+Brazil,20351,Salvador,Greece,21863,Aspropyrgos,5001
+Brazil,20351,Salvador,Panama,216593,Balboa,3599
+Brazil,20351,Salvador,Spain,17386,Barcelona,4027
+Brazil,20351,Salvador,Georgia,18137,Batumi,5898
+Brazil,20351,Salvador,Norway,26147,Bergen,4996
+Brazil,20351,Salvador,Tunisia,23448,Bizerte,4255
+Brazil,20351,Salvador,Bulgaria,20826,Bourgas,5438
+Brazil,20351,Salvador,France,18012,Brest,4139
+Brazil,20351,Salvador,Colombia,28261,Buenaventura,3953
+Brazil,20351,Salvador,Peru,30045,Callao,4939
+Brazil,20351,Salvador,Colombia,28313,Cartagena,3325
+Brazil,20351,Salvador,Romania,14459,Constantza,5508
+Brazil,20351,Salvador,Denmark,10563,Copenhagen,5109
+Brazil,20351,Salvador,Panama,216592,Cristobal,3560
+Brazil,20351,Salvador,El Salvador,15107,Cutuco,4340
+Brazil,20351,Salvador,Ireland,29749,Dublin,4368
+Brazil,20351,Salvador,France,18326,Dunkirk,4459
+Brazil,20351,Salvador,Ecuador,14226,Esmeraldas,4079
+Brazil,20351,Salvador,Ukraine,213737,Feodosia,5703
+Brazil,20351,Salvador,Portugal,23428,Funchal,3038
+Brazil,20351,Salvador,Tunisia,23495,Gabes,4547
+Brazil,20351,Salvador,Romania,14470,Galatz,5632
+Brazil,20351,Salvador,Poland,12543,Gdansk,5375
+Brazil,20351,Salvador,Italy,11174,Genoa,4359
+Brazil,20351,Salvador,Puerto Rico,13610,Guanica,2906
+Brazil,20351,Salvador,Ecuador,29876,Guayaquil,4436
+Brazil,20351,Salvador,Canada,22226,Halifax,3927
+Brazil,20351,Salvador,Germany,224858,Hamburg,4811
+Brazil,20351,Salvador,Finland,16485,Helsinki,5659
+Brazil,20351,Salvador,Slovenia,24795,Izola,5156
+Brazil,20351,Salvador,Russia,11771,Kaliningrad,5410
+Brazil,20351,Salvador,Slovenia,21381,Koper,5156
+Brazil,20351,Salvador,Finland,16737,Kotka,5714
+Brazil,20351,Salvador,Cyprus,10136,Larnaca,5433
+Brazil,20351,Salvador,Portugal,13012,Leixoes,3690
+Brazil,20351,Salvador,United Kingdom,29002,Liverpool,4447
+Brazil,20351,Salvador,United Kingdom,29239,London,4517
+Brazil,20351,Salvador,United States of America,14635,Los Angeles,6511
+Brazil,20351,Salvador,Sweden,20512,Lysekil,4993
+Brazil,20351,Salvador,Mexico,14277,Manzanillo,5324
+Brazil,20351,Salvador,Venezuela,19974,Maracaibo,3076
+Brazil,20351,Salvador,Peru,10860,Matarani,5287
+Brazil,20351,Salvador,Turkey,22522,Mersin,5473
+Brazil,20351,Salvador,Monaco,21457,Monaco,4281
+Brazil,20351,Salvador,Uruguay,17941,Montevideo,1751
+Brazil,20351,Salvador,Norway,27728,Narvik,5495
+Brazil,20351,Salvador,United States of America,25007,New Jersey,4064
+Brazil,20351,Salvador,Greece,21852,Piraeus,4993
+Brazil,20351,Salvador,Slovenia,22770,Piran,5156
+Brazil,20351,Salvador,Georgia,18682,Poti,5915
+Brazil,20351,Salvador,Costa Rica,28781,Puerto Limon,3721
+Brazil,20351,Salvador,Guatemala,29973,Puerto Quetzal,4488
+Brazil,20351,Salvador,Croatia,24951,Rijeka,5120
+Brazil,20351,Salvador,Germany,20072,Rostock,5218
+Brazil,20351,Salvador,Puerto Rico,13756,San Juan,2950
+Brazil,20351,Salvador,Chile,27792,San Vicente,4127
+Brazil,20351,Salvador,Brazil,27248,Santos,936
+Brazil,20351,Salvador,Portugal,13390,Setubal,3548
+Brazil,20351,Salvador,Croatia,21556,Split,5000
+Brazil,20351,Salvador,Russia,18454,St Petersburg,5800
+Brazil,20351,Salvador,Sweden,21206,Stockholm,5531
+Brazil,20351,Salvador,Estonia,18867,Tallinn,5638
+Brazil,20351,Salvador,Spain,18937,Valencia,3899
+Brazil,20351,Salvador,Chile,28082,Valparaiso,4347
+Brazil,20351,Salvador,Canada,25350,Vancouver,7620
+Brazil,20351,Salvador,Bulgaria,20847,Varna,5461
+Brazil,20351,Salvador,Italy,13176,Venice,5176
+Brazil,20351,Salvador,Mexico,21451,Veracruz,4569
+Brazil,20351,Salvador,Netherlands,23247,Vlissingen,4513
+Puerto Rico,13756,San Juan,Turkey,246265,Ambarli,5139
+Puerto Rico,13756,San Juan,Spain,17386,Barcelona,3869
+Puerto Rico,13756,San Juan,Tunisia,23448,Bizerte,4097
+Puerto Rico,13756,San Juan,Romania,14459,Constantza,5350
+Puerto Rico,13756,San Juan,Ukraine,213737,Feodosia,5545
+Puerto Rico,13756,San Juan,Tunisia,23495,Gabes,4389
+Puerto Rico,13756,San Juan,Romania,14470,Galatz,5474
+Puerto Rico,13756,San Juan,Slovenia,24795,Izola,4998
+Puerto Rico,13756,San Juan,Russia,11771,Kaliningrad,4526
+Puerto Rico,13756,San Juan,Slovenia,21381,Koper,4998
+Puerto Rico,13756,San Juan,United Kingdom,29002,Liverpool,3593
+Puerto Rico,13756,San Juan,United Kingdom,29239,London,3807
+Puerto Rico,13756,San Juan,United States of America,14635,Los Angeles,3943
+Puerto Rico,13756,San Juan,Sweden,20512,Lysekil,4098
+Puerto Rico,13756,San Juan,Venezuela,19974,Maracaibo,620
+Puerto Rico,13756,San Juan,Turkey,22522,Mersin,5315
+Puerto Rico,13756,San Juan,Uruguay,17941,Montevideo,4640
+Puerto Rico,13756,San Juan,United States of America,25007,New Jersey,1406
+Puerto Rico,13756,San Juan,Slovenia,22770,Piran,4998
+Puerto Rico,13756,San Juan,Russia,18454,St Petersburg,4916
+Puerto Rico,13756,San Juan,Sweden,21206,Stockholm,4647
+Puerto Rico,13756,San Juan,Spain,18937,Valencia,3741
+Chile,27792,San Vicente,Denmark,10358,Aarhus,7961
+Chile,27792,San Vicente,Turkey,246265,Ambarli,8951
+Chile,27792,San Vicente,Greece,21863,Aspropyrgos,8655
+Chile,27792,San Vicente,Panama,216593,Balboa,2802
+Chile,27792,San Vicente,Spain,17386,Barcelona,7681
+Chile,27792,San Vicente,Georgia,18137,Batumi,9552
+Chile,27792,San Vicente,Norway,26147,Bergen,7675
+Chile,27792,San Vicente,Tunisia,23448,Bizerte,7909
+Chile,27792,San Vicente,France,18012,Brest,7258
+Chile,27792,San Vicente,Colombia,28261,Buenaventura,2586
+Chile,27792,San Vicente,Peru,30045,Callao,1498
+Chile,27792,San Vicente,Colombia,28313,Cartagena,3117
+Chile,27792,San Vicente,Romania,14459,Constantza,9162
+Chile,27792,San Vicente,Denmark,10563,Copenhagen,7985
+Chile,27792,San Vicente,Panama,216592,Cristobal,2841
+Chile,27792,San Vicente,El Salvador,15107,Cutuco,3116
+Chile,27792,San Vicente,Ireland,29749,Dublin,7302
+Chile,27792,San Vicente,France,18326,Dunkirk,7548
+Chile,27792,San Vicente,Ecuador,14226,Esmeraldas,2399
+Chile,27792,San Vicente,Ukraine,213737,Feodosia,9357
+Chile,27792,San Vicente,Portugal,23428,Funchal,6580
+Chile,27792,San Vicente,Tunisia,23495,Gabes,8201
+Chile,27792,San Vicente,Romania,14470,Galatz,9286
+Chile,27792,San Vicente,Poland,12543,Gdansk,8251
+Chile,27792,San Vicente,Italy,11174,Genoa,8013
+Chile,27792,San Vicente,Puerto Rico,13610,Guanica,3758
+Chile,27792,San Vicente,Ecuador,29876,Guayaquil,2172
+Chile,27792,San Vicente,Germany,224858,Hamburg,7895
+Chile,27792,San Vicente,Finland,16485,Helsinki,8535
+Chile,27792,San Vicente,Slovenia,24795,Izola,8810
+Chile,27792,San Vicente,Russia,11771,Kaliningrad,8286
+Chile,27792,San Vicente,Slovenia,21381,Koper,8810
+Chile,27792,San Vicente,Finland,16737,Kotka,8590
+Chile,27792,San Vicente,Cyprus,10136,Larnaca,9087
+Chile,27792,San Vicente,Portugal,13012,Leixoes,7031
+Chile,27792,San Vicente,United Kingdom,29002,Liverpool,7381
+Chile,27792,San Vicente,United Kingdom,29239,London,7601
+Chile,27792,San Vicente,United States of America,14635,Los Angeles,4934
+Chile,27792,San Vicente,Sweden,20512,Lysekil,7858
+Chile,27792,San Vicente,Mexico,14277,Manzanillo,3789
+Chile,27792,San Vicente,Venezuela,19974,Maracaibo,3517
+Chile,27792,San Vicente,Peru,10860,Matarani,1186
+Chile,27792,San Vicente,Turkey,22522,Mersin,9127
+Chile,27792,San Vicente,Monaco,21457,Monaco,7935
+Chile,27792,San Vicente,Uruguay,17941,Montevideo,2505
+Chile,27792,San Vicente,Norway,27728,Narvik,8076
+Chile,27792,San Vicente,United States of America,25007,New Jersey,4820
+Chile,27792,San Vicente,Greece,21852,Piraeus,8647
+Chile,27792,San Vicente,Slovenia,22770,Piran,8810
+Chile,27792,San Vicente,Georgia,18682,Poti,9569
+Chile,27792,San Vicente,Costa Rica,28781,Puerto Limon,3033
+Chile,27792,San Vicente,Guatemala,29973,Puerto Quetzal,3199
+Chile,27792,San Vicente,Croatia,24951,Rijeka,8774
+Chile,27792,San Vicente,Germany,20072,Rostock,8094
+Chile,27792,San Vicente,Puerto Rico,13756,San Juan,3833
+Chile,27792,San Vicente,Portugal,13390,Setubal,7011
+Chile,27792,San Vicente,Croatia,21556,Split,8654
+Chile,27792,San Vicente,Russia,18454,St Petersburg,8676
+Chile,27792,San Vicente,Sweden,21206,Stockholm,8407
+Chile,27792,San Vicente,Estonia,18867,Tallinn,8514
+Chile,27792,San Vicente,Spain,18937,Valencia,7553
+Chile,27792,San Vicente,Chile,28082,Valparaiso,236
+Chile,27792,San Vicente,Italy,13176,Venice,8830
+Chile,27792,San Vicente,Mexico,21451,Veracruz,4251
+Chile,27792,San Vicente,Netherlands,23247,Vlissingen,7597
+Brazil,27248,Santos,Denmark,10358,Aarhus,5957
+Brazil,27248,Santos,Turkey,246265,Ambarli,6162
+Brazil,27248,Santos,Greece,21863,Aspropyrgos,5866
+Brazil,27248,Santos,Panama,216593,Balboa,4472
+Brazil,27248,Santos,Spain,17386,Barcelona,4892
+Brazil,27248,Santos,Georgia,18137,Batumi,6763
+Brazil,27248,Santos,Norway,26147,Bergen,5873
+Brazil,27248,Santos,Tunisia,23448,Bizerte,5120
+Brazil,27248,Santos,Bulgaria,20826,Bourgas,6303
+Brazil,27248,Santos,France,18012,Brest,5011
+Brazil,27248,Santos,Colombia,28261,Buenaventura,4826
+Brazil,27248,Santos,Peru,30045,Callao,4760
+Brazil,27248,Santos,Colombia,28313,Cartagena,4199
+Brazil,27248,Santos,Romania,14459,Constantza,6373
+Brazil,27248,Santos,Denmark,10563,Copenhagen,5981
+Brazil,27248,Santos,Panama,216592,Cristobal,4433
+Brazil,27248,Santos,El Salvador,15107,Cutuco,5213
+Brazil,27248,Santos,Ireland,29749,Dublin,5241
+Brazil,27248,Santos,France,18326,Dunkirk,5331
+Brazil,27248,Santos,Ecuador,14226,Esmeraldas,4952
+Brazil,27248,Santos,Ukraine,213737,Feodosia,6568
+Brazil,27248,Santos,Portugal,23428,Funchal,3907
+Brazil,27248,Santos,Tunisia,23495,Gabes,5412
+Brazil,27248,Santos,Romania,14470,Galatz,6497
+Brazil,27248,Santos,Poland,12543,Gdansk,6247
+Brazil,27248,Santos,Italy,11174,Genoa,5224
+Brazil,27248,Santos,Puerto Rico,13610,Guanica,3779
+Brazil,27248,Santos,Ecuador,29876,Guayaquil,5309
+Brazil,27248,Santos,Canada,22226,Halifax,4800
+Brazil,27248,Santos,Germany,224858,Hamburg,5683
+Brazil,27248,Santos,Finland,16485,Helsinki,6531
+Brazil,27248,Santos,Slovenia,24795,Izola,6021
+Brazil,27248,Santos,Russia,11771,Kaliningrad,6282
+Brazil,27248,Santos,Slovenia,21381,Koper,6021
+Brazil,27248,Santos,Finland,16737,Kotka,6586
+Brazil,27248,Santos,Cyprus,10136,Larnaca,6298
+Brazil,27248,Santos,Portugal,13012,Leixoes,4561
+Brazil,27248,Santos,United Kingdom,29002,Liverpool,5320
+Brazil,27248,Santos,United Kingdom,29239,London,5389
+Brazil,27248,Santos,United States of America,14635,Los Angeles,7384
+Brazil,27248,Santos,Sweden,20512,Lysekil,5865
+Brazil,27248,Santos,Mexico,14277,Manzanillo,6197
+Brazil,27248,Santos,Venezuela,19974,Maracaibo,3951
+Brazil,27248,Santos,Peru,10860,Matarani,4472
+Brazil,27248,Santos,Turkey,22522,Mersin,6338
+Brazil,27248,Santos,Monaco,21457,Monaco,5146
+Brazil,27248,Santos,Uruguay,17941,Montevideo,901
+Brazil,27248,Santos,Norway,27728,Narvik,6372
+Brazil,27248,Santos,United States of America,25007,New Jersey,4937
+Brazil,27248,Santos,Greece,21852,Piraeus,5858
+Brazil,27248,Santos,Slovenia,22770,Piran,6021
+Brazil,27248,Santos,Georgia,18682,Poti,6780
+Brazil,27248,Santos,Costa Rica,28781,Puerto Limon,4595
+Brazil,27248,Santos,Guatemala,29973,Puerto Quetzal,5361
+Brazil,27248,Santos,Croatia,24951,Rijeka,5985
+Brazil,27248,Santos,Germany,20072,Rostock,6090
+Brazil,27248,Santos,Puerto Rico,13756,San Juan,3823
+Brazil,27248,Santos,Chile,27792,San Vicente,3312
+Brazil,27248,Santos,Portugal,13390,Setubal,4418
+Brazil,27248,Santos,Croatia,21556,Split,5865
+Brazil,27248,Santos,Russia,18454,St Petersburg,6672
+Brazil,27248,Santos,Sweden,21206,Stockholm,6403
+Brazil,27248,Santos,Estonia,18867,Tallinn,6510
+Brazil,27248,Santos,Spain,18937,Valencia,4764
+Brazil,27248,Santos,Chile,28082,Valparaiso,3532
+Brazil,27248,Santos,Canada,25350,Vancouver,8493
+Brazil,27248,Santos,Bulgaria,20847,Varna,6326
+Brazil,27248,Santos,Italy,13176,Venice,6041
+Brazil,27248,Santos,Mexico,21451,Veracruz,5442
+Brazil,27248,Santos,Netherlands,23247,Vlissingen,5385
+Portugal,13390,Setubal,Turkey,246265,Ambarli,2069
+Portugal,13390,Setubal,Spain,17386,Barcelona,799
+Portugal,13390,Setubal,Tunisia,23448,Bizerte,1027
+Portugal,13390,Setubal,Romania,14459,Constantza,2280
+Portugal,13390,Setubal,Ukraine,213737,Feodosia,2475
+Portugal,13390,Setubal,Tunisia,23495,Gabes,1319
+Portugal,13390,Setubal,Romania,14470,Galatz,2404
+Portugal,13390,Setubal,Puerto Rico,13610,Guanica,3271
+Portugal,13390,Setubal,Slovenia,24795,Izola,1928
+Portugal,13390,Setubal,Russia,11771,Kaliningrad,1964
+Portugal,13390,Setubal,Slovenia,21381,Koper,1928
+Portugal,13390,Setubal,United Kingdom,29002,Liverpool,1017
+Portugal,13390,Setubal,United Kingdom,29239,London,1071
+Portugal,13390,Setubal,United States of America,14635,Los Angeles,7121
+Portugal,13390,Setubal,Sweden,20512,Lysekil,1547
+Portugal,13390,Setubal,Venezuela,19974,Maracaibo,3740
+Portugal,13390,Setubal,Turkey,22522,Mersin,2245
+Portugal,13390,Setubal,Uruguay,17941,Montevideo,5234
+Portugal,13390,Setubal,United States of America,25007,New Jersey,3011
+Portugal,13390,Setubal,Slovenia,22770,Piran,1928
+Portugal,13390,Setubal,Puerto Rico,13756,San Juan,3199
+Portugal,13390,Setubal,Russia,18454,St Petersburg,2354
+Portugal,13390,Setubal,Sweden,21206,Stockholm,2085
+Portugal,13390,Setubal,Spain,18937,Valencia,671
+Algeria,15990,Skikda,Denmark,10358,Aarhus,2490
+Algeria,15990,Skikda,Turkey,246265,Ambarli,1190
+Algeria,15990,Skikda,Belgium,19057,Antwerp,1968
+Algeria,15990,Skikda,Greece,21863,Aspropyrgos,900
+Algeria,15990,Skikda,Argentina,14113,Bahia Blanca,6169
+Algeria,15990,Skikda,Panama,216593,Balboa,4966
+Algeria,15990,Skikda,Spain,17386,Barcelona,349
+Algeria,15990,Skikda,Georgia,18137,Batumi,1791
+Algeria,15990,Skikda,Norway,26147,Bergen,2414
+Algeria,15990,Skikda,Tunisia,23448,Bizerte,154
+Algeria,15990,Skikda,Bulgaria,20826,Bourgas,1331
+Algeria,15990,Skikda,France,18012,Brest,1544
+Algeria,15990,Skikda,Colombia,28261,Buenaventura,5320
+Algeria,15990,Skikda,Argentina,26670,Buenos Aires,5891
+Algeria,15990,Skikda,Peru,30045,Callao,6306
+Algeria,15990,Skikda,Colombia,28313,Cartagena,4701
+Algeria,15990,Skikda,Romania,14459,Constantza,1401
+Algeria,15990,Skikda,Denmark,10563,Copenhagen,2514
+Algeria,15990,Skikda,Panama,216592,Cristobal,4927
+Algeria,15990,Skikda,El Salvador,15107,Cutuco,5707
+Algeria,15990,Skikda,Ireland,29749,Dublin,1798
+Algeria,15990,Skikda,France,18326,Dunkirk,1864
+Algeria,15990,Skikda,Ecuador,14226,Esmeraldas,5446
+Algeria,15990,Skikda,Ukraine,213737,Feodosia,1596
+Algeria,15990,Skikda,Portugal,23428,Funchal,1210
+Algeria,15990,Skikda,Tunisia,23495,Gabes,446
+Algeria,15990,Skikda,Romania,14470,Galatz,1525
+Algeria,15990,Skikda,Poland,12543,Gdansk,2780
+Algeria,15990,Skikda,Italy,11174,Genoa,460
+Algeria,15990,Skikda,Puerto Rico,13610,Guanica,4025
+Algeria,15990,Skikda,Ecuador,29876,Guayaquil,5803
+Algeria,15990,Skikda,Canada,22226,Halifax,3316
+Algeria,15990,Skikda,Germany,224858,Hamburg,2216
+Algeria,15990,Skikda,Finland,16485,Helsinki,3064
+Algeria,15990,Skikda,Portugal,18433,Horta,1726
+Algeria,15990,Skikda,Slovenia,24795,Izola,1063
+Algeria,15990,Skikda,Russia,11771,Kaliningrad,2815
+Algeria,15990,Skikda,Slovenia,21381,Koper,1063
+Algeria,15990,Skikda,Finland,16737,Kotka,3119
+Algeria,15990,Skikda,Cyprus,10136,Larnaca,1332
+Algeria,15990,Skikda,Portugal,13012,Leixoes,1056
+Algeria,15990,Skikda,United Kingdom,29002,Liverpool,1868
+Algeria,15990,Skikda,United Kingdom,29239,London,1922
+Algeria,15990,Skikda,United States of America,14635,Los Angeles,7878
+Algeria,15990,Skikda,Sweden,20512,Lysekil,2398
+Algeria,15990,Skikda,Mexico,14277,Manzanillo,6691
+Algeria,15990,Skikda,Venezuela,19974,Maracaibo,4487
+Algeria,15990,Skikda,Peru,10860,Matarani,6741
+Algeria,15990,Skikda,Turkey,22522,Mersin,1372
+Algeria,15990,Skikda,Monaco,21457,Monaco,410
+Algeria,15990,Skikda,Uruguay,17941,Montevideo,5794
+Algeria,15990,Skikda,Norway,27728,Narvik,3010
+Algeria,15990,Skikda,United States of America,25007,New Jersey,3815
+Algeria,15990,Skikda,Greece,21852,Piraeus,892
+Algeria,15990,Skikda,Slovenia,22770,Piran,1063
+Algeria,15990,Skikda,Portugal,18476,Ponta Delgada,1584
+Algeria,15990,Skikda,Georgia,18682,Poti,1808
+Algeria,15990,Skikda,Costa Rica,28781,Puerto Limon,5060
+Algeria,15990,Skikda,Guatemala,29973,Puerto Quetzal,5855
+Algeria,15990,Skikda,Croatia,24951,Rijeka,1028
+Algeria,15990,Skikda,Brazil,20301,Rio Grande,5500
+Algeria,15990,Skikda,Germany,20072,Rostock,2623
+Algeria,15990,Skikda,Brazil,20351,Salvador,4114
+Algeria,15990,Skikda,Puerto Rico,13756,San Juan,3956
+Algeria,15990,Skikda,Chile,27792,San Vicente,7768
+Algeria,15990,Skikda,Brazil,27248,Santos,4979
+Algeria,15990,Skikda,Portugal,13390,Setubal,886
+Algeria,15990,Skikda,Croatia,21556,Split,907
+Algeria,15990,Skikda,Russia,18454,St Petersburg,3205
+Algeria,15990,Skikda,Sweden,21206,Stockholm,2936
+Algeria,15990,Skikda,Estonia,18867,Tallinn,3043
+Algeria,15990,Skikda,Spain,18937,Valencia,380
+Algeria,15990,Skikda,Chile,28082,Valparaiso,7581
+Algeria,15990,Skikda,Canada,25350,Vancouver,8987
+Algeria,15990,Skikda,Bulgaria,20847,Varna,1354
+Algeria,15990,Skikda,Italy,13176,Venice,1083
+Algeria,15990,Skikda,Mexico,21451,Veracruz,5421
+Algeria,15990,Skikda,Netherlands,23247,Vlissingen,1918
+Algeria,15990,Skikda,Belgium,19473,Zeebrugge,1897
+Croatia,21556,Split,Denmark,10358,Aarhus,3376
+Croatia,21556,Split,Turkey,246265,Ambarli,976
+Croatia,21556,Split,Greece,21863,Aspropyrgos,686
+Croatia,21556,Split,Panama,216593,Balboa,5852
+Croatia,21556,Split,Spain,17386,Barcelona,1140
+Croatia,21556,Split,Georgia,18137,Batumi,1577
+Croatia,21556,Split,Norway,26147,Bergen,3300
+Croatia,21556,Split,Tunisia,23448,Bizerte,758
+Croatia,21556,Split,France,18012,Brest,2430
+Croatia,21556,Split,Peru,30045,Callao,7192
+Croatia,21556,Split,Romania,14459,Constantza,1187
+Croatia,21556,Split,Denmark,10563,Copenhagen,3400
+Croatia,21556,Split,Panama,216592,Cristobal,5813
+Croatia,21556,Split,El Salvador,15107,Cutuco,6593
+Croatia,21556,Split,Ireland,29749,Dublin,2684
+Croatia,21556,Split,France,18326,Dunkirk,2750
+Croatia,21556,Split,Ecuador,14226,Esmeraldas,6332
+Croatia,21556,Split,Ukraine,213737,Feodosia,1382
+Croatia,21556,Split,Portugal,23428,Funchal,2096
+Croatia,21556,Split,Tunisia,23495,Gabes,808
+Croatia,21556,Split,Romania,14470,Galatz,1311
+Croatia,21556,Split,Poland,12543,Gdansk,3666
+Croatia,21556,Split,Italy,11174,Genoa,951
+Croatia,21556,Split,Puerto Rico,13610,Guanica,4911
+Croatia,21556,Split,Ecuador,29876,Guayaquil,6689
+Croatia,21556,Split,Germany,224858,Hamburg,3102
+Croatia,21556,Split,Finland,16485,Helsinki,3950
+Croatia,21556,Split,Slovenia,24795,Izola,216
+Croatia,21556,Split,Russia,11771,Kaliningrad,3701
+Croatia,21556,Split,Slovenia,21381,Koper,216
+Croatia,21556,Split,Finland,16737,Kotka,4005
+Croatia,21556,Split,Cyprus,10136,Larnaca,1123
+Croatia,21556,Split,Portugal,13012,Leixoes,1942
+Croatia,21556,Split,United Kingdom,29002,Liverpool,2754
+Croatia,21556,Split,United Kingdom,29239,London,2808
+Croatia,21556,Split,United States of America,14635,Los Angeles,8764
+Croatia,21556,Split,Sweden,20512,Lysekil,3284
+Croatia,21556,Split,Mexico,14277,Manzanillo,7577
+Croatia,21556,Split,Venezuela,19974,Maracaibo,5373
+Croatia,21556,Split,Peru,10860,Matarani,7627
+Croatia,21556,Split,Turkey,22522,Mersin,1158
+Croatia,21556,Split,Monaco,21457,Monaco,979
+Croatia,21556,Split,Uruguay,17941,Montevideo,6680
+Croatia,21556,Split,Norway,27728,Narvik,3896
+Croatia,21556,Split,United States of America,25007,New Jersey,4701
+Croatia,21556,Split,Greece,21852,Piraeus,678
+Croatia,21556,Split,Slovenia,22770,Piran,216
+Croatia,21556,Split,Georgia,18682,Poti,1594
+Croatia,21556,Split,Guatemala,29973,Puerto Quetzal,6741
+Croatia,21556,Split,Germany,20072,Rostock,3509
+Croatia,21556,Split,Puerto Rico,13756,San Juan,4842
+Croatia,21556,Split,Portugal,13390,Setubal,1772
+Croatia,21556,Split,Russia,18454,St Petersburg,4091
+Croatia,21556,Split,Sweden,21206,Stockholm,3822
+Croatia,21556,Split,Estonia,18867,Tallinn,3929
+Croatia,21556,Split,Spain,18937,Valencia,1228
+Croatia,21556,Split,Italy,13176,Venice,230
+Croatia,21556,Split,Mexico,21451,Veracruz,6307
+Croatia,21556,Split,Netherlands,23247,Vlissingen,2804
+Russia,18454,St Petersburg,Turkey,246265,Ambarli,4388
+Russia,18454,St Petersburg,Spain,17386,Barcelona,3118
+Russia,18454,St Petersburg,Tunisia,23448,Bizerte,3346
+Russia,18454,St Petersburg,Ukraine,213737,Feodosia,4794
+Russia,18454,St Petersburg,Tunisia,23495,Gabes,3638
+Russia,18454,St Petersburg,Slovenia,24795,Izola,4247
+Russia,18454,St Petersburg,Slovenia,21381,Koper,4247
+Russia,18454,St Petersburg,United Kingdom,29002,Liverpool,1741
+Russia,18454,St Petersburg,United Kingdom,29239,London,1396
+Russia,18454,St Petersburg,United States of America,14635,Los Angeles,8786
+Russia,18454,St Petersburg,Sweden,20512,Lysekil,864
+Russia,18454,St Petersburg,Venezuela,19974,Maracaibo,5496
+Russia,18454,St Petersburg,Turkey,22522,Mersin,4564
+Russia,18454,St Petersburg,Uruguay,17941,Montevideo,7486
+Russia,18454,St Petersburg,United States of America,25007,New Jersey,4373
+Russia,18454,St Petersburg,Slovenia,22770,Piran,4247
+Russia,18454,St Petersburg,Sweden,21206,Stockholm,385
+Russia,18454,St Petersburg,Spain,18937,Valencia,2990
+Sweden,21206,Stockholm,Turkey,246265,Ambarli,4119
+Sweden,21206,Stockholm,Tunisia,23448,Bizerte,3077
+Sweden,21206,Stockholm,Ukraine,213737,Feodosia,4525
+Sweden,21206,Stockholm,Tunisia,23495,Gabes,3369
+Sweden,21206,Stockholm,United Kingdom,29002,Liverpool,1472
+Sweden,21206,Stockholm,United Kingdom,29239,London,1127
+Sweden,21206,Stockholm,United States of America,14635,Los Angeles,8517
+Sweden,21206,Stockholm,Venezuela,19974,Maracaibo,5227
+Sweden,21206,Stockholm,Turkey,22522,Mersin,4295
+Sweden,21206,Stockholm,Uruguay,17941,Montevideo,7217
+Sweden,21206,Stockholm,United States of America,25007,New Jersey,4104
+Estonia,18867,Tallinn,Turkey,246265,Ambarli,4226
+Estonia,18867,Tallinn,Greece,21863,Aspropyrgos,3930
+Estonia,18867,Tallinn,Panama,216593,Balboa,5712
+Estonia,18867,Tallinn,Spain,17386,Barcelona,2956
+Estonia,18867,Tallinn,Georgia,18137,Batumi,4827
+Estonia,18867,Tallinn,Norway,26147,Bergen,986
+Estonia,18867,Tallinn,Tunisia,23448,Bizerte,3184
+Estonia,18867,Tallinn,France,18012,Brest,1557
+Estonia,18867,Tallinn,Peru,30045,Callao,7052
+Estonia,18867,Tallinn,Romania,14459,Constantza,4437
+Estonia,18867,Tallinn,Panama,216592,Cristobal,5673
+Estonia,18867,Tallinn,Ireland,29749,Dublin,1549
+Estonia,18867,Tallinn,France,18326,Dunkirk,1221
+Estonia,18867,Tallinn,Ukraine,213737,Feodosia,4632
+Estonia,18867,Tallinn,Portugal,23428,Funchal,2611
+Estonia,18867,Tallinn,Tunisia,23495,Gabes,3476
+Estonia,18867,Tallinn,Romania,14470,Galatz,4561
+Estonia,18867,Tallinn,Poland,12543,Gdansk,406
+Estonia,18867,Tallinn,Italy,11174,Genoa,3288
+Estonia,18867,Tallinn,Puerto Rico,13610,Guanica,4865
+Estonia,18867,Tallinn,Germany,224858,Hamburg,700
+Estonia,18867,Tallinn,Finland,16485,Helsinki,48
+Estonia,18867,Tallinn,Slovenia,24795,Izola,4085
+Estonia,18867,Tallinn,Russia,11771,Kaliningrad,402
+Estonia,18867,Tallinn,Slovenia,21381,Koper,4085
+Estonia,18867,Tallinn,Finland,16737,Kotka,99
+Estonia,18867,Tallinn,Portugal,13012,Leixoes,2010
+Estonia,18867,Tallinn,United Kingdom,29002,Liverpool,1579
+Estonia,18867,Tallinn,United Kingdom,29239,London,1234
+Estonia,18867,Tallinn,United States of America,14635,Los Angeles,8624
+Estonia,18867,Tallinn,Sweden,20512,Lysekil,701
+Estonia,18867,Tallinn,Mexico,14277,Manzanillo,7437
+Estonia,18867,Tallinn,Venezuela,19974,Maracaibo,5334
+Estonia,18867,Tallinn,Peru,10860,Matarani,7487
+Estonia,18867,Tallinn,Turkey,22522,Mersin,4402
+Estonia,18867,Tallinn,Monaco,21457,Monaco,3210
+Estonia,18867,Tallinn,Uruguay,17941,Montevideo,7324
+Estonia,18867,Tallinn,Norway,27728,Narvik,1588
+Estonia,18867,Tallinn,United States of America,25007,New Jersey,4211
+Estonia,18867,Tallinn,Greece,21852,Piraeus,3922
+Estonia,18867,Tallinn,Slovenia,22770,Piran,4085
+Estonia,18867,Tallinn,Georgia,18682,Poti,4844
+Estonia,18867,Tallinn,Guatemala,29973,Puerto Quetzal,6601
+Estonia,18867,Tallinn,Germany,20072,Rostock,558
+Estonia,18867,Tallinn,Puerto Rico,13756,San Juan,4754
+Estonia,18867,Tallinn,Portugal,13390,Setubal,2192
+Estonia,18867,Tallinn,Russia,18454,St Petersburg,187
+Estonia,18867,Tallinn,Sweden,21206,Stockholm,217
+Estonia,18867,Tallinn,Spain,18937,Valencia,2828
+Estonia,18867,Tallinn,Italy,13176,Venice,4105
+Estonia,18867,Tallinn,Mexico,21451,Veracruz,5898
+Estonia,18867,Tallinn,Netherlands,23247,Vlissingen,1183
+Spain,18937,Valencia,Turkey,246265,Ambarli,1535
+Spain,18937,Valencia,Tunisia,23448,Bizerte,500
+Spain,18937,Valencia,Ukraine,213737,Feodosia,1941
+Spain,18937,Valencia,Tunisia,23495,Gabes,792
+Spain,18937,Valencia,United Kingdom,29002,Liverpool,1653
+Spain,18937,Valencia,United Kingdom,29239,London,1707
+Spain,18937,Valencia,United States of America,14635,Los Angeles,7663
+Spain,18937,Valencia,Sweden,20512,Lysekil,2183
+Spain,18937,Valencia,Venezuela,19974,Maracaibo,4272
+Spain,18937,Valencia,Turkey,22522,Mersin,1717
+Spain,18937,Valencia,Uruguay,17941,Montevideo,5579
+Spain,18937,Valencia,United States of America,25007,New Jersey,3600
+Spain,18937,Valencia,Sweden,21206,Stockholm,2721
+Chile,28082,Valparaiso,Denmark,10358,Aarhus,7774
+Chile,28082,Valparaiso,Turkey,246265,Ambarli,8764
+Chile,28082,Valparaiso,Greece,21863,Aspropyrgos,8468
+Chile,28082,Valparaiso,Panama,216593,Balboa,2615
+Chile,28082,Valparaiso,Spain,17386,Barcelona,7494
+Chile,28082,Valparaiso,Georgia,18137,Batumi,9365
+Chile,28082,Valparaiso,Norway,26147,Bergen,7488
+Chile,28082,Valparaiso,Tunisia,23448,Bizerte,7722
+Chile,28082,Valparaiso,France,18012,Brest,7071
+Chile,28082,Valparaiso,Colombia,28261,Buenaventura,2399
+Chile,28082,Valparaiso,Peru,30045,Callao,1299
+Chile,28082,Valparaiso,Colombia,28313,Cartagena,2930
+Chile,28082,Valparaiso,Romania,14459,Constantza,8975
+Chile,28082,Valparaiso,Denmark,10563,Copenhagen,7798
+Chile,28082,Valparaiso,Panama,216592,Cristobal,2654
+Chile,28082,Valparaiso,El Salvador,15107,Cutuco,2933
+Chile,28082,Valparaiso,Ireland,29749,Dublin,7115
+Chile,28082,Valparaiso,France,18326,Dunkirk,7361
+Chile,28082,Valparaiso,Ecuador,14226,Esmeraldas,2175
+Chile,28082,Valparaiso,Ukraine,213737,Feodosia,9170
+Chile,28082,Valparaiso,Portugal,23428,Funchal,6393
+Chile,28082,Valparaiso,Tunisia,23495,Gabes,8014
+Chile,28082,Valparaiso,Romania,14470,Galatz,9099
+Chile,28082,Valparaiso,Poland,12543,Gdansk,8064
+Chile,28082,Valparaiso,Italy,11174,Genoa,7826
+Chile,28082,Valparaiso,Puerto Rico,13610,Guanica,3571
+Chile,28082,Valparaiso,Ecuador,29876,Guayaquil,1984
+Chile,28082,Valparaiso,Germany,224858,Hamburg,7708
+Chile,28082,Valparaiso,Finland,16485,Helsinki,8348
+Chile,28082,Valparaiso,Slovenia,24795,Izola,8623
+Chile,28082,Valparaiso,Russia,11771,Kaliningrad,8099
+Chile,28082,Valparaiso,Slovenia,21381,Koper,8623
+Chile,28082,Valparaiso,Finland,16737,Kotka,8403
+Chile,28082,Valparaiso,Cyprus,10136,Larnaca,8900
+Chile,28082,Valparaiso,Portugal,13012,Leixoes,6844
+Chile,28082,Valparaiso,United Kingdom,29002,Liverpool,7194
+Chile,28082,Valparaiso,United Kingdom,29239,London,7414
+Chile,28082,Valparaiso,United States of America,14635,Los Angeles,4806
+Chile,28082,Valparaiso,Sweden,20512,Lysekil,7671
+Chile,28082,Valparaiso,Mexico,14277,Manzanillo,3652
+Chile,28082,Valparaiso,Venezuela,19974,Maracaibo,3330
+Chile,28082,Valparaiso,Peru,10860,Matarani,965
+Chile,28082,Valparaiso,Turkey,22522,Mersin,8940
+Chile,28082,Valparaiso,Monaco,21457,Monaco,7748
+Chile,28082,Valparaiso,Uruguay,17941,Montevideo,2725
+Chile,28082,Valparaiso,Norway,27728,Narvik,7889
+Chile,28082,Valparaiso,United States of America,25007,New Jersey,4633
+Chile,28082,Valparaiso,Greece,21852,Piraeus,8460
+Chile,28082,Valparaiso,Slovenia,22770,Piran,8623
+Chile,28082,Valparaiso,Georgia,18682,Poti,9382
+Chile,28082,Valparaiso,Costa Rica,28781,Puerto Limon,2846
+Chile,28082,Valparaiso,Guatemala,29973,Puerto Quetzal,3024
+Chile,28082,Valparaiso,Croatia,24951,Rijeka,8587
+Chile,28082,Valparaiso,Germany,20072,Rostock,7907
+Chile,28082,Valparaiso,Puerto Rico,13756,San Juan,3646
+Chile,28082,Valparaiso,Portugal,13390,Setubal,6824
+Chile,28082,Valparaiso,Croatia,21556,Split,8467
+Chile,28082,Valparaiso,Russia,18454,St Petersburg,8489
+Chile,28082,Valparaiso,Sweden,21206,Stockholm,8220
+Chile,28082,Valparaiso,Estonia,18867,Tallinn,8327
+Chile,28082,Valparaiso,Spain,18937,Valencia,7366
+Chile,28082,Valparaiso,Italy,13176,Venice,8643
+Chile,28082,Valparaiso,Mexico,21451,Veracruz,4064
+Chile,28082,Valparaiso,Netherlands,23247,Vlissingen,7410
+Canada,25350,Vancouver,Denmark,10358,Aarhus,9180
+Canada,25350,Vancouver,Turkey,246265,Ambarli,10170
+Canada,25350,Vancouver,Greece,21863,Aspropyrgos,9874
+Canada,25350,Vancouver,Panama,216593,Balboa,4021
+Canada,25350,Vancouver,Spain,17386,Barcelona,8900
+Canada,25350,Vancouver,Georgia,18137,Batumi,10771
+Canada,25350,Vancouver,Norway,26147,Bergen,8894
+Canada,25350,Vancouver,Tunisia,23448,Bizerte,9128
+Canada,25350,Vancouver,France,18012,Brest,8477
+Canada,25350,Vancouver,Colombia,28261,Buenaventura,4156
+Canada,25350,Vancouver,Peru,30045,Callao,4763
+Canada,25350,Vancouver,Colombia,28313,Cartagena,4336
+Canada,25350,Vancouver,Romania,14459,Constantza,10381
+Canada,25350,Vancouver,Denmark,10563,Copenhagen,9204
+Canada,25350,Vancouver,Panama,216592,Cristobal,4060
+Canada,25350,Vancouver,El Salvador,15107,Cutuco,3354
+Canada,25350,Vancouver,Ireland,29749,Dublin,8521
+Canada,25350,Vancouver,France,18326,Dunkirk,8767
+Canada,25350,Vancouver,Ecuador,14226,Esmeraldas,4110
+Canada,25350,Vancouver,Ukraine,213737,Feodosia,10576
+Canada,25350,Vancouver,Portugal,23428,Funchal,7799
+Canada,25350,Vancouver,Tunisia,23495,Gabes,9420
+Canada,25350,Vancouver,Romania,14470,Galatz,10505
+Canada,25350,Vancouver,Poland,12543,Gdansk,9470
+Canada,25350,Vancouver,Italy,11174,Genoa,9232
+Canada,25350,Vancouver,Puerto Rico,13610,Guanica,4977
+Canada,25350,Vancouver,Ecuador,29876,Guayaquil,4340
+Canada,25350,Vancouver,Germany,224858,Hamburg,9114
+Canada,25350,Vancouver,Finland,16485,Helsinki,9754
+Canada,25350,Vancouver,Slovenia,24795,Izola,10029
+Canada,25350,Vancouver,Russia,11771,Kaliningrad,9505
+Canada,25350,Vancouver,Slovenia,21381,Koper,10029
+Canada,25350,Vancouver,Finland,16737,Kotka,9809
+Canada,25350,Vancouver,Cyprus,10136,Larnaca,10306
+Canada,25350,Vancouver,Portugal,13012,Leixoes,8250
+Canada,25350,Vancouver,United Kingdom,29002,Liverpool,8600
+Canada,25350,Vancouver,United Kingdom,29239,London,8820
+Canada,25350,Vancouver,United States of America,14635,Los Angeles,1162
+Canada,25350,Vancouver,Sweden,20512,Lysekil,9077
+Canada,25350,Vancouver,Mexico,14277,Manzanillo,2328
+Canada,25350,Vancouver,Venezuela,19974,Maracaibo,4736
+Canada,25350,Vancouver,Peru,10860,Matarani,5192
+Canada,25350,Vancouver,Turkey,22522,Mersin,10346
+Canada,25350,Vancouver,Monaco,21457,Monaco,9154
+Canada,25350,Vancouver,Uruguay,17941,Montevideo,8302
+Canada,25350,Vancouver,Norway,27728,Narvik,9295
+Canada,25350,Vancouver,United States of America,25007,New Jersey,6039
+Canada,25350,Vancouver,Greece,21852,Piraeus,9866
+Canada,25350,Vancouver,Slovenia,22770,Piran,10029
+Canada,25350,Vancouver,Georgia,18682,Poti,10788
+Canada,25350,Vancouver,Costa Rica,28781,Puerto Limon,4252
+Canada,25350,Vancouver,Guatemala,29973,Puerto Quetzal,3156
+Canada,25350,Vancouver,Croatia,24951,Rijeka,9993
+Canada,25350,Vancouver,Germany,20072,Rostock,9313
+Canada,25350,Vancouver,Puerto Rico,13756,San Juan,5052
+Canada,25350,Vancouver,Chile,27792,San Vicente,6043
+Canada,25350,Vancouver,Portugal,13390,Setubal,8230
+Canada,25350,Vancouver,Croatia,21556,Split,9873
+Canada,25350,Vancouver,Russia,18454,St Petersburg,9895
+Canada,25350,Vancouver,Sweden,21206,Stockholm,9626
+Canada,25350,Vancouver,Estonia,18867,Tallinn,9733
+Canada,25350,Vancouver,Spain,18937,Valencia,8772
+Canada,25350,Vancouver,Chile,28082,Valparaiso,5915
+Canada,25350,Vancouver,Italy,13176,Venice,10049
+Canada,25350,Vancouver,Mexico,21451,Veracruz,5470
+Canada,25350,Vancouver,Netherlands,23247,Vlissingen,8816
+Bulgaria,20847,Varna,Denmark,10358,Aarhus,3837
+Bulgaria,20847,Varna,Turkey,246265,Ambarli,164
+Bulgaria,20847,Varna,Greece,21863,Aspropyrgos,509
+Bulgaria,20847,Varna,Panama,216593,Balboa,6313
+Bulgaria,20847,Varna,Spain,17386,Barcelona,1618
+Bulgaria,20847,Varna,Georgia,18137,Batumi,617
+Bulgaria,20847,Varna,Norway,26147,Bergen,3761
+Bulgaria,20847,Varna,Tunisia,23448,Bizerte,1202
+Bulgaria,20847,Varna,France,18012,Brest,2891
+Bulgaria,20847,Varna,Colombia,28261,Buenaventura,6667
+Bulgaria,20847,Varna,Peru,30045,Callao,7653
+Bulgaria,20847,Varna,Colombia,28313,Cartagena,6048
+Bulgaria,20847,Varna,Romania,14459,Constantza,76
+Bulgaria,20847,Varna,Denmark,10563,Copenhagen,3861
+Bulgaria,20847,Varna,Panama,216592,Cristobal,6274
+Bulgaria,20847,Varna,El Salvador,15107,Cutuco,7054
+Bulgaria,20847,Varna,Ireland,29749,Dublin,3145
+Bulgaria,20847,Varna,France,18326,Dunkirk,3211
+Bulgaria,20847,Varna,Ecuador,14226,Esmeraldas,6793
+Bulgaria,20847,Varna,Ukraine,213737,Feodosia,350
+Bulgaria,20847,Varna,Portugal,23428,Funchal,2557
+Bulgaria,20847,Varna,Tunisia,23495,Gabes,1223
+Bulgaria,20847,Varna,Romania,14470,Galatz,214
+Bulgaria,20847,Varna,Poland,12543,Gdansk,4127
+Bulgaria,20847,Varna,Italy,11174,Genoa,1434
+Bulgaria,20847,Varna,Puerto Rico,13610,Guanica,5372
+Bulgaria,20847,Varna,Ecuador,29876,Guayaquil,7150
+Bulgaria,20847,Varna,Canada,22226,Halifax,4663
+Bulgaria,20847,Varna,Germany,224858,Hamburg,3563
+Bulgaria,20847,Varna,Finland,16485,Helsinki,4411
+Bulgaria,20847,Varna,Slovenia,24795,Izola,1297
+Bulgaria,20847,Varna,Russia,11771,Kaliningrad,4162
+Bulgaria,20847,Varna,Slovenia,21381,Koper,1297
+Bulgaria,20847,Varna,Finland,16737,Kotka,4466
+Bulgaria,20847,Varna,Cyprus,10136,Larnaca,875
+Bulgaria,20847,Varna,Portugal,13012,Leixoes,2403
+Bulgaria,20847,Varna,United Kingdom,29002,Liverpool,3215
+Bulgaria,20847,Varna,United Kingdom,29239,London,3269
+Bulgaria,20847,Varna,United States of America,14635,Los Angeles,9225
+Bulgaria,20847,Varna,Sweden,20512,Lysekil,3745
+Bulgaria,20847,Varna,Mexico,14277,Manzanillo,8038
+Bulgaria,20847,Varna,Venezuela,19974,Maracaibo,5834
+Bulgaria,20847,Varna,Peru,10860,Matarani,8088
+Bulgaria,20847,Varna,Turkey,22522,Mersin,899
+Bulgaria,20847,Varna,Monaco,21457,Monaco,1462
+Bulgaria,20847,Varna,Uruguay,17941,Montevideo,7141
+Bulgaria,20847,Varna,Norway,27728,Narvik,4357
+Bulgaria,20847,Varna,United States of America,25007,New Jersey,5162
+Bulgaria,20847,Varna,Greece,21852,Piraeus,501
+Bulgaria,20847,Varna,Slovenia,22770,Piran,1297
+Bulgaria,20847,Varna,Georgia,18682,Poti,613
+Bulgaria,20847,Varna,Costa Rica,28781,Puerto Limon,6407
+Bulgaria,20847,Varna,Guatemala,29973,Puerto Quetzal,7202
+Bulgaria,20847,Varna,Croatia,24951,Rijeka,1261
+Bulgaria,20847,Varna,Germany,20072,Rostock,3970
+Bulgaria,20847,Varna,Puerto Rico,13756,San Juan,5303
+Bulgaria,20847,Varna,Chile,27792,San Vicente,9115
+Bulgaria,20847,Varna,Portugal,13390,Setubal,2233
+Bulgaria,20847,Varna,Croatia,21556,Split,1140
+Bulgaria,20847,Varna,Russia,18454,St Petersburg,4552
+Bulgaria,20847,Varna,Sweden,21206,Stockholm,4283
+Bulgaria,20847,Varna,Estonia,18867,Tallinn,4390
+Bulgaria,20847,Varna,Spain,18937,Valencia,1699
+Bulgaria,20847,Varna,Chile,28082,Valparaiso,8928
+Bulgaria,20847,Varna,Canada,25350,Vancouver,10334
+Bulgaria,20847,Varna,Italy,13176,Venice,1318
+Bulgaria,20847,Varna,Mexico,21451,Veracruz,6768
+Bulgaria,20847,Varna,Netherlands,23247,Vlissingen,3265
+Italy,13176,Venice,Turkey,246265,Ambarli,1154
+Italy,13176,Venice,Panama,216593,Balboa,6028
+Italy,13176,Venice,Spain,17386,Barcelona,1316
+Italy,13176,Venice,Norway,26147,Bergen,3476
+Italy,13176,Venice,Tunisia,23448,Bizerte,934
+Italy,13176,Venice,Peru,30045,Callao,7368
+Italy,13176,Venice,Romania,14459,Constantza,1365
+Italy,13176,Venice,Panama,216592,Cristobal,5989
+Italy,13176,Venice,Ukraine,213737,Feodosia,1560
+Italy,13176,Venice,Portugal,23428,Funchal,2272
+Italy,13176,Venice,Tunisia,23495,Gabes,985
+Italy,13176,Venice,Romania,14470,Galatz,1489
+Italy,13176,Venice,Poland,12543,Gdansk,3842
+Italy,13176,Venice,Puerto Rico,13610,Guanica,5087
+Italy,13176,Venice,Slovenia,24795,Izola,60
+Italy,13176,Venice,Russia,11771,Kaliningrad,3877
+Italy,13176,Venice,Slovenia,21381,Koper,60
+Italy,13176,Venice,Portugal,13012,Leixoes,2118
+Italy,13176,Venice,United Kingdom,29002,Liverpool,2930
+Italy,13176,Venice,United Kingdom,29239,London,2984
+Italy,13176,Venice,United States of America,14635,Los Angeles,8940
+Italy,13176,Venice,Sweden,20512,Lysekil,3460
+Italy,13176,Venice,Mexico,14277,Manzanillo,7753
+Italy,13176,Venice,Venezuela,19974,Maracaibo,5549
+Italy,13176,Venice,Peru,10860,Matarani,7803
+Italy,13176,Venice,Turkey,22522,Mersin,1335
+Italy,13176,Venice,Monaco,21457,Monaco,1155
+Italy,13176,Venice,Uruguay,17941,Montevideo,6856
+Italy,13176,Venice,Norway,27728,Narvik,4072
+Italy,13176,Venice,United States of America,25007,New Jersey,4877
+Italy,13176,Venice,Slovenia,22770,Piran,60
+Italy,13176,Venice,Puerto Rico,13756,San Juan,5018
+Italy,13176,Venice,Portugal,13390,Setubal,1948
+Italy,13176,Venice,Russia,18454,St Petersburg,4267
+Italy,13176,Venice,Sweden,21206,Stockholm,3998
+Italy,13176,Venice,Spain,18937,Valencia,1404
+Italy,13176,Venice,Mexico,21451,Veracruz,6483
+Italy,13176,Venice,Netherlands,23247,Vlissingen,2980
+Mexico,21451,Veracruz,Turkey,246265,Ambarli,6604
+Mexico,21451,Veracruz,Panama,216593,Balboa,1449
+Mexico,21451,Veracruz,Spain,17386,Barcelona,5334
+Mexico,21451,Veracruz,Norway,26147,Bergen,5059
+Mexico,21451,Veracruz,Tunisia,23448,Bizerte,5562
+Mexico,21451,Veracruz,Peru,30045,Callao,2789
+Mexico,21451,Veracruz,Romania,14459,Constantza,6815
+Mexico,21451,Veracruz,Panama,216592,Cristobal,1410
+Mexico,21451,Veracruz,Ukraine,213737,Feodosia,7010
+Mexico,21451,Veracruz,Tunisia,23495,Gabes,5854
+Mexico,21451,Veracruz,Romania,14470,Galatz,6939
+Mexico,21451,Veracruz,Poland,12543,Gdansk,5635
+Mexico,21451,Veracruz,Puerto Rico,13610,Guanica,1728
+Mexico,21451,Veracruz,Slovenia,24795,Izola,6463
+Mexico,21451,Veracruz,Russia,11771,Kaliningrad,5670
+Mexico,21451,Veracruz,Slovenia,21381,Koper,6463
+Mexico,21451,Veracruz,Portugal,13012,Leixoes,4613
+Mexico,21451,Veracruz,United Kingdom,29002,Liverpool,4836
+Mexico,21451,Veracruz,United Kingdom,29239,London,5063
+Mexico,21451,Veracruz,United States of America,14635,Los Angeles,4361
+Mexico,21451,Veracruz,Sweden,20512,Lysekil,5242
+Mexico,21451,Veracruz,Venezuela,19974,Maracaibo,1740
+Mexico,21451,Veracruz,Peru,10860,Matarani,3224
+Mexico,21451,Veracruz,Turkey,22522,Mersin,6780
+Mexico,21451,Veracruz,Monaco,21457,Monaco,5588
+Mexico,21451,Veracruz,Uruguay,17941,Montevideo,6256
+Mexico,21451,Veracruz,Norway,27728,Narvik,5460
+Mexico,21451,Veracruz,United States of America,25007,New Jersey,1965
+Mexico,21451,Veracruz,Slovenia,22770,Piran,6463
+Mexico,21451,Veracruz,Puerto Rico,13756,San Juan,1754
+Mexico,21451,Veracruz,Portugal,13390,Setubal,4617
+Mexico,21451,Veracruz,Russia,18454,St Petersburg,6060
+Mexico,21451,Veracruz,Sweden,21206,Stockholm,5791
+Mexico,21451,Veracruz,Spain,18937,Valencia,5206
+Mexico,21451,Veracruz,Netherlands,23247,Vlissingen,5059
+Netherlands,23247,Vlissingen,Turkey,246265,Ambarli,3101
+Netherlands,23247,Vlissingen,Panama,216593,Balboa,4795
+Netherlands,23247,Vlissingen,Spain,17386,Barcelona,1831
+Netherlands,23247,Vlissingen,Norway,26147,Bergen,585
+Netherlands,23247,Vlissingen,Tunisia,23448,Bizerte,2059
+Netherlands,23247,Vlissingen,Peru,30045,Callao,6135
+Netherlands,23247,Vlissingen,Romania,14459,Constantza,3312
+Netherlands,23247,Vlissingen,Panama,216592,Cristobal,4756
+Netherlands,23247,Vlissingen,Ukraine,213737,Feodosia,3507
+Netherlands,23247,Vlissingen,Tunisia,23495,Gabes,2351
+Netherlands,23247,Vlissingen,Romania,14470,Galatz,3436
+Netherlands,23247,Vlissingen,Poland,12543,Gdansk,920
+Netherlands,23247,Vlissingen,Puerto Rico,13610,Guanica,3892
+Netherlands,23247,Vlissingen,Slovenia,24795,Izola,2960
+Netherlands,23247,Vlissingen,Russia,11771,Kaliningrad,955
+Netherlands,23247,Vlissingen,Slovenia,21381,Koper,2960
+Netherlands,23247,Vlissingen,Portugal,13012,Leixoes,885
+Netherlands,23247,Vlissingen,United Kingdom,29002,Liverpool,648
+Netherlands,23247,Vlissingen,United Kingdom,29239,London,146
+Netherlands,23247,Vlissingen,United States of America,14635,Los Angeles,7707
+Netherlands,23247,Vlissingen,Sweden,20512,Lysekil,538
+Netherlands,23247,Vlissingen,Venezuela,19974,Maracaibo,4376
+Netherlands,23247,Vlissingen,Peru,10860,Matarani,6570
+Netherlands,23247,Vlissingen,Turkey,22522,Mersin,3277
+Netherlands,23247,Vlissingen,Uruguay,17941,Montevideo,6199
+Netherlands,23247,Vlissingen,Norway,27728,Narvik,1180
+Netherlands,23247,Vlissingen,United States of America,25007,New Jersey,3345
+Netherlands,23247,Vlissingen,Slovenia,22770,Piran,2960
+Netherlands,23247,Vlissingen,Puerto Rico,13756,San Juan,3803
+Netherlands,23247,Vlissingen,Portugal,13390,Setubal,1067
+Netherlands,23247,Vlissingen,Russia,18454,St Petersburg,1345
+Netherlands,23247,Vlissingen,Sweden,21206,Stockholm,1076
+Netherlands,23247,Vlissingen,Spain,18937,Valencia,1703
+Albania,228264,Vlone,Denmark,10358,Aarhus,3168
+Albania,228264,Vlone,Algeria,13523,Algiers,872
+Albania,228264,Vlone,Turkey,246265,Ambarli,738
+Albania,228264,Vlone,Belgium,19057,Antwerp,2646
+Albania,228264,Vlone,Greece,21863,Aspropyrgos,448
+Albania,228264,Vlone,Argentina,14113,Bahia Blanca,6847
+Albania,228264,Vlone,Panama,216593,Balboa,5644
+Albania,228264,Vlone,Spain,17386,Barcelona,932
+Albania,228264,Vlone,Georgia,18137,Batumi,1339
+Albania,228264,Vlone,Norway,26147,Bergen,3092
+Albania,228264,Vlone,Tunisia,23448,Bizerte,550
+Albania,228264,Vlone,Bulgaria,20826,Bourgas,879
+Albania,228264,Vlone,France,18012,Brest,2222
+Albania,228264,Vlone,Colombia,28261,Buenaventura,5998
+Albania,228264,Vlone,Argentina,26670,Buenos Aires,6569
+Albania,228264,Vlone,Peru,30045,Callao,6984
+Albania,228264,Vlone,Colombia,28313,Cartagena,5379
+Albania,228264,Vlone,Romania,14459,Constantza,949
+Albania,228264,Vlone,Denmark,10563,Copenhagen,3192
+Albania,228264,Vlone,Panama,216592,Cristobal,5605
+Albania,228264,Vlone,El Salvador,15107,Cutuco,6385
+Albania,228264,Vlone,Ireland,29749,Dublin,2476
+Albania,228264,Vlone,France,18326,Dunkirk,2542
+Albania,228264,Vlone,Ecuador,14226,Esmeraldas,6124
+Albania,228264,Vlone,Ukraine,213737,Feodosia,1144
+Albania,228264,Vlone,Portugal,23428,Funchal,1888
+Albania,228264,Vlone,Tunisia,23495,Gabes,598
+Albania,228264,Vlone,Romania,14470,Galatz,1073
+Albania,228264,Vlone,Poland,12543,Gdansk,3458
+Albania,228264,Vlone,Italy,11174,Genoa,743
+Albania,228264,Vlone,Puerto Rico,13610,Guanica,4703
+Albania,228264,Vlone,Ecuador,29876,Guayaquil,6481
+Albania,228264,Vlone,Canada,22226,Halifax,3994
+Albania,228264,Vlone,Germany,224858,Hamburg,2894
+Albania,228264,Vlone,Finland,16485,Helsinki,3742
+Albania,228264,Vlone,Portugal,18433,Horta,2404
+Albania,228264,Vlone,Slovenia,24795,Izola,431
+Albania,228264,Vlone,Russia,11771,Kaliningrad,3493
+Albania,228264,Vlone,Slovenia,21381,Koper,431
+Albania,228264,Vlone,Finland,16737,Kotka,3797
+Albania,228264,Vlone,Cyprus,10136,Larnaca,882
+Albania,228264,Vlone,Portugal,13012,Leixoes,1734
+Albania,228264,Vlone,United Kingdom,29002,Liverpool,2546
+Albania,228264,Vlone,United Kingdom,29239,London,2600
+Albania,228264,Vlone,United States of America,14635,Los Angeles,8556
+Albania,228264,Vlone,Sweden,20512,Lysekil,3076
+Albania,228264,Vlone,Mexico,14277,Manzanillo,7369
+Albania,228264,Vlone,Venezuela,19974,Maracaibo,5165
+Albania,228264,Vlone,Peru,10860,Matarani,7419
+Albania,228264,Vlone,Turkey,22522,Mersin,920
+Albania,228264,Vlone,Monaco,21457,Monaco,771
+Albania,228264,Vlone,Uruguay,17941,Montevideo,6472
+Albania,228264,Vlone,Norway,27728,Narvik,3688
+Albania,228264,Vlone,United States of America,25007,New Jersey,4493
+Albania,228264,Vlone,Greece,21852,Piraeus,440
+Albania,228264,Vlone,Slovenia,22770,Piran,431
+Albania,228264,Vlone,Portugal,18476,Ponta Delgada,2262
+Albania,228264,Vlone,Georgia,18682,Poti,1356
+Albania,228264,Vlone,Costa Rica,28781,Puerto Limon,5738
+Albania,228264,Vlone,Guatemala,29973,Puerto Quetzal,6533
+Albania,228264,Vlone,Croatia,24951,Rijeka,395
+Albania,228264,Vlone,Brazil,20301,Rio Grande,6178
+Albania,228264,Vlone,Germany,20072,Rostock,3301
+Albania,228264,Vlone,Brazil,20351,Salvador,4792
+Albania,228264,Vlone,Puerto Rico,13756,San Juan,4634
+Albania,228264,Vlone,Chile,27792,San Vicente,8446
+Albania,228264,Vlone,Brazil,27248,Santos,5657
+Albania,228264,Vlone,Portugal,13390,Setubal,1564
+Albania,228264,Vlone,Algeria,15990,Skikda,699
+Albania,228264,Vlone,Croatia,21556,Split,271
+Albania,228264,Vlone,Russia,18454,St Petersburg,3883
+Albania,228264,Vlone,Sweden,21206,Stockholm,3614
+Albania,228264,Vlone,Estonia,18867,Tallinn,3721
+Albania,228264,Vlone,Spain,18937,Valencia,1020
+Albania,228264,Vlone,Chile,28082,Valparaiso,8259
+Albania,228264,Vlone,Canada,25350,Vancouver,9665
+Albania,228264,Vlone,Bulgaria,20847,Varna,902
+Albania,228264,Vlone,Italy,13176,Venice,451
+Albania,228264,Vlone,Mexico,21451,Veracruz,6099
+Albania,228264,Vlone,Netherlands,23247,Vlissingen,2596
+Albania,228264,Vlone,Belgium,19473,Zeebrugge,2575
+Albania,18200,Vlore,Denmark,10358,Aarhus,3168
+Albania,18200,Vlore,Algeria,13523,Algiers,872
+Albania,18200,Vlore,Turkey,246265,Ambarli,738
+Albania,18200,Vlore,Belgium,19057,Antwerp,2646
+Albania,18200,Vlore,Greece,21863,Aspropyrgos,448
+Albania,18200,Vlore,Argentina,14113,Bahia Blanca,6847
+Albania,18200,Vlore,Panama,216593,Balboa,5644
+Albania,18200,Vlore,Spain,17386,Barcelona,932
+Albania,18200,Vlore,Georgia,18137,Batumi,1339
+Albania,18200,Vlore,Norway,26147,Bergen,3092
+Albania,18200,Vlore,Tunisia,23448,Bizerte,550
+Albania,18200,Vlore,Bulgaria,20826,Bourgas,879
+Albania,18200,Vlore,France,18012,Brest,2222
+Albania,18200,Vlore,Colombia,28261,Buenaventura,5998
+Albania,18200,Vlore,Argentina,26670,Buenos Aires,6569
+Albania,18200,Vlore,Peru,30045,Callao,6984
+Albania,18200,Vlore,Colombia,28313,Cartagena,5379
+Albania,18200,Vlore,Romania,14459,Constantza,949
+Albania,18200,Vlore,Denmark,10563,Copenhagen,3192
+Albania,18200,Vlore,Panama,216592,Cristobal,5605
+Albania,18200,Vlore,El Salvador,15107,Cutuco,6385
+Albania,18200,Vlore,Ireland,29749,Dublin,2476
+Albania,18200,Vlore,France,18326,Dunkirk,2542
+Albania,18200,Vlore,Ecuador,14226,Esmeraldas,6124
+Albania,18200,Vlore,Ukraine,213737,Feodosia,1144
+Albania,18200,Vlore,Portugal,23428,Funchal,1888
+Albania,18200,Vlore,Tunisia,23495,Gabes,598
+Albania,18200,Vlore,Romania,14470,Galatz,1073
+Albania,18200,Vlore,Poland,12543,Gdansk,3458
+Albania,18200,Vlore,Italy,11174,Genoa,743
+Albania,18200,Vlore,Puerto Rico,13610,Guanica,4703
+Albania,18200,Vlore,Ecuador,29876,Guayaquil,6481
+Albania,18200,Vlore,Canada,22226,Halifax,3994
+Albania,18200,Vlore,Germany,224858,Hamburg,2894
+Albania,18200,Vlore,Finland,16485,Helsinki,3742
+Albania,18200,Vlore,Portugal,18433,Horta,2404
+Albania,18200,Vlore,Slovenia,24795,Izola,431
+Albania,18200,Vlore,Russia,11771,Kaliningrad,3493
+Albania,18200,Vlore,Slovenia,21381,Koper,431
+Albania,18200,Vlore,Finland,16737,Kotka,3797
+Albania,18200,Vlore,Cyprus,10136,Larnaca,882
+Albania,18200,Vlore,Portugal,13012,Leixoes,1734
+Albania,18200,Vlore,United Kingdom,29002,Liverpool,2546
+Albania,18200,Vlore,United Kingdom,29239,London,2600
+Albania,18200,Vlore,United States of America,14635,Los Angeles,8556
+Albania,18200,Vlore,Sweden,20512,Lysekil,3076
+Albania,18200,Vlore,Mexico,14277,Manzanillo,7369
+Albania,18200,Vlore,Venezuela,19974,Maracaibo,5165
+Albania,18200,Vlore,Peru,10860,Matarani,7419
+Albania,18200,Vlore,Turkey,22522,Mersin,920
+Albania,18200,Vlore,Monaco,21457,Monaco,771
+Albania,18200,Vlore,Uruguay,17941,Montevideo,6472
+Albania,18200,Vlore,Norway,27728,Narvik,3688
+Albania,18200,Vlore,United States of America,25007,New Jersey,4493
+Albania,18200,Vlore,Greece,21852,Piraeus,440
+Albania,18200,Vlore,Slovenia,22770,Piran,431
+Albania,18200,Vlore,Portugal,18476,Ponta Delgada,2262
+Albania,18200,Vlore,Georgia,18682,Poti,1356
+Albania,18200,Vlore,Costa Rica,28781,Puerto Limon,5738
+Albania,18200,Vlore,Guatemala,29973,Puerto Quetzal,6533
+Albania,18200,Vlore,Croatia,24951,Rijeka,395
+Albania,18200,Vlore,Brazil,20301,Rio Grande,6178
+Albania,18200,Vlore,Germany,20072,Rostock,3301
+Albania,18200,Vlore,Brazil,20351,Salvador,4792
+Albania,18200,Vlore,Puerto Rico,13756,San Juan,4634
+Albania,18200,Vlore,Chile,27792,San Vicente,8446
+Albania,18200,Vlore,Brazil,27248,Santos,5657
+Albania,18200,Vlore,Portugal,13390,Setubal,1564
+Albania,18200,Vlore,Algeria,15990,Skikda,699
+Albania,18200,Vlore,Croatia,21556,Split,271
+Albania,18200,Vlore,Russia,18454,St Petersburg,3883
+Albania,18200,Vlore,Sweden,21206,Stockholm,3614
+Albania,18200,Vlore,Estonia,18867,Tallinn,3721
+Albania,18200,Vlore,Spain,18937,Valencia,1020
+Albania,18200,Vlore,Chile,28082,Valparaiso,8259
+Albania,18200,Vlore,Canada,25350,Vancouver,9665
+Albania,18200,Vlore,Bulgaria,20847,Varna,902
+Albania,18200,Vlore,Italy,13176,Venice,451
+Albania,18200,Vlore,Mexico,21451,Veracruz,6099
+Albania,18200,Vlore,Netherlands,23247,Vlissingen,2596
+Albania,18200,Vlore,Belgium,19473,Zeebrugge,2575
+Belgium,19473,Zeebrugge,Denmark,10358,Aarhus,627
+Belgium,19473,Zeebrugge,Turkey,246265,Ambarli,3080
+Belgium,19473,Zeebrugge,Greece,21863,Aspropyrgos,2784
+Belgium,19473,Zeebrugge,Panama,216593,Balboa,4774
+Belgium,19473,Zeebrugge,Spain,17386,Barcelona,1810
+Belgium,19473,Zeebrugge,Georgia,18137,Batumi,3681
+Belgium,19473,Zeebrugge,Norway,26147,Bergen,577
+Belgium,19473,Zeebrugge,Tunisia,23448,Bizerte,2038
+Belgium,19473,Zeebrugge,Bulgaria,20826,Bourgas,3221
+Belgium,19473,Zeebrugge,France,18012,Brest,411
+Belgium,19473,Zeebrugge,Colombia,28261,Buenaventura,5128
+Belgium,19473,Zeebrugge,Peru,30045,Callao,6114
+Belgium,19473,Zeebrugge,Colombia,28313,Cartagena,4520
+Belgium,19473,Zeebrugge,Romania,14459,Constantza,3291
+Belgium,19473,Zeebrugge,Denmark,10563,Copenhagen,651
+Belgium,19473,Zeebrugge,Panama,216592,Cristobal,4735
+Belgium,19473,Zeebrugge,El Salvador,15107,Cutuco,5515
+Belgium,19473,Zeebrugge,Ireland,29749,Dublin,562
+Belgium,19473,Zeebrugge,France,18326,Dunkirk,76
+Belgium,19473,Zeebrugge,Ecuador,14226,Esmeraldas,5254
+Belgium,19473,Zeebrugge,Ukraine,213737,Feodosia,3486
+Belgium,19473,Zeebrugge,Portugal,23428,Funchal,1465
+Belgium,19473,Zeebrugge,Tunisia,23495,Gabes,2330
+Belgium,19473,Zeebrugge,Romania,14470,Galatz,3415
+Belgium,19473,Zeebrugge,Poland,12543,Gdansk,917
+Belgium,19473,Zeebrugge,Italy,11174,Genoa,2142
+Belgium,19473,Zeebrugge,Puerto Rico,13610,Guanica,3871
+Belgium,19473,Zeebrugge,Ecuador,29876,Guayaquil,5611
+Belgium,19473,Zeebrugge,Canada,22226,Halifax,2716
+Belgium,19473,Zeebrugge,Germany,224858,Hamburg,347
+Belgium,19473,Zeebrugge,Finland,16485,Helsinki,1201
+Belgium,19473,Zeebrugge,Slovenia,24795,Izola,2939
+Belgium,19473,Zeebrugge,Russia,11771,Kaliningrad,952
+Belgium,19473,Zeebrugge,Slovenia,21381,Koper,2939
+Belgium,19473,Zeebrugge,Finland,16737,Kotka,1256
+Belgium,19473,Zeebrugge,Cyprus,10136,Larnaca,3216
+Belgium,19473,Zeebrugge,Portugal,13012,Leixoes,864
+Belgium,19473,Zeebrugge,United Kingdom,29002,Liverpool,627
+Belgium,19473,Zeebrugge,United Kingdom,29239,London,124
+Belgium,19473,Zeebrugge,United States of America of America,14635,Los Angeles,7686
+Belgium,19473,Zeebrugge,Sweden,20512,Lysekil,535
+Belgium,19473,Zeebrugge,Mexico,14277,Manzanillo,6499
+Belgium,19473,Zeebrugge,Venezuela,19974,Maracaibo,4355
+Belgium,19473,Zeebrugge,Peru,10860,Matarani,6549
+Belgium,19473,Zeebrugge,Turkey,22522,Mersin,3256
+Belgium,19473,Zeebrugge,Monaco,21457,Monaco,2064
+Belgium,19473,Zeebrugge,Uruguay,17941,Montevideo,6178
+Belgium,19473,Zeebrugge,Norway,27728,Narvik,1170
+Belgium,19473,Zeebrugge,United States of America of America,25007,New Jersey,3324
+Belgium,19473,Zeebrugge,Greece,21852,Piraeus,2776
+Belgium,19473,Zeebrugge,Slovenia,22770,Piran,2939
+Belgium,19473,Zeebrugge,Georgia,18682,Poti,3698
+Belgium,19473,Zeebrugge,Costa Rica,28781,Puerto Limon,4819
+Belgium,19473,Zeebrugge,Guatemala,29973,Puerto Quetzal,5663
+Belgium,19473,Zeebrugge,Croatia,24951,Rijeka,2903
+Belgium,19473,Zeebrugge,Brazil,20301,Rio Grande,5885
+Belgium,19473,Zeebrugge,Germany,20072,Rostock,760
+Belgium,19473,Zeebrugge,Brazil,20351,Salvador,4492
+Belgium,19473,Zeebrugge,Puerto Rico,13756,San Juan,3782
+Belgium,19473,Zeebrugge,Chile,27792,San Vicente,7576
+Belgium,19473,Zeebrugge,Brazil,27248,Santos,5364
+Belgium,19473,Zeebrugge,Portugal,13390,Setubal,1046
+Belgium,19473,Zeebrugge,Croatia,21556,Split,2783
+Belgium,19473,Zeebrugge,Russia,18454,St Petersburg,1342
+Belgium,19473,Zeebrugge,Sweden,21206,Stockholm,1073
+Belgium,19473,Zeebrugge,Estonia,18867,Tallinn,1180
+Belgium,19473,Zeebrugge,Spain,18937,Valencia,1682
+Belgium,19473,Zeebrugge,Chile,28082,Valparaiso,7389
+Belgium,19473,Zeebrugge,Canada,25350,Vancouver,8795
+Belgium,19473,Zeebrugge,Bulgaria,20847,Varna,3244
+Belgium,19473,Zeebrugge,Italy,13176,Venice,2959
+Belgium,19473,Zeebrugge,Mexico,21451,Veracruz,5038
+Belgium,19473,Zeebrugge,Netherlands,23247,Vlissingen,37
+Iceland,11180,Grundartangi,Norway,26147,Bergen,887

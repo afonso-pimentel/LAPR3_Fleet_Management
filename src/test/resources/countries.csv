@@ -1,0 +1,69 @@
+Continent,Alpha2-Code,Alpha3-Code,Country,Population,Capital,Latitude,Longitude
+Europe,CY,CYP,Cyprus,0.85,Nicosia,35.16666667,33.366667
+Europe,MT,MLT,Malta,0.44,Valletta,35.88333333,14.5
+Europe,GR,GRC,Greece,10.76,Athens,37.98333333,23.733333
+Europe,PT,PRT,Portugal,10.31,Lisbon,38.71666667,-9.133333
+Europe,TR,TUR,Turkey,79.81,Ankara,39.93333333,32.866667
+Europe,AM,ARM,Armenia,3.01,Yerevan,40.16666667,44.5
+Europe,ES,ESP,Spain,46.53,Madrid,40.4,-3.683333
+Europe,AL,ALB,Albania,2.88,Tirana,41.31666667,19.816667
+Europe,GE,GEO,Georgia,3.71,Tbilisi,41.68333333,44.833333
+Europe,IT,ITA,Italy,60.59,Rome,41.9,12.483333
+Europe,MK,MKD,Macedonia,2.07,Skopje,42,21.433333
+Europe,ME,MNE,Montenegro,0.62,Podgorica,42.43333333,19.266667
+Europe,KO,KOS,Kosovo,1.77,Pristina,42.66666667,21.166667
+Europe,BG,BGR,Bulgaria,7.1,Sofia,42.68333333,23.316667
+Europe,MC,MCO,Monaco,0.04,Monaco,43.73333333,7.416667
+Europe,BA,BIH,Bosnia,3.75,Sarajevo,43.86666667,18.416667
+Europe,RO,ROU,Romania,19.64,Bucharest,44.43333333,26.1
+Europe,RS,SRB,Serbia,7.04,Belgrade,44.83333333,20.5
+Europe,HR,HRV,Croatia,4.15,Zagreb,45.8,16
+Europe,SI,SVN,Slovenia,2.06,Ljubljana,46.05,14.516667
+Europe,CH,CHE,Switzerland,8.42,Bern,46.91666667,7.466667
+Europe,MD,MDA,Moldova,3.55,Chisinau,47,28.85
+Europe,LI,LIE,Liechtenstein,0.04,Vaduz,47.13333333,9.516667
+Europe,HU,HUN,Hungary,9.8,Budapest,47.5,19.083333
+Europe,SK,SVK,Slovakia,5.44,Bratislava,48.15,17.116667
+Europe,AT,AUT,Austria,8.77,Vienna,48.2,16.366667
+Europe,FR,FRA,France,66.99,Paris,48.86666667,2.333333
+Europe,LU,LUX,Luxembourg,0.59,Luxembourg,49.6,6.116667
+Europe,CZ,CZE,Czech Republic,10.57,Prague,50.08333333,14.466667
+Europe,UA,UKR,Ukraine,42.59,Kyiv,50.43333333,30.516667
+Europe,BE,BEL,Belgium,11.37,Brussels,50.83333333,4.333333
+Europe,GB,GBR,United Kingdom,65.81,London,51.5,-0.083333
+Europe,PL,POL,Poland,38.42,Warsaw,52.25,21
+Europe,NL,NLD,Netherlands,17.08,Amsterdam,52.35,4.916667
+Europe,DE,DEU,Germany,82.8,Berlin,52.51666667,13.4
+Europe,IE,IRL,Ireland,4.77,Dublin,53.31666667,-6.233333
+Europe,BY,BLR,Belarus,9.48,Minsk,53.9,27.566667
+Europe,LT,LTU,Lithuania,2.85,Vilnius,54.68333333,25.316667
+Europe,DK,DNK,Denmark,5.75,Copenhagen,55.66666667,12.583333
+Europe,RU,RUS,Russia,146.5,Moscow,55.75,37.6
+Europe,LV,LVA,Latvia,1.98,Riga,56.95,24.1
+Europe,SE,SWE,Sweden,10,Stockholm,59.33333333,18.05
+Europe,EE,EST,Estonia,1.32,Tallinn,59.43333333,24.716667
+Europe,NO,NOR,Norway,5.26,Oslo,59.91666667,10.75
+Europe,FI,FIN,Finland,5.5,Helsinki,60.16666667,24.933333
+Europe,IS,ISL,Iceland,0.34,Reykjavik,64.15,-21.95
+America,MX,MEX,Mexico,128.9,Mexico City,19.43333333,-99.133333
+America,CA,CAN,Canada,37.7,Ottawa,45.41666667,-75.7
+America,US,USA,United States of America,331,Washington,38.89511,-77.03637
+America,PA,PAN,Panama,4.3,Panama City,8.966666667,-79.533333
+America,CR,CRI,Costa Rica,5.1,San Jose,9.933333333,-84.083333
+America,NI,NIC,Nicaragua,6.6,Managua,12.13333333,-86.25
+America,SV,SLV,El Salvador,6.48,San Salvador,13.7,-89.2
+America,HN,HND,Honduras,9.9,Tegucigalpa,14.1,-87.216667
+America,GT,GTM,Guatemala,17.91,Guatemala City,14.61666667,-90.516667
+America,BZ,BLZ,Belize,397.6,Belmopan,17.25,-88.766667
+America,UY,URY,Uruguay,3.35,Montevideo,-34.85,-56.166667
+America,AR,ARG,Argentina,41.67,Buenos Aires,-34.58333333,-58.666667
+America,CL,CHL,Chile,16.8,Santiago,-33.45,-70.666667
+America,PY,PRY,Paraguay,6.24,Asuncion,-25.26666667,-57.666667
+America,BO,BOL,Bolivia,9.7,La Paz,-16.5,-68.15
+America,BR,BRA,Brazil,206.12,Brasilia,-15.78333333,-47.916667
+America,PE,PER,Peru,28.22,Lima,-12.05,-77.05
+America,EC,ECU,Ecuador,14.88,Quito,-0.216666667,-78.5
+America,CO,COL,Colombia,46.86,Bogota,4.6,-74.083333
+America,SR,SUR,Suriname,0.04,Paramaribo,5.833333333,-55.166667
+America,GY,GUY,Guyana,786.5,Georgetown,6.8,-58.15
+America,VE,VEN,Venezuela,31.02,Caracas,10.48333333,-66.866667
